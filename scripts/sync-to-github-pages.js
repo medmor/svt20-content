@@ -10,7 +10,7 @@ dotenv.config();
 
 // Configuration
 const CONTENT_REPO_PATH = process.env.CONTENT_REPO_PATH || '../svt20-content';
-const BASE_URL = 'https://yourusername.github.io/svt20-content';
+const BASE_URL = 'https://medmor.github.io/svt20-content';
 
 const supabase = createClient(
   process.env.NEXT_PUBLIC_SUPABASE_URL,
