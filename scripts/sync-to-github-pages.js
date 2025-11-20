@@ -23,6 +23,30 @@ const EXERCISES_DIR = path.join(CONTENT_REPO_PATH, 'exercises');
 const EXAMS_DIR = path.join(CONTENT_REPO_PATH, 'exams');
 const CONSEILS_DIR = path.join(CONTENT_REPO_PATH, 'conseils');
 const IMAGES_DIR = path.join(CONTENT_REPO_PATH, 'images');
+const SYNC_STATE_FILE = path.join(CONTENT_REPO_PATH, 'sync-state.json');
+
+// ==================== SYNC STATE MANAGEMENT ====================
+async function loadSyncState() {
+  try {
+    const data = await fs.readFile(SYNC_STATE_FILE, 'utf-8');
+    return JSON.parse(data);
+  } catch (error) {
+    // File doesn't exist or is invalid, return empty state
+    return { documents: {} };
+  }
+}
+
+async function saveSyncState(state) {
+  await fs.writeFile(SYNC_STATE_FILE, JSON.stringify(state, null, 2), 'utf-8');
+}
+
+function shouldSync(docId, currentModifiedTime, syncState) {
+  const lastModifiedTime = syncState.documents[docId];
+  if (!lastModifiedTime) {
+    return true; // Never synced before
+  }
+  return new Date(currentModifiedTime) > new Date(lastModifiedTime);
+}
 
 async function ensureDirectories() {
   await fs.mkdir(CHAPTERS_DIR, { recursive: true });
@@ -44,24 +68,32 @@ async function syncAllContent() {
 
   await ensureDirectories();
 
+  // Load sync state
+  const syncState = await loadSyncState();
+
   // Sync all content types
-  await syncChapters();
-  await syncExercises();
-  await syncExams();
-  await syncConseils();
+  await syncChapters(syncState);
+  await syncExercises(syncState);
+  await syncExams(syncState);
+  await syncConseils(syncState);
+
+  // Save updated sync state
+  await saveSyncState(syncState);
 
   // Generate index files for each directory
   await generateIndexFiles();
 
-  // Commit and push to GitHub
-  await commitAndPush();
+  // Commit and push to GitHub (skip in CI, handled by workflow)
+  if (!process.env.CI) {
+    await commitAndPush();
+  }
 
-  console.log('\n✅ Content synced and pushed to GitHub Pages!');
+  console.log('\n✅ Content synced successfully!');
   console.log(`📡 Available at: ${BASE_URL}`);
 }
 
 // ==================== SYNC CHAPTERS ====================
-async function syncChapters() {
+async function syncChapters(syncState) {
   console.log('📚 Syncing chapters...');
   
   const { data: chapters, error } = await supabase
@@ -78,27 +110,46 @@ async function syncChapters() {
     return;
   }
 
+  let syncedCount = 0;
+  let skippedCount = 0;
+
   for (const chapter of chapters) {
     if (!chapter.course) continue;
 
     try {
+      // Get document metadata first
+      const { getDocWithMetadata } = await import('../lib/googleDrive.js');
+      const { id, name, modifiedTime, html } = await getDocWithMetadata(chapter.course);
+      
+      // Check if we need to sync
+      if (!shouldSync(id, modifiedTime, syncState)) {
+        console.log(`  ⏭️  ${chapter.title || chapter.id} (unchanged)`);
+        skippedCount++;
+        continue;
+      }
+      
       console.log(`  📄 ${chapter.title || chapter.id}`);
       
-      const html = await getDocHtml(chapter.course);
       const { updatedHtml, imageCount } = await downloadAndReplaceImages(html, 'chapters', chapter.id);
       
       const filePath = path.join(CHAPTERS_DIR, `${chapter.id}.html`);
       await fs.writeFile(filePath, updatedHtml, 'utf-8');
       
+      // Update sync state
+      syncState.documents[id] = modifiedTime;
+      
       console.log(`  ✅ Saved (${imageCount} images)`);
+      syncedCount++;
     } catch (error) {
       console.error(`  ❌ Failed: ${error.message}`);
     }
   }
+  
+  console.log(`  📊 Synced: ${syncedCount}, Skipped: ${skippedCount}`);
 }
 
 // ==================== SYNC EXERCISES ====================
-async function syncExercises() {
+async function syncExercises(syncState) {
   console.log('\n📝 Syncing exercises...');
   
   const { data: chapters, error } = await supabase
@@ -115,6 +166,9 @@ async function syncExercises() {
     return;
   }
 
+  let syncedCount = 0;
+  let skippedCount = 0;
+
   for (const chapter of chapters) {
     if (!chapter.exercises) continue;
 
@@ -122,6 +176,13 @@ async function syncExercises() {
       const files = await listDocsInFolder(chapter.exercises);
       
       for (const file of files) {
+        // Check if we need to sync using modifiedTime from listDocsInFolder
+        if (!shouldSync(file.id, file.modifiedTime, syncState)) {
+          console.log(`  ⏭️  ${file.name} (unchanged)`);
+          skippedCount++;
+          continue;
+        }
+        
         console.log(`  📄 ${file.name}`);
         
         const html = await getDocHtml(file.id);
@@ -130,19 +191,28 @@ async function syncExercises() {
         const filePath = path.join(EXERCISES_DIR, `${file.id}.html`);
         await fs.writeFile(filePath, updatedHtml, 'utf-8');
         
+        // Update sync state
+        syncState.documents[file.id] = file.modifiedTime;
+        
         console.log(`  ✅ Saved (${imageCount} images)`);
+        syncedCount++;
       }
     } catch (error) {
       console.error(`  ❌ Failed: ${error.message}`);
     }
   }
+  
+  console.log(`  📊 Synced: ${syncedCount}, Skipped: ${skippedCount}`);
 }
 
 // ==================== SYNC EXAMS ====================
-async function syncExams() {
+async function syncExams(syncState) {
   console.log('\n📋 Syncing exams...');
   
   const { googleDocsExams } = await import('../data_samples/ExamData.js');
+  
+  let syncedCount = 0;
+  let skippedCount = 0;
   
   for (const exam of googleDocsExams || []) {
     try {
@@ -152,6 +222,13 @@ async function syncExams() {
       const files = await listDocsInFolder(exam.id);
       
       for (const file of files) {
+        // Check if we need to sync
+        if (!shouldSync(file.id, file.modifiedTime, syncState)) {
+          console.log(`    ⏭️  ${file.name} (unchanged)`);
+          skippedCount++;
+          continue;
+        }
+        
         console.log(`    📄 ${file.name}`);
         
         const html = await getDocHtml(file.id);
@@ -160,37 +237,62 @@ async function syncExams() {
         const filePath = path.join(EXAMS_DIR, `${file.id}.html`);
         await fs.writeFile(filePath, updatedHtml, 'utf-8');
         
+        // Update sync state
+        syncState.documents[file.id] = file.modifiedTime;
+        
         console.log(`    ✅ Saved (${imageCount} images)`);
+        syncedCount++;
       }
     } catch (error) {
       console.error(`  ❌ Failed: ${error.message}`);
     }
   }
+  
+  console.log(`  📊 Synced: ${syncedCount}, Skipped: ${skippedCount}`);
 }
 
 // ==================== SYNC CONSEILS ====================
-async function syncConseils() {
+async function syncConseils(syncState) {
   console.log('\n💡 Syncing conseils...');
   
   const { tipsArticles } = await import('../data_samples/TipsData.js');
+  
+  let syncedCount = 0;
+  let skippedCount = 0;
   
   for (const article of tipsArticles || []) {
     if (!article.docId) continue;
 
     try {
+      // Get document with metadata
+      const { getDocWithMetadata } = await import('../lib/googleDrive.js');
+      const { id, name, modifiedTime, html } = await getDocWithMetadata(article.docId);
+      
+      // Check if we need to sync
+      if (!shouldSync(id, modifiedTime, syncState)) {
+        console.log(`  ⏭️  ${article.title} (unchanged)`);
+        skippedCount++;
+        continue;
+      }
+      
       console.log(`  📄 ${article.title}`);
       
-      const html = await getDocHtml(article.docId);
       const { updatedHtml, imageCount } = await downloadAndReplaceImages(html, 'conseils', article.docId);
       
       const filePath = path.join(CONSEILS_DIR, `${article.docId}.html`);
       await fs.writeFile(filePath, updatedHtml, 'utf-8');
       
+      // Update sync state
+      syncState.documents[id] = modifiedTime;
+      
       console.log(`  ✅ Saved (${imageCount} images)`);
+      syncedCount++;
     } catch (error) {
       console.error(`  ❌ Failed: ${error.message}`);
     }
   }
+  
+  console.log(`  📊 Synced: ${syncedCount}, Skipped: ${skippedCount}`);
 }
 
 // ==================== DOWNLOAD AND REPLACE IMAGES ====================
