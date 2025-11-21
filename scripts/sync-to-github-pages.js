@@ -295,8 +295,33 @@ async function syncConseils(syncState) {
   console.log(`  📊 Synced: ${syncedCount}, Skipped: ${skippedCount}`);
 }
 
+// ==================== CLEANUP OLD IMAGES ====================
+async function cleanupOldImages(category, docId) {
+  try {
+    const files = await fs.readdir(IMAGES_DIR);
+    const pattern = `${category}_${docId}_`;
+    let deletedCount = 0;
+    
+    for (const file of files) {
+      if (file.startsWith(pattern)) {
+        await fs.unlink(path.join(IMAGES_DIR, file));
+        deletedCount++;
+      }
+    }
+    
+    if (deletedCount > 0) {
+      console.log(`    🗑️  Cleaned up ${deletedCount} old images`);
+    }
+  } catch (error) {
+    // Ignore errors (directory might not exist yet)
+  }
+}
+
 // ==================== DOWNLOAD AND REPLACE IMAGES ====================
 async function downloadAndReplaceImages(html, category, docId) {
+  // Clean up old images for this document first
+  await cleanupOldImages(category, docId);
+  
   // Remove /api/image-proxy wrappers that parseDoc adds
   html = html.replace(/\/api\/image-proxy\?url=([^"']+)/g, (match, encodedUrl) => {
     return decodeURIComponent(encodedUrl);
