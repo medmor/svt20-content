@@ -35,6 +35,9 @@ jobs:
           CONTENT_REPO_PATH: ${{ github.workspace }}
         run: npm run sync
       
+      - name: Cleanup unused images
+        run: npm run cleanup-images
+      
       - name: Configure Git
         run: |
           git config --global user.name "GitHub Actions Bot"
