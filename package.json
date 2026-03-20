@@ -3,7 +3,7 @@
   "scripts": {
     "sync": "node scripts/sync-to-github-pages.js",
     "cleanup-images": "node scripts/cleanup-unused-images.js",
-    "migrate": "node scripts/migrate-to-hierarchy.js"
+    "migrate": "node scripts/migrate-from-supabase.js"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.84.0",
