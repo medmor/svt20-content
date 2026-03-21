@@ -1,18 +1,38 @@
 /**
- * svt20-content Migration Script v4
+ * svt20-content Migration Script v5
  * 
- * Fetches structure from Supabase (real schema) and reorganizes flat HTML files
- * into hierarchical structure: levels > units > chapters
+ * Uses Supabase for structure (levels, units, titles) and SQLite for slugs
  */
 
 import { createClient } from '@supabase/supabase-js';
 import fs from 'fs/promises';
 import path from 'path';
 import dotenv from 'dotenv';
+import Database from 'better-sqlite3';
 
 dotenv.config({ path: path.join(process.cwd(), '../svt20/.env') });
 
 const CONTENT_DIR = process.cwd();
+const SRC_DB = path.join(process.cwd(), '../svt20/svt.db');
+
+// Load slug mappings from SQLite
+let slugMap = new Map();
+try {
+  const db = new Database(SRC_DB, { readonly: true });
+  const chapters = db.prepare('SELECT id, title, slug FROM chapters').all();
+  chapters.forEach(c => {
+    // Map chapter ID (UUID) to slug
+    slugMap.set(c.id, { slug: c.slug, title: c.title });
+    // Also map by title for fallback
+    slugMap.set(c.title, { slug: c.slug, title: c.title });
+  });
+  db.close();
+  console.log(`✅ Loaded ${slugMap.size} slugs from SQLite`);
+} catch (e) {
+  console.warn('⚠️  Could not load SQLite:', e.message);
+}
+
+// Supabase client
 const supabase = createClient(
   process.env.NEXT_PUBLIC_SUPABASE_URL,
   process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY
@@ -22,20 +42,10 @@ async function ensureDir(dir) {
   await fs.mkdir(dir, { recursive: true });
 }
 
-function slugify(text) {
-  if (!text) return '';
-  return text
-    .toLowerCase()
-    .replace(/[^\w\s-]/g, '')
-    .replace(/\s+/g, '-')
-    .replace(/-+/g, '-')
-    .trim();
-}
-
 async function migrate() {
-  console.log('🔄 Starting migration from Supabase...\n');
+  console.log('🔄 Starting migration...\n');
 
-  // Fetch all levels
+  // Fetch levels from Supabase
   console.log('📚 Fetching levels...');
   const { data: levels, error: levelsError } = await supabase
     .from('levels')
@@ -48,7 +58,7 @@ async function migrate() {
   }
   console.log(`   Found ${levels.length} levels\n`);
 
-  // Fetch all units
+  // Fetch units from Supabase
   console.log('📚 Fetching units...');
   const { data: units, error: unitsError } = await supabase
     .from('units')
@@ -61,7 +71,7 @@ async function migrate() {
   }
   console.log(`   Found ${units.length} units\n`);
 
-  // Fetch all chapters
+  // Fetch chapters from Supabase
   console.log('📚 Fetching chapters...');
   const { data: chapters, error: chaptersError } = await supabase
     .from('chapters')
@@ -77,7 +87,7 @@ async function migrate() {
   // Build index
   const index = {
     generated: new Date().toISOString(),
-    version: 4,
+    version: 5,
     levels: [],
     exams: []
   };
@@ -90,10 +100,8 @@ async function migrate() {
     const levelUnits = units.filter(u => u.level_id === level.id);
     const levelSlug = slugify(level.name);
     
-    // Create level directory
     await ensureDir(path.join(CONTENT_DIR, 'chapters', levelSlug));
 
-    // Add to index
     const levelIndex = {
       slug: levelSlug,
       name: level.name,
@@ -105,11 +113,9 @@ async function migrate() {
       const unitChapters = chapters.filter(c => c.unit_id === unit.id);
       const unitSlug = slugify(unit.name);
       
-      // Create unit directory
       const unitDir = path.join(CONTENT_DIR, 'chapters', levelSlug, unitSlug);
       await ensureDir(unitDir);
 
-      // Add to index
       const unitIndex = {
         slug: unitSlug,
         name: unit.name,
@@ -117,36 +123,39 @@ async function migrate() {
       };
 
       for (const chapter of unitChapters) {
-        // The chapter.id (UUID) matches the filename in flat structure
-        // Files are named: {id}.html
-        let sourceFile = null;
+        // Look up slug from SQLite map
+        let slugInfo = slugMap.get(chapter.id);
         
-        if (chapter.id) {
-          sourceFile = path.join(CONTENT_DIR, 'chapters', `${chapter.id}.html`);
-          try {
-            await fs.access(sourceFile);
-          } catch {
-            sourceFile = null;
-          }
+        // Fallback: try title match
+        if (!slugInfo && chapter.title) {
+          slugInfo = slugMap.get(chapter.title);
         }
+        
+        // Use slug or generate from title
+        const chapterSlug = slugInfo?.slug || slugify(chapter.title || 'untitled');
+        const chapterTitle = chapter.title || slugInfo?.title || 'Untitled';
 
-        if (!sourceFile) {
-          console.log(`  ⚠️  "${chapter.title}" - file not found (id: ${chapter.id})`);
+        // Source file is named by chapter.id (UUID)
+        const sourceFile = path.join(CONTENT_DIR, 'chapters', `${chapter.id}.html`);
+        
+        try {
+          await fs.access(sourceFile);
+        } catch {
+          console.log(`  ⚠️  File not found: ${sourceFile}`);
           skippedCount++;
           continue;
         }
 
-        // Read content
         const content = await fs.readFile(sourceFile, 'utf-8');
-
-        // Create destination filename (slugified title)
-        const destFilename = `${slugify(chapter.title)}.html`;
+        
+        // Use DATABASE SLUG as filename
+        const destFilename = `${chapterSlug}.html`;
         const destPath = path.join(unitDir, destFilename);
 
-        // Add frontmatter
         const frontmatter = `---
 id: "${chapter.id}"
-title: "${chapter.title || ''}"
+slug: "${chapterSlug}"
+title: "${chapterTitle}"
 course: "${chapter.course || ''}"
 level: "${levelSlug}"
 levelName: "${level.name}"
@@ -157,15 +166,12 @@ type: "chapter"
 
 `;
 
-        const newContent = frontmatter + content;
+        await fs.writeFile(destPath, frontmatter + content, 'utf-8');
 
-        // Write to new location
-        await fs.writeFile(destPath, newContent, 'utf-8');
-
-        // Add to index
         unitIndex.chapters.push({
           id: chapter.id,
-          title: chapter.title,
+          slug: chapterSlug,
+          title: chapterTitle,
           course: chapter.course,
           file: `${levelSlug}/${unitSlug}/${destFilename}`
         });
@@ -195,12 +201,16 @@ type: "chapter"
   console.log('\n✅ Migration complete!');
   console.log(`   Migrated: ${migratedCount} files`);
   console.log(`   Skipped: ${skippedCount} files`);
-  console.log('\n📁 Structure created:');
-  console.log('   chapters/tc/*.html');
-  console.log('   chapters/1-bac/*.html');
-  console.log('   chapters/2-bac/*.html');
-  console.log('\n⚠️  Review and delete old flat files manually!');
 }
 
-// Run
+function slugify(text) {
+  if (!text) return '';
+  return text
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .trim();
+}
+
 migrate().catch(console.error);
