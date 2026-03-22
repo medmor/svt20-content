@@ -1,3 +1,4 @@
+/* DEPRECATED — Supabase/Google Drive integration disabled */
 /**
  * Sync 2024 exams from Google Drive using HTML export
  * 
@@ -372,3 +373,4 @@ async function main() {
 }
 
 main().catch(console.error);
+*/

@@ -1,3 +1,4 @@
+/* DEPRECATED — Supabase/Google Drive integration disabled */
 #!/usr/bin/env node
 // Migrates fiches from Supabase to local files in svt20-content
 // Stores each chapter's fiche at the chapter level (alongside chapter .html)
@@ -183,3 +184,4 @@ main().catch(err => {
   console.error('Error:', err);
   process.exit(1);
 });
+*/

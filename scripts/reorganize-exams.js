@@ -1,3 +1,5 @@
+/* DEPRECATED — one-time migration script, no longer needed */
+/* /**  * Reorganize exams from Supabase into proper hierarchy:  */
 /**
  * Reorganize exams from Supabase into proper hierarchy:
  * exams/{year}/{branch}/{session}/{slug}.html
@@ -206,3 +208,4 @@ async function reorganizeExams() {
 }
 
 reorganizeExams();
+*/

@@ -1,3 +1,5 @@
+/* DEPRECATED — one-time migration script, no longer needed */
+/* /**  * svt20-content Migration Script v2  */
 /**
  * svt20-content Migration Script v2
  * 
@@ -296,3 +298,4 @@ async function loadSyncState() {
 }
 
 migrate().catch(console.error);
+*/

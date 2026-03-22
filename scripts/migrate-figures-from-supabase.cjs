@@ -1,3 +1,4 @@
+/* DEPRECATED — Supabase/Google Drive integration disabled */
 #!/usr/bin/env node
 /**
  * Migrate figures from Supabase to local figures.json files
@@ -123,3 +124,4 @@ async function migrateFigures() {
 }
 
 migrateFigures().catch(e => { console.error(e); db?.close(); });
+*/

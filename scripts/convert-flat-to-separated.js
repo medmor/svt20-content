@@ -1,3 +1,5 @@
+/* DEPRECATED — one-time migration script, no longer needed */
+/* /**  * Convert old flat Google Docs HTML files to new separated exercise format  */
 /**
  * Convert old flat Google Docs HTML files to new separated exercise format
  * 
@@ -296,3 +298,4 @@ async function main() {
 }
 
 main().catch(console.error);
+*/

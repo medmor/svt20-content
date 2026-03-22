@@ -1,3 +1,4 @@
+/* DEPRECATED — Supabase/Google Drive integration disabled */
 /**
  * svt20-content Migration Script v5
  * 
@@ -214,3 +215,4 @@ function slugify(text) {
 }
 
 migrate().catch(console.error);
+*/

@@ -1,3 +1,4 @@
+/* DEPRECATED — Supabase/Google Drive integration disabled */
 /**
  * Fetch 2025 exams from Google Docs and save as separated exercise files
  * 
@@ -364,3 +365,4 @@ async function main() {
 }
 
 main().catch(console.error);
+*/

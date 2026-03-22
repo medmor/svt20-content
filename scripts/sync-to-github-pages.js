@@ -1,3 +1,5 @@
+/* DEPRECATED — one-time migration script, no longer needed */
+/* // scripts/sync-to-github-pages.js import { createClient } from '@supabase/supabase-js';  */
 // scripts/sync-to-github-pages.js
 import { createClient } from '@supabase/supabase-js';
 import { getDocHtml, listDocsInFolder } from '../lib/googleDrive.js';
@@ -491,4 +493,4 @@ function guessExtension(url, contentType) {
 }
 
 // Run sync
-syncAllContent().catch(console.error);
+syncAllContent().catch(console.error);*/

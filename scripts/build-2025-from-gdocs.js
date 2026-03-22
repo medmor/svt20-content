@@ -1,3 +1,4 @@
+/* DEPRECATED — Supabase/Google Drive integration disabled */
 /**
  * Build 2025 exams from Google Docs file IDs
  * 
@@ -205,3 +206,4 @@ async function main() {
 }
 
 main().catch(console.error);
+*/

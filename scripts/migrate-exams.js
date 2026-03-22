@@ -1,3 +1,5 @@
+/* DEPRECATED — one-time migration script, no longer needed */
+/* /**  * Migrate exams from flat HTML files to hierarchical structure with frontmatter  */
 /**
  * Migrate exams from flat HTML files to hierarchical structure with frontmatter
  * Run: node scripts/migrate-exams.js
@@ -295,3 +297,4 @@ async function migrateExams() {
 }
 
 migrateExams().catch(console.error);
+*/
