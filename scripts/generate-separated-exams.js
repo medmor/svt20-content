@@ -21,8 +21,8 @@ import dotenv from 'dotenv';
 dotenv.config({ path: '../svt20/.env' });
 
 const supabase = createClient(
-  process.env.NEXT_PUBLIC_SUPABASE_URL,
-  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY
+  process.env.NEXT_PUBLIC_SUPABASE_URL || 'https://qezkpggzsefmgfhrowmy.supabase.co',
+  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFlemtwZ2d6c2VmbWdmaHJvd215Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTQ3NDg4MTMsImV4cCI6MjA3MDMyNDgxM30.F6zbQkWJ5pfKtPPYOf5Wir40gvuZ-qvAUu10USCh8ig'
 );
 
 const EXAMS_DIR = path.join(process.cwd(), 'exams');
@@ -105,13 +105,11 @@ async function reorganizeExams() {
         if (rootHasContent && children.length === 1 && !children[0].title) {
           const slug = 'partie-I';
           
-          // HTML content with data attributes for easy parsing
-          const html = `<div class="question-content" data-type="question">
+          // HTML content with h2 headings for splitting (question + correction)
+          const html = `<h2>Exercice</h2>
 ${root.content}
-</div>
-<div class="question-content" data-type="correction">
-${children[0].content}
-</div>`;
+<h2>Correction</h2>
+${children[0].content}`;
 
           await fs.writeFile(path.join(examDir, `${slug}.html`), html, 'utf-8');
           exerciseIndex.push({
@@ -136,13 +134,11 @@ ${children[0].content}
             const exoNum = extractExoNumber(child.title) || 1;
             const slug = `exercice-${exoNum}`;
 
-            // HTML content with data attributes for easy parsing
-            const html = `<div class="question-content" data-type="question">
+            // HTML content with h2 headings for splitting (question + correction)
+            const html = `<h2>Exercice</h2>
 ${child.content || ''}
-</div>
-${correction ? `<div class="question-content" data-type="correction">
-${correction.content}
-</div>` : ''}`;
+<h2>Correction</h2>
+${correction ? correction.content : ''}`;
 
             await fs.writeFile(path.join(examDir, `${slug}.html`), html, 'utf-8');
             exerciseIndex.push({
