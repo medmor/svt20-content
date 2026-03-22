@@ -124,6 +124,31 @@ ${children[0].content}`;
           for (const child of children) {
             const grandChildren = getChildren(child.id);
 
+            // Check if this child is a "Partie" (not a numbered exercise)
+            const isPartie = /^partie\s*[-:]/i.test(child.title || '');
+
+            // Check if child has same title as parent — this means the child IS the
+            // Partie I content (not a separate exercise), and the root IS the correction
+            const isSameTitleAsParent = titlesMatch(child.title, root.title);
+
+            if (isSameTitleAsParent) {
+              // Parent content → question, child content → correction
+              // Write as partie-I (this is Partie I)
+              const slug = 'partie-I';
+              const html = `<h2>Exercice</h2>
+${root.content}
+<h2>Correction</h2>
+${child.content}`;
+              await fs.writeFile(path.join(examDir, `${slug}.html`), html, 'utf-8');
+              exerciseIndex.push({
+                slug,
+                title: root.title,
+                path: `${slug}.html`,
+                type: 'partie'
+              });
+              continue;
+            }
+
             // Find correction
             const correctionIdx = grandChildren.findIndex(gc =>
               !gc.title || titlesMatch(gc.title, child.title) ||
@@ -131,8 +156,8 @@ ${children[0].content}`;
             );
 
             const correction = correctionIdx >= 0 ? grandChildren[correctionIdx] : null;
-            const exoNum = extractExoNumber(child.title) || 1;
-            const slug = `exercice-${exoNum}`;
+            const exoNum = extractExoNumber(child.title);
+            const slug = isPartie ? 'partie-II' : `exercice-${exoNum}`;
 
             // HTML content with h2 headings for splitting (question + correction)
             const html = `<h2>Exercice</h2>
