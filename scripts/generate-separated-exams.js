@@ -157,7 +157,27 @@ ${child.content}`;
 
             const correction = correctionIdx >= 0 ? grandChildren[correctionIdx] : null;
             const exoNum = extractExoNumber(child.title);
-            const slug = isPartie ? 'partie-II' : `exercice-${exoNum}`;
+            // Build unique slug: use exoNum if available, otherwise use sanitized title
+            let slug;
+            if (exoNum !== null) {
+              slug = `exercice-${exoNum}`;
+            } else {
+              // Sanitize title for use as slug (e.g., "Choix 1" → "choix-1")
+              const sanitized = (child.title || 'exercice')
+                .toLowerCase()
+                .replace(/[^a-z0-9]+/g, '-')
+                .replace(/^-|-$/g, '')
+                .slice(0, 30);
+              slug = sanitized || 'exercice-unknown';
+            }
+
+            // Ensure slug uniqueness within this exam
+            const usedSlugs = new Set(exerciseIndex.map(e => e.slug));
+            if (usedSlugs.has(slug)) {
+              let counter = 2;
+              while (usedSlugs.has(`${slug}-${counter}`)) counter++;
+              slug = `${slug}-${counter}`;
+            }
 
             // HTML content with h2 headings for splitting (question + correction)
             const html = `<h2>Exercice</h2>
