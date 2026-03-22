@@ -2,7 +2,7 @@ import http from 'http';
 import fs from 'fs';
 import path from 'path';
 
-const PORT = 4000;
+const PORT = 4001;
 
 const MIME_TYPES = {
   '.html': 'text/html',
