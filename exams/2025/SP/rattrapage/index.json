@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "generated": "2026-03-21T14:06:22.102Z",
+  "exam": {
+    "id": "2025-sp-rattrapage",
+    "session": "Rattrapage",
+    "date": "2025-07-01",
+    "duration": "3",
+    "branch": "SP",
+    "image": null
+  },
+  "exercises": [
+    {
+      "slug": "partie-II",
+      "title": "Partie II : Raisonnement scientifique et communication écrite et graphique",
+      "path": "partie-II.html",
+      "type": "partie",
+      "number": 0,
+      "hasCorrection": true
+    },
+    {
+      "slug": "exercice-1",
+      "title": "Exercice 1 (5 points)",
+      "path": "exercice-1.html",
+      "type": "exercice",
+      "number": 1,
+      "hasCorrection": true
+    },
+    {
+      "slug": "exercice-2",
+      "title": "Exercice 2 (4 points)",
+      "path": "exercice-2.html",
+      "type": "exercice",
+      "number": 2,
+      "hasCorrection": true
+    },
+    {
+      "slug": "exercice-3",
+      "title": "Exercice 3 (3 points)",
+      "path": "exercice-3.html",
+      "type": "exercice",
+      "number": 3,
+      "hasCorrection": true
+    },
+    {
+      "slug": "exercice-4",
+      "title": "Exercice 4 (3 points)",
+      "path": "exercice-4.html",
+      "type": "exercice",
+      "number": 4,
+      "hasCorrection": true
+    }
+  ]
+}

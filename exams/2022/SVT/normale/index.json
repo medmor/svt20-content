@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "generated": "2026-03-22T22:58:10.876Z",
+  "exam": {
+    "id": "f35a3a0e-532f-4fa8-a513-2bb07edca4a5",
+    "session": "Normale",
+    "date": "2022-06-01",
+    "duration": "3",
+    "branch": "SVT",
+    "image": "https://imgs.svt20.com/images/content/exams/svt/2022NormalSVT/1000000100000546000002A59336469A54B5F919.jpeg"
+  },
+  "exercises": [
+    {
+      "slug": "exercice-2",
+      "title": "Exercice 2 : (4.5 points)",
+      "path": "exercice-2.html",
+      "type": "exercice",
+      "number": 2
+    },
+    {
+      "slug": "exercice-3",
+      "title": "Exercice 3 : (3 points)",
+      "path": "exercice-3.html",
+      "type": "exercice",
+      "number": 3
+    },
+    {
+      "slug": "exercice-1",
+      "title": "Exercice 1 : (4.5 points)",
+      "path": "exercice-1.html",
+      "type": "exercice",
+      "number": 1
+    },
+    {
+      "slug": "exercice-4",
+      "title": "Exercice 4 : (3 points)",
+      "path": "exercice-4.html",
+      "type": "exercice",
+      "number": 4
+    },
+    {
+      "slug": "partie-I",
+      "title": "Partie I : Restitution des connaissances (5 points)",
+      "path": "partie-I.html",
+      "type": "partie"
+    }
+  ]
+}

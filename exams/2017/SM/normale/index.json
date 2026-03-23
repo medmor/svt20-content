@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "generated": "2026-03-22T22:58:06.984Z",
+  "exam": {
+    "id": "c753939c-eed5-4317-90ad-09a39dc6faef",
+    "session": "Normale",
+    "date": "2017-06-01",
+    "duration": "2",
+    "branch": "SM",
+    "image": "https://imgs.svt20.com/images/content/exams/sm/2017NormalSM/10000001000006400000027688558E4DC2B5D21A.jpeg"
+  },
+  "exercises": [
+    {
+      "slug": "partie-I",
+      "title": "Partie I : Restitution des connaissances (5 points)",
+      "path": "partie-I.html",
+      "type": "partie"
+    },
+    {
+      "slug": "exercice-1",
+      "title": "Exercice 1 : (7.5 points)",
+      "path": "exercice-1.html",
+      "type": "exercice",
+      "number": 1
+    },
+    {
+      "slug": "exercice-3",
+      "title": "Exercice 3 : (5 points)",
+      "path": "exercice-3.html",
+      "type": "exercice",
+      "number": 3
+    },
+    {
+      "slug": "exercice-2",
+      "title": "Exercice 2 : (2.5 points)",
+      "path": "exercice-2.html",
+      "type": "exercice",
+      "number": 2
+    }
+  ]
+}

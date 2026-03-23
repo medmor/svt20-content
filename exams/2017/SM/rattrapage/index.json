@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "generated": "2026-03-22T22:58:07.264Z",
+  "exam": {
+    "id": "aa63b9d6-e467-4aab-a4b8-064d7396f113",
+    "session": "Rattrapage",
+    "date": "2017-07-01",
+    "duration": "2",
+    "branch": "SM",
+    "image": "https://imgs.svt20.com/images/content/exams/sm/2017RattrapageSM/10000001000002330000020F2609091DCB8A63A8.jpeg"
+  },
+  "exercises": [
+    {
+      "slug": "exercice-1",
+      "title": "Exercice 1 : (5 points)",
+      "path": "exercice-1.html",
+      "type": "exercice",
+      "number": 1
+    },
+    {
+      "slug": "exercice-2",
+      "title": "Exercice 2 : (10 points)",
+      "path": "exercice-2.html",
+      "type": "exercice",
+      "number": 2
+    },
+    {
+      "slug": "partie-I",
+      "title": "Partie I : Restitution des connaissances (5 points)",
+      "path": "partie-I.html",
+      "type": "partie"
+    }
+  ]
+}
