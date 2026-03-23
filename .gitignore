@@ -12,6 +12,9 @@ node_modules/
 !package-lock.json
 !sync-state.json
 
+# Content index (committed to git)
+!index.json
+
 # OS files
 .DS_Store
 Thumbs.db
