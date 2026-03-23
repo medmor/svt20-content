@@ -2,37 +2,37 @@
   "les-communications-hormonales-rgulation-de-la-glycmie": [
     {
       "title": "Planche 1",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit3/chapter1/Publication1/page01.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit3/chapter1/Publication1/page01.jpg"
     },
     {
       "title": "Planche 2",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit3/chapter1/Publication1/page02.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit3/chapter1/Publication1/page02.jpg"
     },
     {
       "title": "Planche 3",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit3/chapter1/Publication1/page03.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit3/chapter1/Publication1/page03.jpg"
     }
   ],
   "la-communication-nerveuse": [
     {
       "title": "Planche 1",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit3/chapter2/Publication1/page01.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit3/chapter2/Publication1/page01.jpg"
     },
     {
       "title": "Planche 2",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit3/chapter2/Publication1/page02.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit3/chapter2/Publication1/page02.jpg"
     },
     {
       "title": "Planche 3",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit3/chapter2/Publication1/page03.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit3/chapter2/Publication1/page03.jpg"
     },
     {
       "title": "Planche 4",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit3/chapter2/Publication1/page04.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit3/chapter2/Publication1/page04.jpg"
     },
     {
       "title": "Planche 5",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit3/chapter2/Publication1/page05.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit3/chapter2/Publication1/page05.jpg"
     }
   ]
 }

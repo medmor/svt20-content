@@ -2,43 +2,43 @@
   "ralisation-de-la-carte-palogographique-dune-rgion": [
     {
       "title": "Planche 1",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit1/chapter1/Publication1/page01.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit1/chapter1/Publication1/page01.jpg"
     },
     {
       "title": "Planche 2",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit1/chapter1/Publication1/page02.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit1/chapter1/Publication1/page02.jpg"
     },
     {
       "title": "Planche 3",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit1/chapter1/Publication1/page03.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit1/chapter1/Publication1/page03.jpg"
     },
     {
       "title": "Planche 4",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit1/chapter1/Publication1/page04.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit1/chapter1/Publication1/page04.jpg"
     }
   ],
   "reconstitution-de-lhistoire-gologique-dune-rgion-sdimentaire": [
     {
       "title": "Planche 1",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit1/chapter2/Publication1/page01.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit1/chapter2/Publication1/page01.jpg"
     },
     {
       "title": "Planche 2",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit1/chapter2/Publication1/page02.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit1/chapter2/Publication1/page02.jpg"
     },
     {
       "title": "Planche 3",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit1/chapter2/Publication1/page03.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit1/chapter2/Publication1/page03.jpg"
     }
   ],
   "importance-de-la-carte-gologique-dans-la-reconstitution-de-lhistoire-gologique": [
     {
       "title": "Planche 1",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit1/chapter3/Publication1/page01.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit1/chapter3/Publication1/page01.jpg"
     },
     {
       "title": "Planche 2",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit1/chapter3/Publication1/page02.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit1/chapter3/Publication1/page02.jpg"
     }
   ]
 }

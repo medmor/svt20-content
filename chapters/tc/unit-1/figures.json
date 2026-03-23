@@ -2,53 +2,53 @@
   "prparation-une-sortie-cologique": [
     {
       "title": "Planche 1",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level1/unit1/chapter1/page01.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level1/unit1/chapter1/page01.jpg"
     },
     {
       "title": "Planche 2",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level1/unit1/chapter1/page02.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level1/unit1/chapter1/page02.jpg"
     }
   ],
   "les-facteurs-daphiques-et-leurs-relations-avec-les-tres-vivants": [
     {
       "title": "Planche 1",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level1/unit1/chapter2/Publication1/page01.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level1/unit1/chapter2/Publication1/page01.jpg"
     },
     {
       "title": "Planche 2",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level1/unit1/chapter2/Publication1/page02.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level1/unit1/chapter2/Publication1/page02.jpg"
     },
     {
       "title": "Planche 3",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level1/unit1/chapter2/Publication1/page03.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level1/unit1/chapter2/Publication1/page03.jpg"
     },
     {
       "title": "Planche 4",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level1/unit1/chapter2/Publication1/page04.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level1/unit1/chapter2/Publication1/page04.jpg"
     },
     {
       "title": "Planche 5",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level1/unit1/chapter2/Publication1/page05.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level1/unit1/chapter2/Publication1/page05.jpg"
     }
   ],
   "les-facteurs-climatiques-et-leurs-influences-sur-la-rpartition-des-tres-vivants": [
     {
       "title": "Planche 1",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level1/unit1/chapter3/Publication1/page01.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level1/unit1/chapter3/Publication1/page01.jpg"
     },
     {
       "title": "Planche 2",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level1/unit1/chapter3/Publication1/page02.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level1/unit1/chapter3/Publication1/page02.jpg"
     },
     {
       "title": "Planche 3",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level1/unit1/chapter3/Publication1/page03.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level1/unit1/chapter3/Publication1/page03.jpg"
     }
   ],
   "flux-de-la-matire-et-de-lnergie-dans-lcosystme": [
     {
       "title": "Planche 1",
-      "figureUrl": "https://imgs.svt20.com/images/figures/level1/unit1/chapter4/Publication1/page01.jpg"
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level1/unit1/chapter4/Publication1/page01.jpg"
     }
   ]
 }
