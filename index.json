@@ -1,0 +1,439 @@
+{
+  "generated": "2026-03-20T22:12:51.450Z",
+  "version": 5,
+  "levels": [
+    {
+      "slug": "tc",
+      "name": "TC",
+      "title": "Tronc Commun",
+      "units": [
+        {
+          "slug": "unit-1",
+          "name": "Unité 1",
+          "chapters": [
+            {
+              "id": "0929d80e-06de-4dfb-8f0d-92f2b24ccefb",
+              "slug": "prparation-une-sortie-cologique",
+              "title": "Préparation à une sortie écologique",
+              "course": "1UMToDZ1MyIh3Jo8K9iVfWFsgodgPImJmSFSwWxrf2ok",
+              "file": "tc/unit-1/prparation-une-sortie-cologique.html"
+            },
+            {
+              "id": "2c5d02a8-8a8e-47a8-8f5b-530fc43505ed",
+              "slug": "les-facteurs-daphiques-et-leurs-relations-avec-les-tres-vivants",
+              "title": "Les facteurs édaphiques et leurs relations avec les êtres vivants",
+              "course": "1Y9uSMFFms_VdaqIYYDkama1xRf5BUoE1CTMeAMqFUIw",
+              "file": "tc/unit-1/les-facteurs-daphiques-et-leurs-relations-avec-les-tres-vivants.html"
+            },
+            {
+              "id": "6a2fb2a4-6b12-4e2e-90a8-35ec774d7652",
+              "slug": "les-facteurs-climatiques-et-leurs-influences-sur-la-rpartition-des-tres-vivants",
+              "title": "Les facteurs climatiques et leurs influences sur la répartition des êtres vivants",
+              "course": "1AJfHL6kH-M-RV3lbyQioxIPm9BUWMkN_Kx_Zx-F3KZY",
+              "file": "tc/unit-1/les-facteurs-climatiques-et-leurs-influences-sur-la-rpartition-des-tres-vivants.html"
+            },
+            {
+              "id": "be20a23a-47a4-4dad-90f4-55d4415a960b",
+              "slug": "flux-de-la-matire-et-de-lnergie-dans-lcosystme",
+              "title": "Flux de la matière et de l’énergie dans l’écosystème",
+              "course": "1Mcgrm2JFyxxlvEcH2FkKAjR8nW5-jeSNIgCBQrlIvCI",
+              "file": "tc/unit-1/flux-de-la-matire-et-de-lnergie-dans-lcosystme.html"
+            }
+          ]
+        },
+        {
+          "slug": "unit-2",
+          "name": "Unité 2",
+          "chapters": [
+            {
+              "id": "568d442c-3d48-4576-ab56-c73db3d27a6a",
+              "slug": "la-reproduction-sexue-chez-les-plantes-fleurs-angiosperme",
+              "title": "La reproduction sexuée chez les plantes à fleurs : Angiosperme",
+              "course": "1wq0A1IbnUhbbnQgbXogbCCvnAPl1u1jdLsck8OW0nJA",
+              "file": "tc/unit-2/la-reproduction-sexue-chez-les-plantes-fleurs-angiosperme.html"
+            },
+            {
+              "id": "4a34daf6-f264-4c6f-989a-9dbc6465ad0a",
+              "slug": "la-reproduction-sexue-chez-les-plates-fleurs-gymnosperme-",
+              "title": "La reproduction sexuée chez les plates à fleurs : Gymnosperme ",
+              "course": "1rPiYH-VjkYYxxncPMa80H0H3KE7pA1dje-gaOkstkJM",
+              "file": "tc/unit-2/la-reproduction-sexue-chez-les-plates-fleurs-gymnosperme-.html"
+            },
+            {
+              "id": "65e0ef2d-56e1-4dca-b40d-e51307de3118",
+              "slug": "la-reproduction-sexue-chez-les-plantes-sans-fleurs-",
+              "title": "La reproduction sexuée chez les plantes sans fleurs ",
+              "course": "1O_w9zyfdn37-mCNrxWVAHe1UpfzByX8izkiBhP5g_g8",
+              "file": "tc/unit-2/la-reproduction-sexue-chez-les-plantes-sans-fleurs-.html"
+            },
+            {
+              "id": "3cbb6ce1-71d0-46bf-af30-03b5a81be4b5",
+              "slug": "les-cycles-de-vie-et-la-classification-des-plantes-",
+              "title": "Les cycles de vie et la classification des plantes ",
+              "course": "1aH5_y9HZOlUtrztI2JSRcmzaNthOtesZ-5g9EC9kVyI",
+              "file": "tc/unit-2/les-cycles-de-vie-et-la-classification-des-plantes-.html"
+            }
+          ]
+        },
+        {
+          "slug": "unit-1-lettres",
+          "name": "Unité 1 (Lettres)",
+          "chapters": [
+            {
+              "id": "e4b6b349-8898-4cd3-bf9d-25dd705841c2",
+              "slug": "exploitation-et-pollution-deau",
+              "title": "Exploitation et pollution d'eau",
+              "course": "1Qb8XSATFC7JUtiZP4PEfsetDw7q-9kCOIC3mLRv3Db0",
+              "file": "tc/unit-1-lettres/exploitation-et-pollution-deau.html"
+            },
+            {
+              "id": "e30869bc-ce71-4450-8574-92188cbd1660",
+              "slug": "la-formation-des-rservoirs-deau",
+              "title": "La formation des réservoirs d’eau",
+              "course": "1lc6Ovd7BDMx4K2yBQcgVEyGkeuscvElviXbXngyjhnQ",
+              "file": "tc/unit-1-lettres/la-formation-des-rservoirs-deau.html"
+            },
+            {
+              "id": "a9db627f-7fca-4774-b70b-ddea95e00eeb",
+              "slug": "eau-potable-et-cycle-deau",
+              "title": "Eau potable et cycle d’eau",
+              "course": "1OdIi12ni0zvTMRwHfwfmMGZqrBijoE4MjQLiLDehXRU",
+              "file": "tc/unit-1-lettres/eau-potable-et-cycle-deau.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "1-bac",
+      "name": "1 Bac",
+      "title": "Première Bac",
+      "units": [
+        {
+          "slug": "unit-1",
+          "name": "Unité 1",
+          "chapters": [
+            {
+              "id": "0d823d4f-8029-4657-9235-8032e206408a",
+              "slug": "ralisation-de-la-carte-palogographique-dune-rgion",
+              "title": "Réalisation de la carte paléogéographique d’une région",
+              "course": "1SnwKIBdPXhU-BJW3ClhhYqcwp8Q0heXAAOkQIwIKXb8",
+              "file": "1-bac/unit-1/ralisation-de-la-carte-palogographique-dune-rgion.html"
+            },
+            {
+              "id": "b0c5f8de-051c-43b8-afb3-4dc183518cd8",
+              "slug": "reconstitution-de-lhistoire-gologique-dune-rgion-sdimentaire",
+              "title": "Reconstitution de l’histoire géologique d’une région sédimentaire",
+              "course": "1fgYstNQCfwZSO1aRbjmWu9qXMD6fvLkfqmSnRZVjWy4",
+              "file": "1-bac/unit-1/reconstitution-de-lhistoire-gologique-dune-rgion-sdimentaire.html"
+            },
+            {
+              "id": "43cfde79-0b26-46e6-86b5-a578b22cef41",
+              "slug": "importance-de-la-carte-gologique-dans-la-reconstitution-de-lhistoire-gologique",
+              "title": "Importance de la carte géologique dans la reconstitution de l’histoire géologique",
+              "course": "1fy1htb9fuenBvPmyPwhobxMUT1W_awrmgchgbzeEQEo",
+              "file": "1-bac/unit-1/importance-de-la-carte-gologique-dans-la-reconstitution-de-lhistoire-gologique.html"
+            }
+          ]
+        },
+        {
+          "slug": "unit-2",
+          "name": "Unité 2",
+          "chapters": [
+            {
+              "id": "832cd193-b537-461e-846c-016561286f36",
+              "slug": "absorption-de-leau-et-des-sels-minraux-par-les-plantes",
+              "title": "Absorption de l’eau et des sels minéraux par les plantes",
+              "course": "1wRK8qygJB-uCEP62ZVoOrDKxY5ZOjBTrwjHmsI3k7kM",
+              "file": "1-bac/unit-2/absorption-de-leau-et-des-sels-minraux-par-les-plantes.html"
+            },
+            {
+              "id": "96c00ad6-9d14-48a0-8b98-6853644c1379",
+              "slug": "les-changes-gazeux-chlorophylliens-et-la-production-de-la-matire-organique",
+              "title": "Les échanges gazeux chlorophylliens et la production de la matière organique",
+              "course": "1kZrLb1LxmxCrOQvfiNL22a9X-0DBnuPJCaMFAFFDcpw",
+              "file": "1-bac/unit-2/les-changes-gazeux-chlorophylliens-et-la-production-de-la-matire-organique.html"
+            },
+            {
+              "id": "0777aa90-df57-4d80-a7bd-fcc27437aae5",
+              "slug": "captation-de-lnergie-lumineuse-et-ractions-de-la-photosynthse",
+              "title": "Captation de l’énergie lumineuse et réactions de la photosynthèse",
+              "course": "10n5MqXV3om0e3CX1-iMnG8EpKw_WMlFAB9lawGmfD1w",
+              "file": "1-bac/unit-2/captation-de-lnergie-lumineuse-et-ractions-de-la-photosynthse.html"
+            }
+          ]
+        },
+        {
+          "slug": "unit-3",
+          "name": "Unité 3",
+          "chapters": [
+            {
+              "id": "97a390a7-0c69-4ceb-9d3a-c305d23c599d",
+              "slug": "les-communications-hormonales-rgulation-de-la-glycmie",
+              "title": "Les communications hormonales (Régulation de la glycémie)",
+              "course": "1HzClNe_0NY4xC73NebpV3vDkxux8FErlat1d0TMwVvw",
+              "file": "1-bac/unit-3/les-communications-hormonales-rgulation-de-la-glycmie.html"
+            },
+            {
+              "id": "117a61cc-b99c-4bf6-bc65-0b627220d17d",
+              "slug": "la-communication-nerveuse",
+              "title": "La communication nerveuse",
+              "course": "14_Na51LEz7a5Cg4SpVXSuyGwop8yqwdMqB4ffoYI2-U",
+              "file": "1-bac/unit-3/la-communication-nerveuse.html"
+            }
+          ]
+        },
+        {
+          "slug": "unit-4",
+          "name": "Unité 4",
+          "chapters": [
+            {
+              "id": "e98f3cce-55da-4342-a567-4a63fde7af98",
+              "slug": "rgulation-de-la-fonction-reproductrice-chez-lhomme",
+              "title": "Régulation de la fonction reproductrice chez l’Homme",
+              "course": "1RRdsd-ZpMTu1tH2cMpGrWEse-vHDinR7EzxSDfbnBPA",
+              "file": "1-bac/unit-4/rgulation-de-la-fonction-reproductrice-chez-lhomme.html"
+            }
+          ]
+        },
+        {
+          "slug": "unit-1-lettres",
+          "name": "Unité 1 (Lettres)",
+          "chapters": [
+            {
+              "id": "381db588-3708-4fe2-8341-e30a106cc212",
+              "slug": "fonction-reproductrice-chez-lhomme",
+              "title": "Fonction reproductrice chez l'homme",
+              "course": "1fQJk12bLF4z0qQRwmGmTX_c5eZt3mvrZ006d7G-hb3g",
+              "file": "1-bac/unit-1-lettres/fonction-reproductrice-chez-lhomme.html"
+            },
+            {
+              "id": "4ec2b3dc-cf28-4880-bed5-ef2836c71b36",
+              "slug": "fonction-reproductrice-chez-la-femme-",
+              "title": "Fonction reproductrice chez la femme ",
+              "course": "1wNFp6_6ymqJUdQ-vfraVshhdB3NWnKM4mIfcnDcNyVE",
+              "file": "1-bac/unit-1-lettres/fonction-reproductrice-chez-la-femme-.html"
+            },
+            {
+              "id": "0895e6af-acd4-4cfe-98a3-90162d176536",
+              "slug": "de-la-fcondation-la-naissance",
+              "title": "De la fécondation à la naissance",
+              "course": "1y7y-bRdflgiZTolJaFXxuF20RtqYpaTLGdZ7gag68ls",
+              "file": "1-bac/unit-1-lettres/de-la-fcondation-la-naissance.html"
+            }
+          ]
+        },
+        {
+          "slug": "unit-2-lettres",
+          "name": "Unité 2 (Lettres)",
+          "chapters": [
+            {
+              "id": "f0e8afe0-31e6-46ee-bbfe-e2adcd7812d6",
+              "slug": "les-rles-de-la-miose-et-de-la-fcondation-dans-la-diversit-gntique",
+              "title": "Les rôles de la méiose et de la fécondation dans la diversité génétique",
+              "course": "1zFV7WYivUH2srRzcO64ZMKkvKVWeobsrJXhE8tkIJ8w",
+              "file": "1-bac/unit-2-lettres/les-rles-de-la-miose-et-de-la-fcondation-dans-la-diversit-gntique.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "2-bac",
+      "name": "2 Bac",
+      "title": "Deuxième Bac",
+      "units": [
+        {
+          "slug": "unit-1",
+          "name": "Unité 1",
+          "chapters": [
+            {
+              "id": "b6908f05-2116-4e1e-aee7-1bcec09fedb4",
+              "slug": "les-phnomnes-responsables-de-la-libration-de-lnergie-emmagasine-dans-la-matire-organique-au-niveau-de-la-cellule",
+              "title": "Les phénomènes responsables de la libération de l’énergie emmagasinée dans la matière organique au niveau de la cellule",
+              "course": "1zzLvwASDOoKQ7OzNZKpxx0d5ilihWviBNbGEe9h9Zcs",
+              "file": "2-bac/unit-1/les-phnomnes-responsables-de-la-libration-de-lnergie-emmagasine-dans-la-matire-organique-au-niveau-de-la-cellule.html"
+            },
+            {
+              "id": "5c786973-7f74-4a50-957e-4b0cd91758ab",
+              "slug": "rle-du-muscle-stri-squelettique-dans-la-conversion-de-lnergie",
+              "title": "Rôle du muscle strié squelettique dans la conversion de l’énergie",
+              "course": "1kwvTEvTKq_khJLHb-iIVD2qrBIX2TtFLn8__XeZaGEY",
+              "file": "2-bac/unit-1/rle-du-muscle-stri-squelettique-dans-la-conversion-de-lnergie.html"
+            }
+          ]
+        },
+        {
+          "slug": "unit-2",
+          "name": "Unité 2",
+          "chapters": [
+            {
+              "id": "41a4b7b3-cb48-4b96-9e35-e2c42171d86e",
+              "slug": "notion-de-linformation-gntique",
+              "title": "Notion de l’information génétique",
+              "course": "1gUvzLAxVevnzUPEIkpJRw2fzBihnbJqumTQEw05hhlo",
+              "file": "2-bac/unit-2/notion-de-linformation-gntique.html"
+            },
+            {
+              "id": "3b68992c-f892-4fc4-8537-a2c1044060be",
+              "slug": "expression-de-linformation-gntique",
+              "title": "Expression de l’information génétique",
+              "course": "1GFSY1yC6XvAemhjTkCefyKuzVYL3JZ8G2yRe1Ue-9R0",
+              "file": "2-bac/unit-2/expression-de-linformation-gntique.html"
+            },
+            {
+              "id": "57cfef46-4c32-414e-a4a9-8914b9e0d627",
+              "slug": "le-gnie-gntique",
+              "title": "Le génie génétique",
+              "course": "1cYkKykMOqODPOxdHahNipbMoeS6e5IvhMKKSNPdSg6c",
+              "file": "2-bac/unit-2/le-gnie-gntique.html"
+            }
+          ]
+        },
+        {
+          "slug": "unit-3",
+          "name": "Unité 3",
+          "chapters": [
+            {
+              "id": "3311ae74-5a51-4ac5-b8fd-74efe0f3b41b",
+              "slug": "transmission-de-linformation-gntique-au-cours-de-la-reproduction-sexue",
+              "title": "Transmission de l’information génétique au cours de la reproduction sexuée",
+              "course": "1pN4jj1JsNzkMt3ogNidn9tYBGcu0A5Zxf1NxAD4JVv4",
+              "file": "2-bac/unit-3/transmission-de-linformation-gntique-au-cours-de-la-reproduction-sexue.html"
+            },
+            {
+              "id": "af8f0b14-da97-4c77-ba06-890bcd18b2df",
+              "slug": "les-lois-statistiques-de-la-transmission-des-caractres-hrditaires-chez-les-diplodes",
+              "title": "Les lois statistiques de la transmission des caractères héréditaires chez les diploïdes",
+              "course": "1MyOnRbH-oLUEtH733HP94Tyv-_9q0VHoE6sbtLGb2hs",
+              "file": "2-bac/unit-3/les-lois-statistiques-de-la-transmission-des-caractres-hrditaires-chez-les-diplodes.html"
+            },
+            {
+              "id": "843099ea-47df-4d3c-8950-a2231824d0e3",
+              "slug": "la-gntique-humaine",
+              "title": "La génétique humaine",
+              "course": "12BARjeAbDwzIBNYxZHnrunFGfHqyPar6lFK-cp4PatU",
+              "file": "2-bac/unit-3/la-gntique-humaine.html"
+            }
+          ]
+        },
+        {
+          "slug": "unit-3-sp-",
+          "name": "Unité 3 (SP) ",
+          "chapters": [
+            {
+              "id": "85ac00d4-2164-486c-bea0-c30006f6125d",
+              "slug": "les-ordures-mnagres-issues-de-lutilisation-des-matires-organiques",
+              "title": "Les ordures ménagères issues de l’utilisation des matières organiques",
+              "course": "1JwxNKSe4cJZJdtYHQMCPc2bGuWZRbuWJl3Hx6jf5SLM",
+              "file": "2-bac/unit-3-sp-/les-ordures-mnagres-issues-de-lutilisation-des-matires-organiques.html"
+            },
+            {
+              "id": "5f3f698e-bc4d-4bcc-aec4-ba74c5289c4b",
+              "slug": "les-pollutions-issues-de-la-consommation-des-produits-nergtiques-et-de-lutilisation-de-la-matire-organique-et-inorganique-dans-lindustrie",
+              "title": "Les pollutions issues de la consommation des produits énergétiques et de l’utilisation de la matière organique et inorganique dans l’industrie",
+              "course": "19XXDShPLM3ofzBcYJI1BHM5KJi_oPtss7Bm49d2WYZc",
+              "file": "2-bac/unit-3-sp-/les-pollutions-issues-de-la-consommation-des-produits-nergtiques-et-de-lutilisation-de-la-matire-organique-et-inorganique-dans-lindustrie.html"
+            },
+            {
+              "id": "bc627a08-4527-40b9-869f-a1e09449d018",
+              "slug": "les-matires-radioactives-et-lnergie-nuclaire",
+              "title": "Les matières radioactives et l’énergie nucléaire",
+              "course": "1Zjv1Y8RJSWDmUCNXXZPSdJy4nWcmxuNpWIj6m4kIaKk",
+              "file": "2-bac/unit-3-sp-/les-matires-radioactives-et-lnergie-nuclaire.html"
+            },
+            {
+              "id": "cf36076d-fda6-4f2a-a42b-74d296feb3dd",
+              "slug": "contrle-de-la-qualit-des-milieux-naturels",
+              "title": "Contrôle de la qualité des milieux naturels",
+              "course": "1fu0Qh4bpOAAlN6NMBqP1zAEUrwen_RWDYFWqTn_zgas",
+              "file": "2-bac/unit-3-sp-/contrle-de-la-qualit-des-milieux-naturels.html"
+            }
+          ]
+        },
+        {
+          "slug": "unit-4",
+          "name": "Unité 4",
+          "chapters": [
+            {
+              "id": "e9f0a523-a985-443f-88c3-933ecab3afa9",
+              "slug": "gntique-des-populations",
+              "title": "Génétique des populations",
+              "course": "1kbNUfM324CeXGSYGFAOwxQnjYVPAoBm_8gpL8PUCzSs",
+              "file": "2-bac/unit-4/gntique-des-populations.html"
+            }
+          ]
+        },
+        {
+          "slug": "unit-5",
+          "name": "Unité 5",
+          "chapters": [
+            {
+              "id": "55dbae05-e63f-4bd4-bfb5-202d7e472adf",
+              "slug": "la-discrimination-entre-le-soi-et-le-non-soi",
+              "title": "La discrimination entre le soi et le non soi",
+              "course": "1yYAxPB0_Z8XICHEUawDtFcmOSdEoQKLa9W9TCgdZWNI",
+              "file": "2-bac/unit-5/la-discrimination-entre-le-soi-et-le-non-soi.html"
+            },
+            {
+              "id": "a3e81b1a-162d-4e12-83c9-d4f7c6241121",
+              "slug": "la-rponse-immunitaire-non-spcifique",
+              "title": "La réponse immunitaire non spécifique",
+              "course": "1XhwDndNIQGNIH0poZXXrxWtTLF7YAvAvbXmJ3Ho80wg",
+              "file": "2-bac/unit-5/la-rponse-immunitaire-non-spcifique.html"
+            },
+            {
+              "id": "48caad3c-1cff-47a6-8f28-49e4d30d5cab",
+              "slug": "la-rponse-immunitaire-spcifique",
+              "title": "La réponse immunitaire spécifique",
+              "course": "1kdg_UAvaNK3w-tzBq1BEE6qiZOEE_1CVGelO8Lfw2jI",
+              "file": "2-bac/unit-5/la-rponse-immunitaire-spcifique.html"
+            },
+            {
+              "id": "71d9fc04-ac08-42fb-9f0f-454ce9cc0e36",
+              "slug": "drglement-du-systme-immunitaire",
+              "title": "Dérèglement du système immunitaire",
+              "course": "1zRlLn2No6SEl-IVgGQqwD7r6bhe_91ja36vkOpkmUAU",
+              "file": "2-bac/unit-5/drglement-du-systme-immunitaire.html"
+            },
+            {
+              "id": "82977bba-53ec-4a19-9e91-b4a8ccc90e56",
+              "slug": "moyens-daide-du-systme-immunitaire",
+              "title": "Moyens d’aide du système immunitaire",
+              "course": "1tD1FiT1tWn7aKvGkOYYniekI48uc3b14SGFEG92cJQg",
+              "file": "2-bac/unit-5/moyens-daide-du-systme-immunitaire.html"
+            }
+          ]
+        },
+        {
+          "slug": "unit-6",
+          "name": "Unité 6",
+          "chapters": [
+            {
+              "id": "c39f1c57-44dd-460b-b490-8097384e5b28",
+              "slug": "la-formation-des-chanes-de-montagnes",
+              "title": "La formation des chaînes de montagnes",
+              "course": "1Zv2yM6IYrTXwtfO0DFHluHkaxkygOJt157zCqvXjLEs",
+              "file": "2-bac/unit-6/la-formation-des-chanes-de-montagnes.html"
+            },
+            {
+              "id": "b4e431dc-0148-4fcd-85bb-dccf8bcf89c4",
+              "slug": "le-mtamorphisme-et-sa-relation-avec-la-tectonique-des-plaques",
+              "title": "Le métamorphisme et sa relation avec la tectonique des plaques",
+              "course": "1KDDSvdDL1rv2Ecv3NUgA63Zc8TXQPe8vNuLu7HRLz3E",
+              "file": "2-bac/unit-6/le-mtamorphisme-et-sa-relation-avec-la-tectonique-des-plaques.html"
+            },
+            {
+              "id": "3844977c-c0e2-4660-b9d8-857326b68779",
+              "slug": "la-granitisation-et-sa-relation-avec-le-mtamorphisme",
+              "title": "La granitisation et sa relation avec le métamorphisme",
+              "course": "1Qd83u3bekknEtEmS43zEy5q7c1RQRWymxMk36xTcUnA",
+              "file": "2-bac/unit-6/la-granitisation-et-sa-relation-avec-le-mtamorphisme.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "exams": []
+}
