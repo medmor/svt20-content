@@ -1,0 +1,34 @@
+{
+  "notion-de-linformation-gntique": [
+    {
+      "title": "Planche 1",
+      "figureUrl": "https://imgs.svt20.com/images/figures/level3/unit2/chapter1/Chapter1/page01.jpg"
+    },
+    {
+      "title": "Planche 2",
+      "figureUrl": "https://imgs.svt20.com/images/figures/level3/unit2/chapter1/Chapter1/page02.jpg"
+    },
+    {
+      "title": "Planche 3",
+      "figureUrl": "https://imgs.svt20.com/images/figures/level3/unit2/chapter1/Chapter1/page03.jpg"
+    },
+    {
+      "title": "Planche 4",
+      "figureUrl": "https://imgs.svt20.com/images/figures/level3/unit2/chapter1/Chapter1/page04.jpg"
+    }
+  ],
+  "expression-de-linformation-gntique": [
+    {
+      "title": "Planche 1",
+      "figureUrl": "https://imgs.svt20.com/images/figures/level3/unit2/chapter2/Chapter2/page01.jpg"
+    },
+    {
+      "title": "Planche 2",
+      "figureUrl": "https://imgs.svt20.com/images/figures/level3/unit2/chapter2/Chapter2/page02.jpg"
+    },
+    {
+      "title": "Planche 3",
+      "figureUrl": "https://imgs.svt20.com/images/figures/level3/unit2/chapter2/Chapter2/page03.jpg"
+    }
+  ]
+}

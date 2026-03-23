@@ -1,0 +1,32 @@
+{
+  "fonction-reproductrice-chez-lhomme": [
+    {
+      "title": "Planche 1",
+      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit1l/chapter1/Publication1/page01.jpg"
+    },
+    {
+      "title": "Planche 2",
+      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit1l/chapter1/Publication1/page02.jpg"
+    }
+  ],
+  "fonction-reproductrice-chez-la-femme-": [
+    {
+      "title": "Planche 1",
+      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit1l/chapter2/Publication1/page01.jpg"
+    },
+    {
+      "title": "Planche 2",
+      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit1l/chapter2/Publication1/page02.jpg"
+    }
+  ],
+  "de-la-fcondation-la-naissance": [
+    {
+      "title": "Planche 1",
+      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit1l/chapter3/Publication1/page01.jpg"
+    },
+    {
+      "title": "Planche 2",
+      "figureUrl": "https://imgs.svt20.com/images/figures/level2/unit1l/chapter3/Publication1/page02.jpg"
+    }
+  ]
+}
