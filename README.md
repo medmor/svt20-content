@@ -37,8 +37,7 @@ Pattern: `https://medmor.github.io/svt20-content/images/exams/{branch}/{yearSess
 
 These chapters exist in the DB but have no `.fiche.html` summary file:
 
-#### TC (5 chapters)
-- [ ] Unité 1 (Lettres) — `exploitation-et-pollution-deau`
+#### TC (4 chapters)
 - [ ] Unité 1 (Lettres) — `la-formation-des-rservoirs-deau`
 - [ ] Unité 1 (Lettres) — `eau-potable-et-cycle-deau`
 - [ ] Unité 2 — `la-reproduction-sexue-chez-les-plates-fleurs-gymnosperme-`
