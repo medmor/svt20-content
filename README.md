@@ -38,9 +38,8 @@ Pattern: `https://medmor.github.io/svt20-content/images/exams/{branch}/{yearSess
 These chapters exist in the DB but have no `.fiche.html` summary file:
 
 #### TC (0 chapters)
-- [ ] Unité 2 — `les-cycles-de-vie-et-la-classification-des-plantes-`
 
-#### 1 Bac (10 chapters)
+#### 1 Bac (9 chapters)
 - [ ] Unité 2 — `les-changes-gazeux-chlorophylliens-et-la-production-de-la-matire-organique`
 - [ ] Unité 2 — `captation-de-lnergie-lumineuse-et-ractions-de-la-photosynthse`
 - [ ] Unité 3 — `les-communications-hormonales-rgulation-de-la-glycmie`
