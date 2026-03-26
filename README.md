@@ -37,7 +37,7 @@ Pattern: `https://medmor.github.io/svt20-content/images/exams/{branch}/{yearSess
 
 These chapters exist in the DB but have no `.fiche.html` summary file:
 
-#### TC (2 chapters)
+#### TC (1 chapter)
 - [ ] Unité 1 (Lettres) — `eau-potable-et-cycle-deau`
 - [ ] Unité 2 — `la-reproduction-sexue-chez-les-plates-fleurs-gymnosperme-`
 - [ ] Unité 2 — `les-cycles-de-vie-et-la-classification-des-plantes-`
