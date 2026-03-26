@@ -39,8 +39,7 @@ These chapters exist in the DB but have no `.fiche.html` summary file:
 
 #### TC (0 chapters)
 
-#### 1 Bac (9 chapters)
-- [ ] Unité 2 — `les-changes-gazeux-chlorophylliens-et-la-production-de-la-matire-organique`
+#### 1 Bac (8 chapters)
 - [ ] Unité 2 — `captation-de-lnergie-lumineuse-et-ractions-de-la-photosynthse`
 - [ ] Unité 3 — `les-communications-hormonales-rgulation-de-la-glycmie`
 - [ ] Unité 3 — `la-communication-nerveuse`
