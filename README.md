@@ -33,33 +33,11 @@ Pattern: `https://medmor.github.io/svt20-content/images/exams/{branch}/{yearSess
 
 ## TODO
 
-### Chapters without `.fiche` files (22 chapters)
-
-These chapters exist in the DB but have no `.fiche.html` summary file:
-
-#### TC (0 chapters)
-
-#### 1 Bac (7 chapters)
-- [ ] Unité 3 — `les-communications-hormonales-rgulation-de-la-glycmie`
-- [ ] Unité 3 — `la-communication-nerveuse`
-- [ ] Unité 4 — `rgulation-de-la-fonction-reproductrice-chez-lhomme`
-- [ ] Unité 1 (Lettres) — `fonction-reproductrice-chez-lhomme`
-- [ ] Unité 1 (Lettres) — `fonction-reproductrice-chez-la-femme-`
-- [ ] Unité 1 (Lettres) — `de-la-fcondation-la-naissance`
-- [ ] Unité 2 (Lettres) — `les-rles-de-la-miose-et-de-la-fcondation-dans-la-diversit-gntique`
-
-#### 2 Bac (7 chapters)
-- [ ] Unité 2 — `le-gnie-gntique`
-- [ ] Unité 3 — `la-gntique-humaine`
-- [ ] Unité 4 — `gntique-des-populations`
-- [ ] Unité 5 — `la-discrimination-entre-le-soi-et-le-non-soi`
-- [ ] Unité 5 — `la-rponse-immunitaire-non-spcifique`
-- [ ] Unité 5 — `la-rponse-immunitaire-spcifique`
-- [ ] Unité 5 — `drgement-du-systme-immunitaire`
-
 ### Chapters without figures (15 chapters)
 
-These chapters have `image = NULL` in `svt.db` and show the logo placeholder on unit pages:
+These chapters have `image = NULL` in `svt.db` and show the logo placeholder on unit pages.
+
+All chapters now have `.fiche.html` summary files.
 
 #### TC (3 chapters)
 - [ ] `la-reproduction-sexue-chez-les-plates-fleurs-gymnosperme-` (Unité 2)
@@ -79,5 +57,3 @@ These chapters have `image = NULL` in `svt.db` and show the logo placeholder on 
 - [ ] `la-formation-des-chanes-de-montagnes` (Unité 6)
 - [ ] `le-mtamorphisme-et-sa-relation-avec-la-tectonique-des-plaques` (Unité 6)
 - [ ] `la-granitisation-et-sa-relation-avec-le-mtamorphisme` (Unité 6)
-
-> **Note:** All 15 chapters without figures also lack `.fiche` files. Generating figures for these would cover both gaps at once.
