@@ -37,16 +37,20 @@
   ],
   "captation-de-lnergie-lumineuse-et-ractions-de-la-photosynthse": [
     {
-      "title": "Slide 1",
-      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level1/unit2/chapter3/slide1.jpg"
+      "title": "Planche 1",
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit2/chapter3/Publication1/page01.jpg"
     },
     {
-      "title": "Slide 2",
-      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level1/unit2/chapter3/slide2.jpg"
+      "title": "Planche 2",
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit2/chapter3/Publication1/page02.jpg"
     },
     {
-      "title": "Slide 3",
-      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level1/unit2/chapter3/slide3.jpg"
+      "title": "Planche 3",
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit2/chapter3/Publication1/page03.jpg"
+    },
+    {
+      "title": "Planche 4",
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level2/unit2/chapter3/Publication1/page04.jpg"
     }
   ]
 }
