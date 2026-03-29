@@ -1,0 +1,194 @@
+[
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Le réceptacle mâle du fucus est formé de nombreux @blank@. Chaque conceptacle contient @blank@, portés par des poils ramifiés. Chaque anthéridie contient @blank@ qui se déplacent dans l’eau de mer, grâce à @blank@.",
+    "choices": "conceptacles mâles Answer@-@plusieurs anthéridies Answer@-@64 anthérozoïdes Answer@-@une paire de flagelle Answer@-@plusieurs oosphères@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Le réceptacle femelle du fucus est formé de nombreux @blank@. Chaque conceptacle contient @blank@, portées par des poils non ramifiés. Chaque oogone contient @blank@ sphériques de grande taille et @blank@, ce sont @blank@.",
+    "choices": "Conceptacles femelles Answer@-@plusieurs oogones Answer@-@8 cellules Answer@-@immobiles Answer@-@les oosphères Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Après libération des gamètes femelle et mâle du fucus dans l’eau de mère, @blank@ entourent @blank@. Chaque oosphère peut-être féconder @blank@ anthérozoïde, ce qui conduit à la formation du @blank@.",
+    "choices": "les anthérozoïdes Answer@-@les oosphères Answer@-@par un seul Answer@-@zygote (2n) Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "La reproduction sexuée se produit chez la spirogyre en vidant @blank@ d’une cellule appartenant à @blank@, à travers @blank@, dans une cellule appartenant @blank@.",
+    "choices": "le contenu Answer@-@au filament mâle Answer@-@le tube de conjugaison Answer@-@au filament femelle Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Chez les mousses, les gamètes se forment au niveau du @blank@. On distingue : le gamétophyte mâle qui porte @blank@ et le gamétophyte femelle qui porte @blank@.",
+    "choices": "gamétophyte Answer@-@des anthéridies Answer@-@des archégones Answer@-@sporophyte@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Chez les mousses, chaque oosphère est fécondé par @blank@, ce qui conduit à la formation @blank@. L’œuf se multiplie par @blank@ et donne un embryon qui vit @blank@ sur le gamétophyte femelle.",
+    "choices": "un seul anthérozoïde Answer@-@d’un œuf (2n) Answer@-@des mitoses Answer@-@en parasite Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "À maturité on observe, sur @blank@ des feuilles des fougères, des amas de sporanges (les sores). Au niveau de chaque sporange existe @blank@, chacune de ces cellules subit @blank@ aboutissant à la formation de plusieurs @blank@.",
+    "choices": "la face inférieure Answer@-@des cellules mères diploïdes (2n) Answer@-@une méiose Answer@-@cellules haploïdes (n) Answer@-@la face supérieur@-@une mitose@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Chez la fougère, après maturation des gamètes mâles et femelles, @blank@ sont libérés dans l’eau et ils se @blank@ vers @blank@. Un seul anthérozoïde parvient à féconder l’oosphère, ce qui conduit à la formation de @blank@.",
+    "choices": "les anthérozoïdes Answer@-@déplacent Answer@-@les oosphères Answer@-@l’œuf Answer@-@la graine@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Cochez les plantes sans fleurs :",
+    "choices": "Les algues. Answer@-@Les mousses. Answer@-@Les fougères. Answer@-@Les conifères.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Les algues se caractérisent par :",
+    "choices": "Des fleurs qui produisent le nectar.@-@Des fleurs réduit sous forme de cônes.@-@Par des couleurs différentes (verte, rouges…). Answer@-@Par l’absence de racines, de tiges et de feuilles. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "La spirogyre :",
+    "choices": "Est une algue pluricellulaire. Answer@-@Est une algue unicellulaire.@-@Est une algue brune.@-@Est une algue verte. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "La fécondation chez le fucus vésiculeux :",
+    "choices": "Se fait dans l’eau de mer. Answer@-@Se fait dans le les Anthéridies.@-@Conduit à la formation du zygote. Answer@-@Conduit à la formation de l’oosphère.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "La formation des gamètes chez le fucus vésiculeux :",
+    "choices": "Se fait dans les conceptacles. Answer@-@Se fait dans les flotteurs.@-@Se fait par mitose.@-@Se fait par méiose. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Chez le fucus vésiculeux, le gamète mâle est :",
+    "choices": "Une oosphère.@-@Un anthérozoïde. Answer@-@Une anthéridie.@-@Une oogone.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "La conjugaison est un phénomène qui caractérise :",
+    "choices": "La spirogyre. Answer@-@Le focus vésiculeux.@-@La fougère.@-@Le pin.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Le gamétophyte :",
+    "choices": "Produit les gamètes. Answer@-@Produit les spores.@-@Est constitué par des cellules haploïdes. Answer@-@Est constitué par des cellules diploïdes.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Chez les mousses :",
+    "choices": "La fécondation se fait dans l’eau de mer.@-@La fécondation se fait à l’intérieur de l’archégone. Answer@-@Le sporophyte se développe indépendamment du gamétophyte.@-@Le sporophyte se développe au-dessus du gamétophyte. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Le sporophyte :",
+    "choices": "Produit les gamètes.@-@Produit les spores. Answer@-@Est constitué par des cellules haploïdes.@-@Est constitué par des cellules diploïdes. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Chez le focus vésiculeux, les gamètes mâles sont statiques alors que les gamètes femelles sont mobiles.",
+    "choices": "Vrai.@-@Faux. Answer@-@Chez le focus vésiculeux, les gamètes mâles sont mobiles alors que les gamètes femelles sont statiques.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Chez le focus vésiculeux, les réceptacles mâles et les réceptacles femelles ont la même couleur",
+    "choices": "Vrai.@-@Faux. Answer@-@Chez le focus vésiculeux, les réceptacles mâles sont oranges alors que les réceptacles femelles sont verdâtres.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "La fécondation chez le focus vésiculeux nécessite la présence d’eau.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Les algues ont un appareil végétatif simple appelé le thalle.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Chez le focus vésiculeux, les anthérozoïdes se forment dans les anthéridies et les oosphères se forment dans les oogones.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "La reproduction sexuée chez la spirogyre se fait par le phénomène de conjugaison.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Chez la spirogyre, la reproduction sexuée se fait lorsque les conditions du milieu sont favorables.",
+    "choices": "Vrai.@-@Faux. Answer@-@La reproduction sexuée chez la spirogyre est une forme de résistance aux conditions défavorables.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Chez les mousses, la production des gamètes se fait dans les fleurs.",
+    "choices": "Vrai.@-@Faux. Answer@-@les mousses sont des plantes sans fleurs.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Chez les mousses, les spores se développent pour donner les gamétophytes.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Chez les mousses, le sporophyte se développe au-dessus du gamétophyte.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Chez les mousses, le gamétophyte se développe au-dessus du sporophyte.",
+    "choices": "Vrai.@-@Faux. Answer@-@Chez les mousses, le sporophyte se développe au-dessus du gamétophyte.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "La reproduction sexuée de la fougère se caractérise par l’alternance de deux générations : une diploïde et l’autre haploïde.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Chez la fougère, le gamétophyte (prothalle) est une plante non chlorophyllienne.",
+    "choices": "Vrai.@-@Faux. Answer@-@Chez la fougère, le gamétophyte (prothalle) est une plante chlorophyllienne.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter3/",
+    "question": "Chez la fougère, il existe un gamétophyte mâle qui produit les anthérozoïdes et un gamétophyte femelle qui produit les oosphères.",
+    "choices": "Vrai.@-@Faux. Answer@-@Chez la fougère, le même prothalle produit les gamètes mâle et les gamètes femelles.@-@",
+    "type": "tof"
+  }
+]

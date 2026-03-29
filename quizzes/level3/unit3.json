@@ -1,0 +1,224 @@
+[
+  {
+    "level": "level3/unit3/",
+    "question": "@blank@ de l’information génétique d’ @blank@ à l’autre nécessite la succession de deux phénomènes fondamentaux : @blank@ (pour la formation des gamètes) et @blank@.",
+    "choices": "le transfert Answer@-@une génération Answer@-@la méiose Answer@-@la fécondation Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "@blank@ est une succession de deux divisions (réductionnelle et @blank@) qui permet d’obtenir @blank@ cellules filles haploïdes à partir @blank@ diploïde.",
+    "choices": "la méiose Answer@-@équationnelle Answer@-@quatre Answer@-@d’une cellule mère Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "La première division de la méiose (@blank@) assure la séparation des chromosomes @blank@ d’où @blank@ de moitié le nombre de @blank@.",
+    "choices": "division réductionnelle Answer@-@homologues Answer@-@la réduction Answer@-@chromosomes Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "@blank@ de @blank@ (division équationnelle) assure la séparation @blank@ de chaque chromosome.",
+    "choices": "La deuxième division Answer@-@la méiose Answer@-@des chromatides Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "@blank@ des caractères parentaux au cours de @blank@ est la conséquence de deux types de recombinaisons : @blank@ intrachromosomique et la recombinaison @blank@.",
+    "choices": "le brassage Answer@-@la méiose Answer@-@la recombinaison Answer@-@interchromosomique Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "@blank@ intrachromosomique s’effectue pendant @blank@ lorsque les paires de chromosomes homologues sont @blank@. Cet accolement permet des échanges de @blank@ de chromatides, c’est @blank@.",
+    "choices": "la recombinaison Answer@-@la prophase I Answer@-@appariées Answer@-@fragments Answer@-@le crossing-over Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "La première loi de Mendel ou @blank@ : @blank@ entre deux individus @blank@ donne une génération F1 constituée d’individus @blank@ (de même phénotype).",
+    "choices": "la loi d’uniformité des hybrides Answer@-@le croisement Answer@-@de races pures Answer@-@semblables Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "La méiose est constituée d’une :",
+    "choices": "succession de deux mitoses ;@-@division réductionnelle précédée d’une division équationnelle ;@-@division réductionnelle suivie d’une division équationnelle ; Answer@-@succession de deux divisions précédées chacune d’une interphase.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Dans le cas d’une maladie héréditaire liée à un allèle dominant porté par le chromosome X :",
+    "choices": "le père atteint de la maladie est hétérozygote ;@-@une femme saine donne naissance à un garçon malade ;@-@un père atteint de la maladie donne naissance à une fille saine ;@-@un père atteint de la maladie donne naissance à une fille malade. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Le brassage intrachromosomique se traduit par :",
+    "choices": "l’échange des fragments entre les chromosomes non homologues de la prophase I ;@-@l’échange des fragments entre les chromosomes homologues lors de la prophase I ; Answer@-@la séparation aléatoire des chromosomes homologues lors de l’anaphase I ;@-@la séparation aléatoire des chromosomes non homologue lors de l’anaphase I.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Les yeux de réplication apparaissent au cours de :",
+    "choices": "la prophase.@-@l’interphase. Answer@-@la métaphase.@-@la télophase.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "La méiose donne :",
+    "choices": "quatre cellules diploïdes à partir d’une cellule mère diploïde.@-@deux cellules diploïdes à partir d’une cellule mère diploïde.@-@quatre cellules haploïdes à partir d’une cellule mère diploïde. Answer@-@deux cellules haploïdes à partir d’une cellule mère lipoïde.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Une personne atteinte du syndrome de Down possède :",
+    "choices": "le chromosome 22 en un seul exemplaire.@-@le chromosome 21 en trois exemplaires. Answer@-@le chromosome 22 en trois exemplaires.@-@le chromosome 21 en un seul exemplaire.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "la formule chromosomique d’un individu atteint du syndrome de klinefelter est :",
+    "choices": "2n-1 = 22AA + Y.@-@2n-1 = 22AA + X.@-@2n = 22AA + XXY.@-@2n+1 = 22AA + XYY. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "La méiose produit :",
+    "choices": "4 cellules haloïdes à partir d’une cellule diploïde. Answer@-@2 cellules diploïdes à partir d’une cellule diploïde.@-@4 cellules diploïdes à partir d’une cellule diploïde.@-@2 cellules haploïdes à partir d’une cellule diploïde.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Lors de la méiose, se déroulant sans anomalies, il peut s’effectuer :",
+    "choices": "un brassage intrachromosomique puis un brassage interchromosomique. Answer@-@un brassage interchromosomique entre chromosomes homologues.@-@un brassage intrachromosomique entre chromosomes non homologues.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Si un individu présente un phénotype différent de celui de ses parents, cela s’explique par le fait que :",
+    "choices": "l’allèle qui contrôle le phénotype considéré est obligatoirement situé sur le chromosome X.@-@l’allèle qui contrôle le phénotype considéré est obligatoirement situé sur un autosome.@-@les parents de cet individu sont hétérozygotes. Answer@-@l’allèle responsable du phénotype est dominant.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Un crossing-over est un échange entre :",
+    "choices": "les deux chromatides d’un chromosome dédoublé.@-@les chromosomes de deux paires de chromosomes différentes.@-@deux chromosomes homologues non dédoublés.@-@deux chromatides de deux chromosomes homologues. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Le caryotype d’un garçon atteint de trisomie 21 comporte :",
+    "choices": "43 autosomes +XY.@-@44 autosomes + XY.@-@45 autosomes +XY. Answer@-@46 autosomes +XY.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Les difficultés de la génétique humaine sont :",
+    "choices": "la fécondité est restreinte. Answer@-@la durée des générations est longue. Answer@-@les croisements dirigés sont possibles.@-@le contenu chromosomique est complexe. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Dans le cas d’une maladie autosomale récessive :",
+    "choices": "tout individu sain est homozygote.@-@un couple de phénotype normal ne donne jamais de descendants atteints.@-@tout garçon atteint n’hérite la maladie que de sa mère.@-@le mariage consanguin augmente le risque d’apparition de la maladie chez le descendant. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Une femme atteinte d’une anomalie récessive liée au chromosome X :",
+    "choices": "est issue obligatoirement d’un père atteint. Answer@-@ses fils seront tous atteints. Answer@-@est issue obligatoirement d’une mère atteinte.@-@ne risque pas d’avoir des enfants atteints.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Un croisement-test consiste à croiser deux individus hétérozygotes afin d’analyser leur descendance.",
+    "choices": "Vrai.@-@Faux. Answer@-@Un croisement-test consiste à croiser un individu récessif (homozygote) avec un autre individu dominant (génotype inconnu), afin de connaître le génotype du dominant.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Le pourcentage de recombinaisons permet de mesurer la distance génétique entre deux gènes liés.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Les crossing-over assurent la production, par l’individu homozygote, de gamètes génétiquement variés.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les crossing-over assurent la production, par l’individu hétérozygote, de gamètes génétiquement variés.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "La fréquence des crossing-over entre deux locus est très faible.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "La méiose est un mécanisme qui permet de former des cellules diploïdes à partir de cellules haploïdes.",
+    "choices": "Vrai.@-@Faux. Answer@-@La méiose est un mécanise qui permet de former des cellules haploïdes à partir de cellules diploïdes.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "La fécondation réunit toujours deux lots haloïdes de chromosomes.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "La première division de la méiose est suivie d’une duplication de l’ADN.",
+    "choices": "Vrai.@-@Faux. Answer@-@La première division de la méiose est directement suivie par la deuxième division, sans duplication de l’ADN.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Le syndrome de Down résulte d’une perte d’un chromosome 21.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le syndrome de Down résulte d’un ajout d’un chromosome 21.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "La réplication de l’ADN est semi-conservative.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "La formule chromosomique du gamète femelle chez l’Homme est n= 22AA+X.",
+    "choices": "Vrai.@-@Faux. Answer@-@La formule chromosomique du gamète femelle chez l’Homme est n = 22A + X (ou n = 22A + Y).@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Les yeux de réplication s’observent lors de la phase S de l’interphase.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "L’anomalie chromosomique est une modification du nombre ou de la structure des chromosomes.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "La translocation réciproque est le transfert d’un fragment de chromosome sur un autre chromosome.",
+    "choices": "Vrai.@-@Faux. Answer@-@La translocation simple est le transfert d’un fragment de chromosome sur un autre chromosome.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "La translocation chromosomique équilibrée modifie le nombre des chromosomes chez l’individu porteur de cette anomalie.",
+    "choices": "Vrai.@-@Faux. Answer@-@La translocation chromosomique équilibrée ne modifie pas le contenu chromosomique chez l’individu porteur de cette anomalie.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3/",
+    "question": "Les maladies héréditaires récessives liées au chromosome sexuel X affectent les femelles plus que les mâles.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les maladies héréditaires récessives liées au chromosome sexuel X affectent les mâles plus que les femelles.@-@",
+    "type": "tof"
+  }
+]

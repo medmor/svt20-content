@@ -1,0 +1,248 @@
+[
+  {
+    "level": "level3/unit3sp/",
+    "question": "@blank@ sont tous les résidus des activités @blank@, Elles contiennent un taux très élevé de @blank@.",
+    "choices": "les ordures ménagères Answer@-@domestiques Answer@-@matières organiques Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "@blank@ des déchets dans la nature varie d’un type à un autre. La décomposition @blank@ se fait en moins d’un an, en revanche, il faut 1 000 ans pour la décomposition @blank@.",
+    "choices": "la durée de vie Answer@-@des éléments biodégradables Answer@-@du plastique Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Le compostage est @blank@ réalisé grâce aux micro-organismes @blank@, qui transforment @blank@ en un produit riche en composés humiques et en minéraux : @blank@.",
+    "choices": "un processus biologique Answer@-@aérobies Answer@-@la matière organique Answer@-@le compost Answer@-@anaérobies@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Le biogaz est @blank@ produite par un processus naturel de @blank@ de la matière organique par @blank@. Les méthanobacteriums dégradent la matière organique en @blank@ pour produire @blank@.",
+    "choices": "une énergie renouvelable Answer@-@la dégradation Answer@-@fermentation Answer@-@anaérobie Answer@-@le méthane (CH₄) Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "L’incinération est @blank@ des ordures ménagères dans un four sous @blank@. Elle a pour objectif la réduction importante @blank@ des déchets.",
+    "choices": "la combustion Answer@-@une haute température Answer@-@du volume Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Les fumées rejetées par @blank@ contiennent des métaux lourds, @blank@… qui sont une menace pour @blank@ de l’homme et @blank@.",
+    "choices": "les usines d’incinération Answer@-@la dioxine Answer@-@la santé Answer@-@l’environnement Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "L’effet de serre est un phénomène naturel qui permet à @blank@ de retenir @blank@ dans l’atmosphère et de maintenir une température adéquate à @blank@ sur la terre : @blank@ en moyenne. Sans cela, la température de la Terre serait d’environ @blank@.",
+    "choices": "la terre Answer@-@le rayonnement infra-rouge Answer@-@la vie Answer@-@15 °C Answer@-@−18 °C Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "La couche d’ozone est la partie de l’atmosphère située @blank@ d’altitude (stratosphère). L’ozone de la stratosphère absorbe la plupart @blank@ néfastes pour @blank@. La destruction de la couche d’ozone est due essentiellement à @blank@.",
+    "choices": "entre 20 km et 50 km Answer@-@des rayons ultraviolets Answer@-@les êtres vivants Answer@-@l’élément chlore (Cl) Answer@-@entre 2km et 10 km@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Les pluies acides sont toute forme de @blank@ anormalement acides. Les pluies acides résultent essentiellement de la pollution de l’air par @blank@ (SO2) et @blank@ (NOx) qui se forment lors de toute @blank@ dans l’atmosphère.",
+    "choices": "précipitations Answer@-@le dioxyde de soufre Answer@-@les oxydes d’azote Answer@-@combustion Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "L’infiltration du lixiviat dans le sol provoque :",
+    "choices": "la production du méthane.@-@l’effet de serre.@-@les pluies acides.@-@la pollution des nappes phréatiques. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "L’augmentation de la concentration atmosphérique des gaz à effet de serre résulte de l’utilisation de l’énergie :",
+    "choices": "éolienne.@-@fossile. Answer@-@géothermique.@-@hydraulique.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Le contrôle de la qualité des milieux aquatiques se base sur :",
+    "choices": "l’indice biotique IBQS.@-@les indices DCO et DBO5. Answer@-@la concentration du méthane.@-@la densité de la macroflore.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Le tri des déchets est une opération qui se déroule selon les étapes suivantes : E1 : transport des colis de déchets triés vers les unités de recyclage ; E2 : collecte des déchets ; E3 : tri des déchets à la maison ; E4 : déchargement des déchets au niveau des centres de tri ; E5 : tri au niveau des centres de tri ; La succession de ces étapes est :",
+    "choices": "E3 → E2 → E4 → E5 →E1. Answer@-@E3 → E5 → E4 → E1 →E2.@-@E3 → E4 → E1 → E2 →E5.@-@E3 → E1 → E2 → E5 →E4.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "L’effet de serre est le résultat de la pollution de l’air par :",
+    "choices": "les rayonnements radioactifs.@-@le méthane (CH4). Answer@-@l’azote N2.@-@l’hydrogène H2.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "L’eutrophisation des lacs résulte de :",
+    "choices": "la prolifération de sa faune aquatique.@-@l’enrichissement de ses eaux par le calcium.@-@l’enrichissement de ses eaux par les nitrates. Answer@-@l’enrichissement de ses eaux par les pesticides chimiques.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "La pollution des eaux par les nitrates résulte principalement de :",
+    "choices": "l’utilisation excessive des engrais chimiques. Answer@-@lexiviat.@-@l’utilisation excessive des pesticides.@-@polluants radioactifs.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Les déchets radioactifs du type B sont de :",
+    "choices": "forte activité radioactive et de courte durée de vie. Answer@-@forte activité radioactive et de longue durée de vie.@-@faible activité radioactive et de courte durée de vie.@-@faible activité radioactive et de longue durée de vie.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Les ordures ménagères :",
+    "choices": "sont constitués par l’ensemble des déchets produits par l’industrie pétrolière.@-@sont constitués par l’ensemble des déchets produits par les activités domestiques. Answer@-@sont constitués par l’ensemble des déchets produit par l’industrie nucléaire.@-@sont constitués par l’ensemble des déchets produit par l’activité volcanique.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Parmi les énergies renouvelables on cite :",
+    "choices": "l’énergie nucléaire.@-@le pétrole.@-@le charbon.@-@l’énergie solaire. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Parmi les énergies fossiles on cite :",
+    "choices": "l’énergie éolienne.@-@le pétrole. Answer@-@le charbon. Answer@-@l’énergie solaire.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Le biocarburant :",
+    "choices": "est produit par la fermentation aérobie de la matière organique.@-@est produit par la fermentation anaérobie de la matière organique. Answer@-@est une énergie renouvelable. Answer@-@est une énergie fossile.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Les éléments nucléaires peuvent être utilisés dans :",
+    "choices": "le domaine médical. Answer@-@la production du biocarburant.@-@la production du compost.@-@la datation absolue. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "L’incinération :",
+    "choices": "est la combustion des ordures dans des fours spécialisés à haute température. Answer@-@est la biodégradation aérobie des ordures.@-@est la biodégradation anaérobie des ordures.@-@produit le lixiviat.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "La désintégration des noyaux atomiques des substances radioactives s’accompagne par la production d’une énergie exploitable.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Les activités agricoles et industrielles excessives participent à la stabilité du taux atmosphérique du dioxyde de carbone.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les activités agricoles et industrielles excessive participent dans l’augmentation du taux atmosphérique du dioxyde de carbone.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Les pluies acides résultent de l’augmentation du taux des oxydes d’azote et des oxydes de soufre dans l’atmosphère.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "L’amincissement de la couche d’ozone résulte de la réaction de l’ozone avec le dioxyde de carbone.",
+    "choices": "Vrai.@-@Faux. Answer@-@L’amincissement de la couche d’ozone résulte de la réaction de l’ozone avec le CFC.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Le biogaz résulte de l’oxydation des déchets organiques en anaérobie sous l’action des microorganismes.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Les pluies acides résultent de l’interaction de l’eau atmosphérique avec le complexe CFC.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les pluies acides résultent de l’interaction de l’eau atmosphérique avec les oxydes d’azote et les oxydes de soufre.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "L’amincissement de la couche d’ozone résulte de l’interaction des oxydes du soufre avec les molécules d’ozone.",
+    "choices": "Vrai.@-@Faux. Answer@-@L’amincissement de la couche d’ozone résulte de l’interaction des CFC avec les moécules d’ozone.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "La demi-vie est le temps au bout duquel toute la matière radioactive est désintégrée.",
+    "choices": "Vrai.@-@Faux. Answer@-@La demi-vie est le temps au bout duquel la moitié de la matière radioactive est désintégrée.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Les activités domestiques sont les seules sources des déchets organiques.",
+    "choices": "Vrai.@-@Faux. Answer@-@Il existe plusieurs sources de déchets organiques comme : l’industrie agroalimentaire, l’agriculture… @-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Le trie des ordures est une opération qui n’implique que des personnes spécialisées.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le trie des ordures est une opération qui peut être réalisé même à la maison par tous les personnes.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Les ordures ménagères n’ont aucun intérêt économique.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les ordures ménagères peuvent être réutilisées par compostage, production de biogaz, recyclage… @-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Le compost résulte de l’action de microorganismes en milieu aérobie.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Le méthane est le résultat de l’oxydation de la matière organique par des bactéries anaérobies.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "L’effet de serre résulte de l’augmentation de la teneur en CO2 dans l’air.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Les pluies acides résultent de la réaction de l’eau souterraine avec certains gaz polluants.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les pluies acides résultent de la réaction de l’eau atmosphérique avec certains gaz polluants.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "L’élément radioactif est caractérisé par sa capacité d’émettre des radiations alpha et bêta.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "Les éléments radioactifs n’ont aucune répercussion négative sur l’être humain.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les éléments radioactifs sont très dangereux pour la santé humaine.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit3sp/",
+    "question": "La DBO5 est un indice utilisé pour la mesure de la qualité du sol.",
+    "choices": "Vrai.@-@Faux. Answer@-@La DBO5 est in indice utilisé pour la mesure de la qualité d’eau.@-@",
+    "type": "tof"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "@blank@ des graines permet aux plantes @blank@ de nouveaux espaces. Elle se fait par deux facteurs essentiels : par le vent @blank@ et par les animaux @blank@.",
+    "choices": "la dissémination Answer@-@coloniser Answer@-@(Anémochorie) Answer@-@(Zoochorie) Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "La fleur est constituée essentiellement par @blank@ (les sépales et @blank@) et @blank@ (@blank@ et le pistil).",
+    "choices": "des organes protecteurs Answer@-@les pétales Answer@-@des organes reproducteurs Answer@-@les étamines Answer@-@la graine@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "Une étamine est formée @blank@ portée par @blank@. L’anthère comporte plusieurs @blank@ qui à maturité libèrent @blank@.",
+    "choices": "d’une anthère Answer@-@un filet Answer@-@sacs polliniques Answer@-@les grains de pollen Answer@-@les sacs embryonnaires@-@les ovules@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "Le pistil est constitué @blank@ parties : @blank@, le style et l’ovaire. L’ovaire contient un ou plusieurs @blank@.",
+    "choices": "de trois Answer@-@le stigmate Answer@-@ovules Answer@-@quatre@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "Au sein de l’ovule (nucelle), @blank@ diploïde (2n) subit @blank@ et donne @blank@ dont 3 dégénèrent. La cellule restante est @blank@.",
+    "choices": "une cellule mère Answer@-@une méiose Answer@-@4 cellules haploïdes Answer@-@une macrospore Answer@-@2 cellules haploïdes@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "Durant la germination, le grain de pollen émet @blank@. Durant la croissance du tube pollinique, @blank@ est toujours à l’extrémité suivie par @blank@ qui subit @blank@ et donne deux @blank@.",
+    "choices": "le tube pollinique Answer@-@le noyau végétatif Answer@-@le noyau reproducteur Answer@-@une mitose Answer@-@anthérozoïdes Answer@-@une méiose@-@ovules@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "La fécondation est le stade de la reproduction @blank@ consistant en une fusion des @blank@ : mâle et @blank@. Les angiospermes se caractérisent par @blank@.",
+    "choices": "sexuée Answer@-@deux gamètes Answer@-@femelle Answer@-@la double fécondation Answer@-@deux anthérozoïdes@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "L’appareil reproducteur mâle est :",
+    "choices": "un pistil.@-@un ovaire.@-@une étamine. Answer@-@un pétale.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "Le gamète mâle est porté par :",
+    "choices": "L’ovule.@-@L’ovaire.@-@la graine.@-@le grain de pollen. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "Les grains de pollen se forment dans :",
+    "choices": "les sacs embryonnaires.@-@les sacs polliniques. Answer@-@les sacs aérifères.@-@l’ovaire.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "L’ovule se trouve dans :",
+    "choices": "L’ovaire. Answer@-@le sac embryonnaire.@-@le sac pollinique.@-@l’anthère.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "La pollinisation se fait :",
+    "choices": "seulement par le vent.@-@seulement par des facteurs abiotiques.@-@seulement par des facteurs biotiques.@-@par les facteurs biotiques et abiotiques. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "La fécondation est dite double car :",
+    "choices": "les deux anthérozoïdes fécondent les deux noyaux du sac.@-@les deux anthérozoïdes fécondent deux oosphères.@-@un anthérozoïde féconde l’oosphère et l’autre dégénère.@-@un anthérozoïde féconde l’oosphère et l’autre fécondent les deux noyaux du sac. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "La germination des graines nécessite :",
+    "choices": "un milieu humide. Answer@-@une température inférieure à 0 C.@-@un milieu anaérobie.@-@une bonne aération. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "L’embryon résulte du développement de :",
+    "choices": "l’œuf principal. Answer@-@l’œuf secondaire.@-@grain de pollen.@-@l’ovule.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "Le sac embryonnaire :",
+    "choices": "contient le gamète mâle.@-@est formé de cellules diploïdes.@-@est formé de cellules haploïdes. Answer@-@contient le noyau végétatif.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "La méiose :",
+    "choices": "donne deux cellules haploïdes.@-@donne deux cellules diploïdes.@-@donne quatre cellules haploïdes. Answer@-@donne quatre cellules diploïdes.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "La pollinisation peut s’effectuer :",
+    "choices": "par le vent. Answer@-@par des insectes. Answer@-@par des facteurs biotiques. Answer@-@par des facteurs abiotiques. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "La germination de la graine se fait en 4 étapes, classez ces étapes dans l’ordre chronologique :",
+    "choices": "La graine gonfle, la radicule se détache et pousse vers le bas.@-@La tigelle pousse vers le haut.@-@Apparition des premières feuilles vertes.@-@Les feuilles s’épanouissent, ainsi la plante devient autotrophe.@-@",
+    "type": "ord"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "De l’extérieur à l’intérieur, le grain de pollen contient :",
+    "choices": "Une exine (membrane externe).@-@Une intine (membrane interne).@-@Un noyau végétatif et un reproducteur.@-@",
+    "type": "ord"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "La formation du grain de pollen se fait par les étapes suivantes : classez ces étapes dans l’ordre chronologique :",
+    "choices": "La cellule mère subie la méiose@-@Les microspores subissent une mitose@-@La différentiation des microspores@-@",
+    "type": "ord"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "La formation du sac pollinique se fait par les étapes suivantes : classez ces étapes dans l’ordre chronologique :",
+    "choices": "La cellule mère subie la méiose@-@3 cellules haploïdes dégénèrent@-@La macrospore subie des mitoses@-@",
+    "type": "ord"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "La germination du grain de pollen se fait selon les étapes suivantes : classez ces étapes dans l’ordre chronologique :",
+    "choices": "Le grain de pollen émet le tube pollinique.@-@La croissance du tube pollinique.@-@La mitose du noyau reproducteur.@-@",
+    "type": "ord"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "L’oosphère se forme dans le sac pollinique.",
+    "choices": "Vrai.@-@Faux. Answer@-@L’oosphère se forme dans le sac embryonnaire.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "Les grains de pollen sont haploïdes.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "La graine est constituée essentiellement par un œuf principal et des réserves nutritifs.",
+    "choices": "Vrai.@-@Faux. Answer@-@La graine est constituée essentiellement par un embryon et des réserves nutritifs.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "Les angiospermes se caractérisent par la double fécondation.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "La fécondation est la fusion entre un gamète femelle avec un gamète mâle.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "Les fleurs pollinisées par le vent se caractérisent par des couleurs vives, un parfum sucré et la production du nectar.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les fleurs pollinisées par les insectes se caractérisent par des couleurs vives, un parfum sucré et la production du nectar.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "Après fécondation, l’ovaire se transforme en fruit et le stigmate en graines.",
+    "choices": "Vrai.@-@Faux. Answer@-@Après fécondation l’ovaire se transforme en fruit et les ovules en graines.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "Durant la germination du grain pollinique, le noyau reproducteur se situe à l’extrémité du tube pollinique.",
+    "choices": "Vrai.@-@Faux. Answer@-@Durant la germination du grain pollinique, le noyau végétatif se situe à l’extrémité du tube pollinique.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "Durant leur maturation, les graines perdent l’eau pour entrer en vie active.",
+    "choices": "Vrai.@-@Faux. Answer@-@Durant leur maturation, les graines perdent l’eau pour entrer en vie ralentie.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter1/",
+    "question": "La pollinisation est le transport des graines qui se déposent sur le stigmate.",
+    "choices": "Vrai.@-@Faux. Answer@-@La pollinisation est le transport des grains de pollen qui se déposent sur le stigmate.@-@",
+    "type": "tof"
+  }
+]

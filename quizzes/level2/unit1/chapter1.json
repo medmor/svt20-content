@@ -1,0 +1,170 @@
+[
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "La plupart @blank@ constitutifs des roches sédimentaires résultent de @blank@ des roches formant la lithosphère sous l’influence @blank@.",
+    "choices": "des sédiments Answer@-@l’érosion Answer@-@de facteurs d’érosion Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Dans les cours d’eau, @blank@ se caractérisent par une disposition longitudinale, où les gros éléments se déposent dans @blank@, tandis que les éléments fins se déposent dans @blank@.",
+    "choices": "les sédiments détritiques Answer@-@l’amont Answer@-@l’aval Answer@-@les sédiments chimiques@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "@blank@, les sédiments sont généralement constitués de sable, de gravier et de restes de coquilles, et sont constamment soumis aux mouvements @blank@ et aux @blank@ de vent.",
+    "choices": "dans les plages Answer@-@des vagues Answer@-@courants Answer@-@dans les déserts@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "@blank@ s’intéresse à la distribution statistique des éléments @blank@ selon @blank@.",
+    "choices": "l’étude granulométrique Answer@-@détritiques Answer@-@la taille Answer@-@chimiques@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "@blank@ sont situés entre @blank@ et le milieu continental et ont donc des propriétés @blank@ (continentales et marines).",
+    "choices": "les milieux intermédiaires Answer@-@le milieu marin Answer@-@mixtes Answer@-@le milieu fluvial@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Les fentes de dessiccation",
+    "choices": "Indiquent un milieu aquatique de grande profondeur.@-@Se forment à cause de l’asséchement des graviers.@-@Permettent de déterminer le lit et le toit d’une couche sédimentaire. Answer@-@Se forment à cause de l’asséchement de l’argile. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Les sédiments des cours d’eau se constituent essentiellement par :",
+    "choices": "Les évaporites.@-@Les roches phosphatées.@-@Les sédiments détritiques (sable, gravier…). Answer@-@Les roches calcaires.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Déterminer les sédiments détritiques :",
+    "choices": "Les argiles. Answer@-@Les calcaires.@-@Les graviers. Answer@-@Les évaporites.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Le sable éolien :",
+    "choices": "Contient une grande quantité des grains RM.@-@Contient une grande quantité des grains EL.@-@Contient une grande quantité des grains NU. Answer@-@Ne contient pas de grains de quartz.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Les grains de quartz EL indique :",
+    "choices": "Une courte distance de transport.@-@Une moyenne à longue distance de transport. Answer@-@Un transport par le vent.@-@Un transport par l’eau. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Les grands fonds marins :",
+    "choices": "Ont une profondeur qui s’étend de 0 à – 10 m.@-@Ont une profondeur qui s’étend de −10 à – 200 m.@-@Peuvent contenir des sédiments fins (argile rouge). Answer@-@Peuvent contenir des sédiments grossiers (Blocs, gravier).@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Une roche sédimentaire :",
+    "choices": "est une roche issue de la solidification du magma.@-@est une roche issue du métamorphisme d’une roche ancienne.@-@est une roche issue des processus de la géodynamique externe. Answer@-@est une roche exogène. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "On cite parmi les processus de la dynamique externe :",
+    "choices": "la fusion.@-@la sédimentation. Answer@-@le transport. Answer@-@le métamorphisme.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Le sable rocheux est une roche :",
+    "choices": "sédimentaire d’origine chimique.@-@Sédimentaire d’origine biologique.@-@Sédimentaire détritique. Answer@-@Sédimentaire d’origine biochimique.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "L’échantillon de sable est traité par H₂O₂ et HCl pour :",
+    "choices": "éliminer la matière organique. Answer@-@éliminer le calcaire. Answer@-@éliminer l’argile.@-@éliminer les cailloux.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Dans l’étude morphoscopique des grains de quartz, on s’intéresse :",
+    "choices": "à la composition chimique des grains de quartz.@-@à la forme des grains de quartz. Answer@-@à la composition minéralogique des gains de quartz.@-@à la datation absolue des grains de quartz.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "L’érosion est due, uniquement, aux facteurs physiques.",
+    "choices": "Vrai.@-@Faux. Answer@-@L’érosion est due aux facteurs physique, chimique et biologiques.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Le talus continental est caractérisé par des courants de turbidités.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Dans un granoclassement vertical, les grains fins se déposent dans le lit et les grains grossiers dans le toit de la couche.",
+    "choices": "Vrai.@-@Faux. Answer@-@Dans un granoclassement vertical les grains grossiers se déposent dans le lit, et les grains fins dans le toit de la couche.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Le phosphate au Maroc s’est formé dans un milieu continental peu profond.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le phosphate au Maroc s’est formé dans un milieu marin peu profond.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Le transport et la sédimentation des sédiments détritiques sont influencés par deux facteurs qui sont : Le poids et la taille des sédiments.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le transport est la sédimentation des sédiments détritiques sont influencés par deux facteurs qui sont : Le poids et la force du courant.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Les courants océaniques froids transportent le phosphore dissous de la surface de la mer vers le fond.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les courants océaniques froids transportent le phosphore dissous de la profondeur ver la surface de la mer.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Les courants océaniques froids transportent le phosphore dissous de la profondeur ver la surface de la mer.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Les terrasses fluviatiles étagées se forment lorsqu’il y a prédominance de la sédimentation sur l’érosion.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les terrasses fluviatiles étagées se forment lorsqu’il y a prédominance de l’érosion sur la sédimentation.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "La lagune se caractérise par la sédimentation des évaporites.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "L’argile est une roche sédimentaire d’origine chimique.",
+    "choices": "Vrai.@-@Faux. Answer@-@L’argile est roche sédimentaire détritique.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Le conglomérat est une roche sédimentaire détritique.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter1/",
+    "question": "Les rides du courant asymétriques permettent de déterminer le sens du courant.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "level": "level3/unit5/",
+    "question": "Dans certains cas le @blank@ n’accomplit pas son rôle ; les réponses peuvent être excessives ou @blank@. C’est le @blank@ du système immunitaire.",
+    "choices": "le système immunitaire Answer@-@insuffisantes Answer@-@dysfonctionnement Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "@blank@ est une réaction immunitaire @blank@. L’antigène qui déclenche une réponse allergique est appelé @blank@.",
+    "choices": "l’allergie Answer@-@excessive Answer@-@allergène Answer@-@insuffisante@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Dans la phase de @blank@ de la réponse allergique, @blank@ secrètent les anticorps @blank@ qui se lient aux @blank@.",
+    "choices": "sensibilisation Answer@-@les plasmocytes Answer@-@IgE Answer@-@mastocytes Answer@-@IgG@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "@blank@ est un ensemble de symptômes consécutifs à @blank@ des cellules du système immunitaire par @blank@. C’est le @blank@ stade de l’infection par le VIH.",
+    "choices": "le SIDA Answer@-@la destruction Answer@-@le VIH Answer@-@dernier Answer@-@premier@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Le VIH attaque les lymphocytes @blank@ du fait de @blank@ structurale des récepteurs CD4 et des glycoprotéines @blank@ du VIH.",
+    "choices": "T4 Answer@-@la complémentarité Answer@-@gp120 Answer@-@T8@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Durant une réponse immunitaire spécifique contre un antigène, une partie @blank@ deviennent @blank@. Lors d’une infection par @blank@, ces cellules agissent plus rapidement et @blank@ que lors de la première infection.",
+    "choices": "des lymphocytes B et T Answer@-@des lymphocytes mémoire Answer@-@le même antigène Answer@-@plus efficacement Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "@blank@ se forment dans @blank@ et passe au @blank@ pour y acquérir leur @blank@.",
+    "choices": "les lymphocytes T Answer@-@la moelle osseuse Answer@-@thymus Answer@-@compétence immunitaire Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "@blank@ se forment et acquièrent leur @blank@ dans @blank@.",
+    "choices": "les lymphocytes B Answer@-@compétence immunitaire Answer@-@la moelle osseuse Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "@blank@ constituent les organes lymphatiques @blank@. La rate, les amygdales et @blank@ constituent les organes lymphatiques @blank@.",
+    "choices": "le thymus et la moelle osseuse Answer@-@centraux Answer@-@les ganglions lymphatiques Answer@-@périphériques Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "On distingue 3 types de barrières immunitaire innées : @blank@ (comme la peau), @blank@ (comme la sueur) et @blank@ (comme la flore bactérienne intestinale).",
+    "choices": "la barrière mécanique Answer@-@la barrière biochimique Answer@-@la barrière écologique Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Le complexe immun se forme par la liaison entre:",
+    "choices": "Les lymphocytes Tc et les antigènes.@-@Le complément et les antigènes.@-@Le complément et les anticorps .@-@Les anticorps et les antigènes. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "La sérothérapie est un moyen de soutien du système immunitaire qui assure au corps :",
+    "choices": "Une immunité active contre les antigènes.@-@Une mémoire immunitaire contre les antigènes.@-@Une protection instantanée contre les antigènes. Answer@-@Des lymphocytes spécifiques contre les antigènes.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "La mémoire immunitaire se manifeste par :",
+    "choices": "Des anticorps qui persistent longtemps, à forte dose, dans le corps.@-@Des plasmocytes qui sécrètent de grandes quantités d’anticorps, pour une longue durée.@-@Des lymphocytes spécifiques sensibilisés qui persistent longtemps dans le corps. Answer@-@Des antigènes que l’organisme garde longtemps dans les organes lymphoïdes.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Les lymphocytes Tc reconnaissent les cellules infectées suite à la liaison :",
+    "choices": "Du récepteur T et du marqueur CD4 avec le déterminant antigénique et le CMHI.@-@Du récepteur T et du marqueur CD8 avec le déterminant antigénique et le CMHI. Answer@-@Du récepteur T et du marqueur CD4 avec le déterminant antigénique et le CMHII.@-@Du récepteur T et du marqueur CD8 avec le déterminant antigénique et le CMHII.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Le CMH désigne :",
+    "choices": "des marqueurs biologiques situés sur les globules rouges.@-@le complexe mineur d’histocompatibilité.@-@les molécules qui marquent l’identité immunitaire de l’individu. Answer@-@toute protéine résultant de l’expression génétique.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Un individu du groupe sanguin A possède :",
+    "choices": "des agglutinines anti-B à la surface des hématies.@-@des agglutinines anti-B dans le sérum. Answer@-@des agglutinogènes A à la surface des globules blancs.@-@des agglutinogènes A à la surface des hématies. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Lors d’une transfusion sanguine entre un donneur du groupe A et un receveur du groupe B, il y a agglutination des hématies chez le receveur car :",
+    "choices": "les anticorps anti–B du donneur se fixent sur les anticorps anti–A du donneur.@-@les anticorps anti–A du receveur se fixent sur les antigènes A du donneur. Answer@-@les antigènes A du donneur se fixent sur les antigènes B du receveur.@-@le donneur et le receveur n’ont pas le même CMH.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "La réaction du rejet d’un greffon chez un receveur se produit lorsque :",
+    "choices": "le donneur et le receveur sont de même CMH.@-@le donneur et le receveur sont de CMH différents. Answer@-@le donneur et le receveur sont de même groupe sanguin.@-@le donneur et le receveur sont de groupes sanguins différents.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Le facteur complément :",
+    "choices": "est produit par les plasmocytes.@-@intervient dans l’immunité spécifique cellulaire.@-@est produit par les lymphocytes cytotoxiques.@-@intervient dans la réaction inflammatoire. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "La phagocytose :",
+    "choices": "élimine toujours l’antigène.@-@peut-être inefficace contre les antigènes. Answer@-@est un phénomène réalisé par les lymphocytes T.@-@est un moyen immunitaire non spécifique. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "L’immunité humorale est une immunité :",
+    "choices": "spécifique. Answer@-@qui est assurée par les anticorps. Answer@-@nécessitant l’intervention des plasmocytes. Answer@-@nécessitant l’intervention des macrophages et des lymphocytes Tc.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Les lymphocytes B sont produits :",
+    "choices": "dans le thymus et acquièrent leur compétence immunitaire dans la moelle osseuse.@-@dans le thymus.@-@dans la moelle osseuse et y acquièrent leur compétence immunitaire. Answer@-@dans la moelle osseuse et acquièrent leur compétence immunitaire dans le thymus.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Les lymphocytes Tc :",
+    "choices": "produisent des anticorps.@-@produisent la perforine. Answer@-@assurent la cytotoxicité. Answer@-@sont des cellules de l’immunité humorale.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Les anticorps sont :",
+    "choices": "des molécules protéiques. Answer@-@des immunoglobulines. Answer@-@produits par les plasmocytes. Answer@-@formés par quatre chaînes peptidiques. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "La perforine est produite par :",
+    "choices": "les Tc. Answer@-@les LB.@-@les macrophages.@-@les LT4.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "La vaccination :",
+    "choices": "est un moyen préventif. Answer@-@est un moyen curatif spécifique.@-@consiste à injecter à la personne un antigène affaibli. Answer@-@consiste à injecter des anticorps spécifiques à la personne.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "L’allergie :",
+    "choices": "est une réaction immunitaire excessive de l’immunité. Answer@-@est causé par tout antigène.@-@est connue par des réactions inflammatoires. Answer@-@l’histamine est l’un de ses acteurs. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Le VIH :",
+    "choices": "est un rétrovirus. Answer@-@cause le sida. Answer@-@attaque le LT4. Answer@-@attaque les LB.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Le système immunitaire est un système biologique qui assure la régulation de la glycémie.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le système immunitaire est un système biologique qui assure la défense du corps.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Le CMH est le complexe majeur d’histocompatibilité.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Le CMH est un ensemble de glycoprotéines membranaires utilisées par le système immunitaire dans la discrimination du soi du non soi.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Le CMHII est porté par tous les cellules de l’organisme à l’exception de quelques-unes.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le CMHI est porté par tous les cellules de l’organisme à l’exception de quelques-unes.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Le CMHII est porté par quelques cellules du système immunitaire",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Les marqueurs des groupes sanguins sont des marqueurs majeurs du soi.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les marqueurs des groupes sanguins sont des marqueurs mineurs du soi.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Les protéines du CMH sont responsables de la présentation des déterminants antigéniques.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "La réponse immunitaire non spécifique se fait par l’intervention des lymphocytes T et B.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les lymphocytes T et B n’interviennent pas dans la réponse immunitaire non spécifique.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "La réponse immunitaire non spécifique agit sang tenir compte de la nature de l’antigène à éliminer.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "La réaction inflammatoire est causée par la libération de médiateurs chimiques comme les anticorps.",
+    "choices": "Vrai.@-@Faux. Answer@-@La réaction inflammatoire est causée par la libération de médiateurs chimiques comme l’histamine.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "L’histamine est libérée par les lymphocytes B.",
+    "choices": "Vrai.@-@Faux. Answer@-@L’histamine est libérée par les mastocytes.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Le facteur complément peut éliminer les bactéries par le complexe d’attaque membranaire.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Le chimiotactisme est l’attraction des globules rouge vers le lieu de l’infection.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le chimiotactisme est l’attraction des leucocytes ver le lieu de l’infection.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "La première étape de la phagocytose est la digestion.",
+    "choices": "Vrai.@-@Faux. Answer@-@La première étape de la phagocytose est l’adhésion.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "L’immunité acquise est une immunité dirigée contre un antigène spécifique.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "L’immunité à médiation humorale se fait par l’intermédiaire des anticorps.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "L’immunité à médiation humorale se fait par l’intermédiaire des lymphocytes Tc.",
+    "choices": "Vrai.@-@Faux. Answer@-@L’immunité à médiation cellulaire se fait par l’intermédiaire des lymphocytes T.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Les lymphocytes B sont des polynucléaires",
+    "choices": "Vrai.@-@Faux. Answer@-@Les polynucléaires sont les neutrophiles, les éosinophiles et les basophiles.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "Le thymus et la moelle osseuse sont les organes lymphoïdes centraux.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit5/",
+    "question": "La rate et les ganglions de l’aisselle sont des organes lymphoïdes centraux.",
+    "choices": "Vrai.@-@Faux. Answer@-@La rate et les ganglions de l’aisselle sont des organes lymphoïdes périphériques.@-@",
+    "type": "tof"
+  }
+]

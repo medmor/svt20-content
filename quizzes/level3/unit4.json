@@ -1,0 +1,68 @@
+[
+  {
+    "level": "level3/unit4/",
+    "question": "Parmi les conditions de l’équilibre de Hardy-Weinberg :",
+    "choices": "les fécondations sont préférentielles.@-@la taille de la population est vaste. Answer@-@il n’y a pas de migration. Answer@-@il n’y a pas de mutation. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit4/",
+    "question": "Laquelle des propositions suivantes décrit le mieux le flux génique :",
+    "choices": "fécondation aléatoire.@-@migration. Answer@-@dérive génétique.@-@sélection.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit4/",
+    "question": "Déterminer les processus qui augmentent la variation génétique dans la population :",
+    "choices": "dérive génétique.@-@flux génique. Answer@-@mutation. Answer@-@tous ces processus.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit4/",
+    "question": "Les hypothèses de la loi de Hardy-Weinberg sont :",
+    "choices": "la sélection naturelle est positive.@-@la reproduction est sexuée et asexuée.@-@absence des flux de migration. Answer@-@la population est très grande. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit4/",
+    "question": "Le modèle de Hardy-Weinberg décrit l’évolution d’une population :",
+    "choices": "qui n’est pas soumise à la sélection naturelle. Answer@-@qui présente une dérive génétique.@-@qui est influencée par la mutation.@-@qui est soumise à la sélection naturelle.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit4/",
+    "question": "Selon le modèle de Hardi-Weinberg, les fréquences des allèles d’un même gène :",
+    "choices": "varient d’une génération à la suivante, car l’allèle dominant tend à se répondre.@-@varient d’une génération à la suivante, car l’allèle récessif tend à se répondre.@-@ne varient pas d’une génération à la suivante. Answer@-@sont imprévisibles dans les générations suivantes.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit4/",
+    "question": "La dérive génétique :",
+    "choices": "est une fluctuation aléatoire des proportions des allèles dans une population. Answer@-@la conséquence d’une réduction très importante de la taille de la population. Answer@-@est due à l’influence des conditions du milieu sur la population.@-@la conséquence de l’effet fondateur. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit4/",
+    "question": "Une espèce est :",
+    "choices": "un ensemble d’individus vivant dans le même milieu de vie.@-@un ensemble d’individus ayant tous les critères phénotypiques identiques.@-@un ensemble d’individus interféconds. Answer@-@stable dans le temps.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit4/",
+    "question": "La sélection naturelle entraîne la modification génétique d’une population sous l’effet :",
+    "choices": "de facteurs environnementaux. Answer@-@de la dérive génétique.@-@de facteurs mutagènes.@-@du hasard.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit4/",
+    "question": "La mutation silencieuse :",
+    "choices": "n’entraîne aucun changement dans la séquence d’acides aminés d’une protéine. Answer@-@n’altère pas le fonctionnement de la protéine. Answer@-@ne touche que les cellules germinales.@-@conduit au changement de séquence d’acide aminés et du fonctionnement de la protéine.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit4/",
+    "question": "Le locus est la localisation d’un gène sur un chromosome et qui change d’un individu à un autre.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le locus est la localisation d’un gène sur un chromosome et il est fixe chez tous les individus.@-@",
+    "type": "tof"
+  }
+]

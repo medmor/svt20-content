@@ -1,0 +1,152 @@
+[
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Le cycle de vie de la spirogyre est réduit à une seule phase @blank@, la méiose suit directement @blank@. C’est un cycle @blank@.",
+    "choices": "haploïde Answer@-@la fécondation Answer@-@haplophasique Answer@-@diplophasique@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Le cycle de vie du fucus est réduit à une seule phase @blank@, la fécondation suit directement @blank@ par méiose. C’est un cycle @blank@.",
+    "choices": "diploïde Answer@-@la formation des gamètes Answer@-@diploiphasique Answer@-@haplodiplophasique@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Le cycle de développement du polytric se caractérise par l’alternance de deux phase qui sont représentés par @blank@ : une phase @blank@, et une phase diploïde. C’est un cycle @blank@.",
+    "choices": "deux générations différentes Answer@-@haploïde Answer@-@haplodiplophasique Answer@-@haplophasique@-@diplophasique@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "@blank@ des plantes est la science de la classification et de la dénomination des plantes. C’est une branche qui détermine comment différents organismes biologiques @blank@.",
+    "choices": "la taxonomie Answer@-@sont liés les uns aux autres Answer@-@la taxidermie@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Le cycle de développement de la spirogyre est :",
+    "choices": "un cycle diplophasique.@-@un cycle haplophasique. Answer@-@un cycle diplohaplophasique.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Le cycle de développement du focus vésiculeux est :",
+    "choices": "un cycle diplophasique. Answer@-@un cycle haplophasique.@-@un cycle diplohaplophasique.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Chez la spirogyre :",
+    "choices": "la méiose suit directement la fécondation. Answer@-@La fécondation suit directement la méiose.@-@la double fécondation suit directement la fécondation.@-@la méiose suit directement la mitose.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Chez le focus vésiculeux :",
+    "choices": "la méiose suit directement la fécondation.@-@la fécondation suit directement la méiose. Answer@-@la fécondation suit directement la mitose.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Le cycle de développement du polytric (mousse) est :",
+    "choices": "un cycle diplophasique.@-@un cycle haplophasique.@-@un cycle diplohaplophasique. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Le cycle de développement du polytric (mousse) se caractérise par :",
+    "choices": "une fécondation qui suit directement la méiose.@-@Une méiose qui suit directement la fécondation.@-@L’alternance d’une génération haploïde et une autre génération diploïde. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Le cycle de développement de la fougère est :",
+    "choices": "un cycle diplophasique.@-@un cycle haplophasique.@-@un cycle diplohaplophasique. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Le cycle de développement de la fougère se caractérise par :",
+    "choices": "une fécondation qui suit directement la méiose.@-@Une méiose qui suit directement la fécondation.@-@L’alternance d’une génération haploïde et une autre génération diploïde. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Le cycle de développement des angiospermes est :",
+    "choices": "un cycle diplophasique. Answer@-@un cycle haplophasique.@-@un cycle diplohaplophasique.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Le cycle de développement des gymnospermes est :",
+    "choices": "un cycle diplophasique. Answer@-@un cycle haplophasique.@-@un cycle diplohaplophasique.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Les gamètes sont produits par la mitose",
+    "choices": "Vrai.@-@Faux. Answer@-@Les gamètes sont produits par la méiose@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Les gamètes sont produits par la méiose",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Le cycle de vie se caractérise par l’alternance de deux phénomènes essentiels : la méiose et la fécondation.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "La fécondation est un phénomène qui conduit à la formation d’un zygote diploïde.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Le cycle de vie se caractérise par l’alternance de deux phénomènes essentiel : la mitose et la fécondation.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le cycle de vie se caractérise par l’alternance de deux phénomènes essentiel : la méiose et la fécondation@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Un cycle haplophasique est un cycle qui se caractérise par l’alternance de deux générations : une génération haploïde et une génération diploïde.",
+    "choices": "Vrai.@-@Faux. Answer@-@Un cycle haplophasique contient une seule génération haploïde.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Un cycle haplophasique est un cycle qui se caractérise par la présence d’une seule phase diploïde.",
+    "choices": "Vrai.@-@Faux. Answer@-@Un cycle haplophasique est un cycle qui se caractérise par la présence d’une seule phase haploïde.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Un cycle haplophasique est un cycle qui se caractérise par la présence d’une seule phase haploïde.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Un cycle diplophasique est un cycle qui se caractérise par l’alternance de deux générations : une génération haploïde et une génération diploïde.",
+    "choices": "Vrai.@-@Faux. Answer@-@Un cycle haplophasique contient une seule génération diploïde.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Un cycle diplophasique est un cycle qui se caractérise par la présence d’une seule phase haploïde.",
+    "choices": "Vrai.@-@Faux. Answer@-@Un cycle diplophasique est un cycle qui se caractérise par la présence d’une seule phase diploïde.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter4/",
+    "question": "Un cycle diplophasique est un cycle qui se caractérise par la présence d’une seule phase diploïde.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  }
+]

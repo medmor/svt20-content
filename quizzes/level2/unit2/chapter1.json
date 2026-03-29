@@ -1,0 +1,182 @@
+[
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Les morceaux de pomme de terre sont @blank@ constitués par plusieurs @blank@. Selon @blank@ du milieu, ces cellules peuvent être turgescentes ou @blank@.",
+    "choices": "des tissus végétaux Answer@-@cellules végétales Answer@-@la pression osmotique Answer@-@plasmolysées Answer@-@cellules animales@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Les plantes vertes ont besoin de @blank@ dans le sol. Ces sels traversent les @blank@ par le phénomène de @blank@, en passant du milieu @blank@ concentré au milieu @blank@ concentré.",
+    "choices": "sels minéraux Answer@-@membranes cellulaires Answer@-@diffusion Answer@-@le plus Answer@-@le moins Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "L’absorption par la cellule de plusieurs substances solubles externes ne se produit pas@blank@, et la perméabilité qui @blank@ selon le type de substances est appelée @blank@.",
+    "choices": "à la même vitesse Answer@-@varie Answer@-@perméabilité différentielle Answer@-@perméabilité directionnelle@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Lorsque la cellule est placée dans un milieu @blank@ par rapport à son milieu interne, l’eau pénètre dans @blank@ cellulaire, qui grossit et @blank@.",
+    "choices": "hypotonique Answer@-@la vacuole Answer@-@se remplit Answer@-@hypertonique@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Dans @blank@ : les protéines transporteurs agissent comme @blank@ qui transportent les particules dans une direction @blank@ au gradient @blank@ de leur concentration.",
+    "choices": "le transport actif Answer@-@des pompes Answer@-@opposée Answer@-@décroissant Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Les vacuoles du @blank@ ont une pression osmotique @blank@ à la pression de l’eau dans le sol. La valeur de cette pression @blank@ à mesure que l'on se déplace vers @blank@.",
+    "choices": "poil absorbant Answer@-@supérieure Answer@-@augmente Answer@-@le parenchyme cortical Answer@-@inferieur@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Chez la plante, l’absorption de l’eau se fait :",
+    "choices": "Par les cellules de la zone subéreuse.@-@Par les poils absorbants de la zone pilifère. Answer@-@Par la coiffe de la racine.@-@Par les stomates des feuilles.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "L’osmose :",
+    "choices": "Est le passage de l’eau du milieu le plus concentré vers le milieu le moins concentré.@-@Permet la conduction latérale de l’eau dans les racines de la plante. Answer@-@Est le passage des sels minéraux du milieu le moins concentré vers le milieu le plus concentré.@-@Est le passage de l’eau du milieu le moins concentré vers le milieu le plus concentré. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "La conduction latérale de l’eau dans la plante :",
+    "choices": "Se fait de la partie aérienne vers la partie souterraine.@-@Se fait de la partie souterraine vers la partie aérienne.@-@Se fait des feuilles aux racines.@-@Se fait des poils absorbants des racines vers le cylindre central. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Le potomètre :",
+    "choices": "Permet de mettre en évidence l’osmose.@-@Permet de mesurer l’absorption de l’eau. Answer@-@Permet de mettre en évidence la relation entre l’absorption de l’eau et la transpiration. Answer@-@Permet de calculer la vitesse de l’absorption de l’eau par la plante. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Un poil absorbant :",
+    "choices": "Est une cellule de l’épiderme de la racine qui assure l’absorption de l’eau. Answer@-@Est une partie du cytoplasme de la cellule des racines.@-@Est une cellule du cylindre central qui assure l’ascension de l’eau.@-@Assure une grande surface d’échange avec la solution du sol. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Le passage de l’eau du milieu le moins concentré vers le milieu le plus concentré est controlé par.",
+    "choices": "L’osmose. Answer@-@La diffusion simple.@-@La diffusion facilité.@-@Le transport actif.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Dans un milieu hypertonique, la cellule végétale :",
+    "choices": "est plasmolysée. Answer@-@est turgescente.@-@a une vacuole de grande volume.@-@a une vacuole de petit volume. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Parmi les constituents d’une cellule végétale :",
+    "choices": "Le cytoplasme. Answer@-@La vacuole. Answer@-@Le noyau. Answer@-@Le plasmide.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "L’unité de la pression osmotique est :",
+    "choices": "Le pascal. Answer@-@Le millimètre.@-@Le Celsius.@-@Le litre.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Le passage des molécules dissoutes à travers la membrane plasmique, sans utilisation d’ATP, se fait par :",
+    "choices": "diffusion simple. Answer@-@diffusion facilité. Answer@-@transport actif.@-@osmose.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "La partie aérienne de la plante se trouve dans le sol.",
+    "choices": "Vrai.@-@Faux. Answer@-@La partie souterraine de la plante se trouve dans le sol.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "La racine est formée de trois zones : la zone subéreuse, la zone pilifère et la coiffe.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Les poils absorbants se trouvent au niveau de la zone subéreuse.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les pois absorbants se trouvent au niveau de la zone pilifère.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Un poil absorbant est une cellule animale.",
+    "choices": "Vrai.@-@Faux. Answer@-@Un poil absorbant est une cellule végétale@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Les poils absorbants sont les structures responsables de la perte d’eau sous forme de vapeur.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les poils absorbant sont les structures responsables de l’absorption d’eau et des sels minéraux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Dans une solution concentrée de saccharose, le volume des morceaux de pomme de terre augmente.",
+    "choices": "Vrai.@-@Faux. Answer@-@Dans une solution concentrée de saccharose, le volume des morceaux de pomme de terre diminue.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Deux cellules isotoniques : sont deux cellules de même pression osmotique.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "On calcule la pression osmotique par la relation suivante : Π = R x T x C.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Les molécules dissoutes dans l’eau passent naturellement du compartiment le moins concentré vers le compartiment le plus concentré.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les molécules dissoutes dans l’eau passent naturellement du compartiment le plus concentré vers le compartiment le moins concentré.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "La cellule permet l’entrée du rouge neutre et ne permet pas sa sortie, c’est la perméabilité différentielle.",
+    "choices": "Vrai.@-@Faux. Answer@-@La cellule permet l’entrée du rouge neutre et ne permet pas sa sortie, c’est la perméabilité directionnelle.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "la vitesse de perméabilité, à travers la membrane plasmique, est différente d’une molécule à une autre, c’est la perméabilité différentielle.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "La diffusion facilité se fait par des transporteurs membranaires qui utilisent l’ATP.",
+    "choices": "Vrai.@-@Faux. Answer@-@La diffusion facilité se fait par des transporteurs membranaires qui n’utilisent par l’ATP.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Dans le transport actif, les molécules sont transportées du compartiment le plus concentré vers le compartiment le moins concentré.",
+    "choices": "Vrai.@-@Faux. Answer@-@Dans le transport actif, les molécules sont transportées du compartiment le moins concentré vers le compartiment le plus concentré.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter1/",
+    "question": "Dans la diffusion facilité, les molécules sont transportées du compartiment le plus concentré vers le compartiment le moins concentré.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  }
+]

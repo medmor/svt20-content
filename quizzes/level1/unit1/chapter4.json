@@ -1,0 +1,152 @@
+[
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Dans un écosystème, @blank@ ne sont pas influencés seulement par les facteurs @blank@ et climatiques. Elles sont liées par @blank@, ainsi elles sont organisées @blank@.",
+    "choices": "des êtres vivants Answer@-@édaphique Answer@-@des relations alimentaires Answer@-@en chaînes ou en réseaux trophiques Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Une chaîne alimentaire est une représentation @blank@ qui lient un groupe @blank@, dans laquelle chaque être vivant mange @blank@ avant qu’il ne soit mangé @blank@.",
+    "choices": "des relations alimentaires Answer@-@d’êtres vivants Answer@-@celui qui le précède Answer@-@par le suivant Answer@-@celui qui est plus grand@-@celui qui est plus petit@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Les différents organismes @blank@ sont liés par @blank@ qui se chevauchent, formant @blank@, qui consiste à la réunion de différentes @blank@ entre elles.",
+    "choices": "au sein d’un même milieu Answer@-@des relations alimentaires Answer@-@un réseau trophique Answer@-@chaînes alimentaires Answer@-@un écosystème@-@un biotope@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Les restes de plantes et d’animaux sont décomposés par @blank@, notamment @blank@ microscopiques, qui transforment ces résidus en @blank@ que les plantes réutilisent, pour créer un cycle appelé @blank@.",
+    "choices": "les décomposeurs Answer@-@des bactéries et des champignons Answer@-@sels minéraux Answer@-@cycle de la matière Answer@-@cycle de vie@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Le flux de matière à travers @blank@ de la chaîne alimentaire peut être exprimé par @blank@, dans laquelle chaque niveau trophique est représenté par @blank@ dont @blank@ est proportionnelle à la quantité exprimée dans l’étude, mais dont @blank@ reste constante.",
+    "choices": "les maillons Answer@-@la pyramide de la biomasse Answer@-@un rectangle Answer@-@la longueur Answer@-@la largeur Answer@-@la pyramide de l’énergie@-@carré@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "La relation trophique entre le renard et le lapin est :",
+    "choices": "la prédation. Answer@-@la compétition.@-@le parasitisme.@-@la symbiose.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "La relation trophique entre un lion et un tigre est :",
+    "choices": "la prédation.@-@la compétition. Answer@-@le parasitisme.@-@la symbiose.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "La compétition :",
+    "choices": "est une relation trophique entre un prédateur et une proie.@-@est une relation de conflit entre deux espèces différentes vis-à-vis la même ressource naturelle. Answer@-@conduit à l’élimination de l’espèce la plus adaptée aux conditions du milieu.@-@conduit à l’élimination de l’espèce la moins adaptée aux conditions du milieu. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "On peut déterminer le régime alimentaire d’un animal par :",
+    "choices": "observation directe. Answer@-@analyse des excréments. Answer@-@taxidermie.@-@conservation dans l’alcool.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Le lion est :",
+    "choices": "un carnivore. Answer@-@Herbivore.@-@Insectivore.@-@décomposeur.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Un omnivore :",
+    "choices": "consomme des aliments d’origine animal. Answer@-@consomme des aliments d’origine végétale. Answer@-@peut-être considéré comme consommateur primaire. Answer@-@peut-être considéré comme producteur primaire.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Dans cette chaîne alimentaire : Herbe → Lapin → Renard :",
+    "choices": "le lapin est un consommateur primaire. Answer@-@Le renard est un producteur primaire.@-@L’herbe est un consommateur primaire.@-@L’herbe est un producteur primaire. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Les plantes chlorophylliennes :",
+    "choices": "Sont des êtres vivants autotrophes. Answer@-@Sont des consommateurs primaires.@-@Sont des producteurs. Answer@-@Sont des êtres vivants hétérotrophes.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Durant le transfert de la biomasse d’un niveau trophique au niveau supérieur :",
+    "choices": "Toute la biomasse du niveau inférieure passe au niveau supérieur.@-@Une partie de la biomasse du niveau inférieur est perdue. Answer@-@Toute la matière ingérée est transformée en croissance.@-@Une partie de la matière ingérée est perdue par respiration. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "La relation trophique bénéfique pour les deux parties est :",
+    "choices": "La prédation.@-@Le parasitisme.@-@La symbiose. Answer@-@La compétition.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Le parasitisme est une relation trophique bénéfique pour les deux parties.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le parasitisme est une relation trophique bénéfique pour le parasite seulement.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Dans la compétition, l’être vivant le plus adapté aux conditions du milieu survie.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Les décomposeurs sont des êtres vivants autotrophes.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les décomposeurs sont des êtres vivants hétérotrophes@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Chaque être vivant dans la chaîne alimentaire mange celui qui le précède, et il est mangé par celui qui le suit.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Les animaux synthétisent leur matière organique en se nourrissant d’autres êtres vivants.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Les végétaux synthétisent leur matière organique en se nourrissant sur d’autres êtres vivants.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les végétaux synthétisent leur matière organique en réalisant la photosynthèse (lumière, CO2, sels minéraux et eau).@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Dans une pyramide de biomasse, les niveaux inférieurs sont plus larges que les niveaux supérieurs.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "La principale source d’énergie pour les être vivants sur la terre est le soleil",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Au cours d’une chaîne alimentaire la biomasse et l’énergie augmentent d’un niveau alimentaire à un niveau supérieur.",
+    "choices": "Vrai.@-@Faux. Answer@-@Au cours d’une chaîne alimentaire la biomasse et l’énergie diminuent d’un niveau alimentaire à un niveau supérieur.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter4/",
+    "question": "Le climax : est le stade initial de l’évolution d’un écosystème qui aboutie à un état d’équilibre.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le climax : est le stade final de l’évolution d’un écosystème qui aboutie à un état d’équilibre.@-@",
+    "type": "tof"
+  }
+]

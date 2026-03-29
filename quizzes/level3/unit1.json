@@ -1,0 +1,362 @@
+[
+  {
+    "level": "level3/unit1/",
+    "question": "La levure de bière est un champignon microscopique @blank@ qui utilise @blank@ comme @blank@. Selon les conditions, elle est capable de le @blank@ selon deux phénomènes différents : la respiration et @blank@.",
+    "choices": "unicellulaire Answer@-@le glucose Answer@-@métabolite énergétique Answer@-@dégrader Answer@-@la fermentation Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "@blank@ se fait en milieu aérobie, le glucose est @blank@ dégradé en CO2 et @blank@. Par contre @blank@ se fait en milieu anaérobie, le glucose est @blank@ dégradé.",
+    "choices": "la respiration Answer@-@totalement Answer@-@H2O Answer@-@la fermentation Answer@-@partiellement Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "La glycolyse se fait dans @blank@, c’est @blank@ catalysées par des enzymes spécifiques qui aboutissent à la formation de @blank@ en plus de 2 (@blank@, H+) et 2 (ATP).",
+    "choices": "l’hyaloplasme Answer@-@une série de réactions Answer@-@deux acides pyruviques Answer@-@NADH Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "La dégradation de @blank@ se fait dans la matrice de @blank@ par une série de réactions de décarboxylation et de @blank@.",
+    "choices": "l’acide pyruvique Answer@-@la mitochondrie Answer@-@déshydrogénation Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "@blank@ est une étape qui a lieu au niveau de la membrane interne de la mitochondrie. @blank@ (NADH,H+ et FADH2) sont oxydés par l’O2 qui, en acceptant @blank@ et des protons (H+) permet la formation de @blank@.",
+    "choices": "la phosphorylation oxydative Answer@-@les transporteurs Answer@-@des électrons Answer@-@l’eau Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Les électrons cédés par @blank@ de NADH,H+ et FADH2 sont transportés par les transporteurs membranaires de @blank@ jusqu’au dernier @blank@ qui est @blank@. Ce dernier est @blank@ en H2O.",
+    "choices": "la réoxydation Answer@-@la chaîne respiratoire Answer@-@accepteur Answer@-@O2 Answer@-@réduit Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Le rendement énergétique de @blank@ est très faible par rapport à @blank@, parce qu’elle produit des molécules (@blank@, ou l’acide lactique) qui sont des molécules organiques contenant encore de @blank@.",
+    "choices": "la fermentation Answer@-@la respiration Answer@-@éthanol Answer@-@l’énergie Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "@blank@ représente la réponse du muscle à @blank@, ses phases sont les suivantes : le temps de latence, la phase de contraction et @blank@.",
+    "choices": "la secousse musculaire Answer@-@une excitation efficace Answer@-@la phase de relâchement Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Lorsqu’on applique à un muscle strié une série d’excitations d’intensité croissantes, @blank@ de la réponse enregistrée @blank@ progressivement en fonction de @blank@. Ceci est expliqué par @blank@.",
+    "choices": "L’amplitude Answer@-@augmente Answer@-@l’intensité de la stimulation Answer@-@la loi de recrutement Answer@-@la loi de tout ou rien@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Lorsque on soumet un muscle à deux stimulations successives de même intensité supraliminaire, si la 2ᵉ @blank@ se produit durant la phase de relâchement du muscle, on observe @blank@. Par contre Si la 2ᵉ stimulation se produit pendant la phase de @blank@ du muscle, on observe @blank@.",
+    "choices": "stimulation Answer@-@une fusion incomplète Answer@-@contraction Answer@-@une fusion complète Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Toute contraction musculaire s’accompagne d’un dégagement de @blank@ qui se divise en deux parties : @blank@ puis @blank@.",
+    "choices": "la chaleur Answer@-@la chaleur initiale Answer@-@la chaleur retardée Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Le muscle est constitué des cellules de formes @blank@ et multinucléées, appelées @blank@. Ces fibres sont organisées en @blank@ séparés par un tissu conjonctif.",
+    "choices": "allongée Answer@-@fibres musculaires Answer@-@faisceaux Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "La fermentation lactique produit :",
+    "choices": "L’acide pyruvique, le CO2 et l’ATP.@-@L’acide pyruvique et le CO2.@-@L’acide lactique, le CO2 et l’ATP.@-@L’acide lactique et l’ATP. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Le cycle de Krebs produit :",
+    "choices": "NADH, H+, FADH2, ATP et l’acide pyruvique.@-@NADH, H+, FADH2, CO2 et l’acétyle coenzyme A.@-@NADH, H+, ATP, CO2 et l’acide pyruvique.@-@NADH, H+, FADH2, ATP et CO2. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Les filaments fins de la myofibrille sont formés de :",
+    "choices": "L’actine, la myosine et la troponine.@-@L’actine, la myosine et la tropomyosine.@-@L’actine, la troponine et la tropomyosine. Answer@-@La myosine, la troponine et la tropomyosine.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "La contraction musculaire :",
+    "choices": "Se produit en absence de l’ATP, et de l’O₂.@-@Nécessite toujours la présence des ions calcium et de l’ATP. Answer@-@Se produit en absence des ions calcium et de l’ATP.@-@Se produit en absence des ions calcium et de l’O₂.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "La glycolyse est une étape :",
+    "choices": "commune de la fermentation et la respiration. Answer@-@spécifique de la respiration.@-@spécifique de la fermentation lactique.@-@spécifique de la fermentation alcoolique.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Parmi les produits du cycle de Krebs :",
+    "choices": "les composés réduits, le dioxyde de carbone et l’acétyle coenzyme A.@-@le dioxyde de carbone, l’acétyle coenzyme A et l’ATP.@-@les composés réduits, le dioxyde de carbone et l’ATP. Answer@-@les composés réduits, l’acétyle coenzyme A et l’ATP.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Le rendement énergétique de la respiration exprime :",
+    "choices": "la quantité globale d’énergie latente du glucose.@-@le nombre de molécules d’ATP synthétisées à partir de l’oxydation du glucose.@-@le pourcentage d’énergie extraite sous forme d’ATP par rapport à l’énergie globale latente du glucose. Answer@-@le pourcentage d’énergie extraite de l’oxydation du glucose sous forme de chaleur.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Les myofilaments de myosine sont présents uniquement au niveau des :",
+    "choices": "bandes claires du sarcomère.@-@bandes sombres du sarcomère. Answer@-@bandes sombres et une partie des bandes claires.@-@bandes claires et une partie des bandes sombres.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "La libération du CO2 issu de la dégradation du glucose se fait au cours des réactions :",
+    "choices": "de la glycolyse dans l’hyaloplasme.@-@du cycle de Krebs dans la mitochondrie. Answer@-@de réduction de l’acide pyruvique en acide lactique dans l’hyaloplasme.@-@d’oxydation des transporteurs d’électrons dans la mitochondrie.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "La bande claire du sarcomère renferme les protéines suivantes :",
+    "choices": "l’actine, la troponine et la tropomyosine. Answer@-@la myosine, la troponine et la tropomyosine.@-@l’actine, la myosine et la tropomyosine.@-@l’actine, la myosine et la troponine.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Les réactions de la fermentation dans le sarcoplasme permettent :",
+    "choices": "la production de l’acide lactique et de l’éthanol.@-@l’oxydation de l’acide pyruvique.@-@la réduction des transporteurs NAD+ et FAD.@-@la phosphorylation des molécules d’ADP. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Les produits de la dégradation d’un acide pyruvique dans la mitochondrie sont :",
+    "choices": "3 NADH, H+ + 1 FADH2 + 1 ATP + 3CO2.@-@3 NADH, H+ + 1 FAD + 1 ATP + 3CO2.@-@4 NADH, H+ + 1 FADH2 + 1 ADP + 3CO2.@-@4 NADH, H+ + 1 FADH2 + 1 ATP + 3CO2. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Lors de la glycolyse on a production de :",
+    "choices": "l’acide pyruvique, le CO2 et l’ATP.@-@l’acide pyruvique, l’ATP et le NADH, H+. Answer@-@l’acide lactique, le CO2 et l’ATP.@-@l’acide lactique, l’ATP et le NADH, H+.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "La bande claire du sarcomère est :",
+    "choices": "caractérisée par la présence des filaments d’actine. Answer@-@caractérisée par la présence des filaments d’actine et des filaments de myosine.@-@délimitée par deux bandes H.@-@délimitée par deux stries Z.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Au niveau de la membrane interne mitochondriale se produit :",
+    "choices": "l’oxydation de NADH, H+ et la synthèse d’ATP. Answer@-@l’oxydation de NADH, H+ et l’hydrolyse d’ATP.@-@la réduction de NADH, H+ et la synthèse d’ATP.@-@la réduction de NADH, H+ et l’hydrolyse d’ATP.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "La fatigue musculaire est caractérisée par :",
+    "choices": "la diminution de l’amplitude et de la durée de la secousse musculaire.@-@l’augmentation de l’amplitude de la secousse musculaire et la diminution de sa durée.@-@la diminution de l’amplitude de la secousse musculaire et l’augmentation de sa durée. Answer@-@l’augmentation de l’amplitude et de la durée de la secousse musculaire.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Le tétanos parfait est le résultat de la fusion de plusieurs secousses musculaires suite à une série d’excitations dont l’excitation suivante est appliquée :",
+    "choices": "pendant la phase de contraction de la secousse due à l’excitation précédente. Answer@-@pendant la phase de relâchement de la secousse due à l’excitation précédente.@-@à la fin de la secousse due à l’excitation précédente.@-@pendant la phase de latence de la secousse due à l’excitation précédente.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Au cours de la contraction musculaire, on constate un raccourcissement :",
+    "choices": "de la bande sombre et de la zone H.@-@de la bande claire et de la zone H. Answer@-@des bandes sombres et claires sans changement de la zone H.@-@des bandes sombres, des bandes claires et de la zone H.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "La fermentation lactique :",
+    "choices": "libère 4 molécules d’ATP à partir d’une seule molécule de glucose.@-@comporte une phase commune avec la respiration qui est la glycolyse. Answer@-@produit un résidu organique sous forme de CO2.@-@produit deux molécules d’ATP à partir d’un gradient H+ de part et d’autre de la membrane interne de la mitochondrie.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Les réactions du cycle de Krebs :",
+    "choices": "ne produisent pas d’énergie.@-@libèrent le dioxyde de carbone. Answer@-@se déroulent au niveau de la membrane interne de la mitochondrie.@-@sont communes entre la respiration et la fermentation.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "La transformation d’une molécule de glucose en deux molécules d’acide pyruvique au niveau du hyaloplasme, s’accompagne d’une :",
+    "choices": "réduction de 2NADH, H+ et de production de 4ATP.@-@oxydation de 2NADH, H+ et de production de 4ATP.@-@oxydation de 2NAD+ et de production de 2ATP.@-@réduction de 2NAD+ et de production de 2ATP. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "L’activité de la chaîne respiratoire conduit à :",
+    "choices": "une augmentation de la concentration des protons dans la matrice.@-@un équilibre de la concentration des protons entre l’espace inter-membranaire et la matrice.@-@une augmentation de la concentration des protons dans l’espace inter-membranaire. Answer@-@une diminution de la concentration des protons dans l’espace inter-membranaire.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Les étapes de la contraction musculaire sont les suivants : 1 – fixation de l’ATP sur les têtes de la myosine ; 2 – hydrolyse d’ATP ; 3 – rotation des têtes de la myosine ; 4-libération du Ca2+ ; 5-formation du complexe acto-myosine ; 6 – glissement des filaments d’actine vers le centre du sarcomère. La succession de ces étapes selon l’ordre chronologique est la suivante :",
+    "choices": "3 → 6 → 4 → 1 → 2→ 5.@-@6 → 4 → 1 → 5→ 2 → 3.@-@4 → 5 → 2→ 3 → 6 →1. Answer@-@1→ 2 → 3 → 6 → 4 → 5.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Lors de la phosphorylation de l’ADP, le gradient de protons crée par la chaîne respiratoire est utilisé par :",
+    "choices": "les canaux à protons de la membrane interne de la mitochondrie.@-@l’ATP synthase de la membrane interne de la mitochondrie. Answer@-@les transporteurs d’électrons de la membrane interne de la mitochondrie.@-@les coenzymes de la membrane interne de la mitochondrie.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Les réactions de la fermentation alcoolique se déroulent dans la matrice mitochondriale en absence du dioxygène.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les réactions de la fermentation alcoolique se déroulent dans la l’hyaloplasme en absence du dioxygène.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Les réactions de la fermentation alcoolique se déroulent dans l’hyaloplasme en absence du dioxygène.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Les réactions de la fermentation alcoolique produisent l’éthanol, le CO2 et l’ATP.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Les réactions de la fermentation alcoolique produisent l’acide lactique, le CO2 et l’ATP.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les réactions de la fermentation alcoolique produisent l’acide lactique, le CO2 et l’ATP.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Lors de la contraction musculaire, on assiste à un raccourcissement des bandes sombres sans changement de la longueur des bandes claires.",
+    "choices": "Vrai.@-@Faux. Answer@-@Lors de la contraction musculaire, on assiste à un raccourcissement des bandes claires sans changement de la longueur des bandes sombres.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Lors de la contraction musculaire, on assiste à un raccourcissement des bandes claires sans changement de la longueur des bandes sombres.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Lors de la contraction musculaire, on assiste à un rapprochement des deux stries Z avec raccourcissement de la zone H du sarcomère.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Lors de la contraction musculaire, on assiste à un raccourcissement des bandes claires sans changement de la longueur de la zone H du sarcomère.",
+    "choices": "Vrai.@-@Faux. Answer@-@Lors de la contraction musculaire, on assiste à un rapprochement des deux stries Z avec raccourcissement de la zone H du sarcomère.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Les réactions du cycle de Krebs produisent du dioxyde de carbone et consomment du dioxygène.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les réactions du cycle de Krebs produisent du dioxyde de carbone et n’ont pas besoin de dioxygène.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Le renouvellement des molécules d’ATP se fait à partir de la phosphorylation des molécules d’ADP.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Les mitochondries sont des organites dans lesquelles se déroule la respiration ou la fermentation selon la présence ou l’absence du dioxygène.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les mitochondries sont des organites dans lesquelles se déroule la respiration seulement.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Le sarcomère est la plus petite unité structurelle de la fibre musculaire qui peut se contracter.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "L’oxydation du NAD+ se déroule au cours des réactions de la glycolyse et du cycle de Krebs.",
+    "choices": "Vrai.@-@Faux. Answer@-@La réduction du NAD+ se déroule au cours des réactions de la glycolyse et cycle de Krebs.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Le tétanos parfait se produit lorsqu’on applique au muscle une seule excitation de forte intensité.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le tétanos parfait se produit lorsqu’on applique au muscle une succession d’excitations efficaces avec une forte fréquence.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "La chaleur retardée qui accompagne la contraction musculaire résulte des réactions métaboliques aérobiques.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Au cours de l’activité musculaire, l’ATP est renouvelé rapidement par la voie de la phosphocréatine.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Le cycle de Krebs produit trois molécules de NADH, H+ à partir d’une molécule d’acide pyruvique.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Le bilan global de la glycolyse est de quatre molécules d’ATP.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le bilan global de la glycolyse est deux molécules d’ATP.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "La fermentation lactique produit de l’acide lactique et du dioxyde de carbone.",
+    "choices": "Vrai.@-@Faux. Answer@-@La fermentation lactique ne produit pas le dioxyde de carbone.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "La longueur des myofilaments reste constante au cours de la contraction du sarcomère.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Dans la cellule musculaire, le renouvellement de l’ATP à partir de la phosphocréatine, se fait par l’intervention de l’ATP synthase.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le renouvellement de l’ATP à partir de phosphocréatine ne nécessite pas l’intervention de l’ATP synthase.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Dans la matrice, l’oxydation de NADH, H+ se fait par l’intervention des déshydrogénases.",
+    "choices": "Vrai.@-@Faux. Answer@-@Dans la matrice, l’oxydation de l’acide pyruvique se fait par l’intervention des déshydrogénases.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Dans l’hyaloplasme, la fermentation alcoolique produit un résidu organique et libère le CO2.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit1/",
+    "question": "Dans la mitochondrie, l’acide pyruvique se transforme en acétyl-coA.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  }
+]

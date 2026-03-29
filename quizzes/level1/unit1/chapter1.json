@@ -1,0 +1,188 @@
+[
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "L’écosystème est :",
+    "choices": "Un ensemble d’êtres vivants.@-@L’ensemble des constituants abiotique du milieu.@-@La faune + la flore.@-@La biocénose + le biotope. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "Une courbe de fréquence unimodale :",
+    "choices": "Indique que le milieu étudié est homogène. Answer@-@Indique que le milieu étudié est hétérogène.@-@Contient un seul mode. Answer@-@Contient plusieurs modes@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "La faune est :",
+    "choices": "L’ensemble des êtres vivants dans un milieu.@-@L’ensemble des animaux dans un milieu. Answer@-@L’ensemble des végétaux dans un milieu.@-@La biocénose.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "On cite parmi les constituants abiotiques d’un milieu :",
+    "choices": "L’eau. Answer@-@Les micro-organismes du sol.@-@Les arbres.@-@L’air. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "On cite comme exemple de faune :",
+    "choices": "Le chêne liège.@-@Les escargots. Answer@-@Les lombrics. Answer@-@Les oiseaux. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "Les bonnes stations d’inventaire sont :",
+    "choices": "Les stations qui se trouvent dans la limite de deux milieux.@-@Les stations hétérogènes.@-@Les stations homogènes. Answer@-@Les stations qui contiennent un nombre minimal d’espèces.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "La sortie écologique permet d’étudier les êtres vivants dans leur milieu de vie.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "La densité d’une espèce est le nombre d’individus de cette espèce divisé par le nombre total des individus de tout les espèces du milieu.",
+    "choices": "Vrai.@-@Faux. Answer@-@La densité relative d’une espèce est le nombre d’individus de cette espèce divisé par le nombre total des individus de tout les espèces du milieu.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "La biocénose : est le milieu de vie, défini par des caractéristiques physico-chimiques, dans lequel vivent les êtres vivants.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le biotope : est le milieu de vie, défini par des caractéristiques physico-chimiques, dans lequel vivent les êtres vivants.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "La stratification verticale se base sur : la hauteur des plantes et l’aspect de leurs tiges (souple, ligneuse).",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "L’écosystème est : le biotope + la faune.",
+    "choices": "Vrai.@-@Faux. Answer@-@L’écosystème est le biotope + la biocénose.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "On peut déterminer l’aire minimale d’inventaire par la technique de quadrillage.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "La boussole permet de mesurer l’humidité relative de l’air.",
+    "choices": "Vrai.@-@Faux. Answer@-@L’hygromètre permet de mesurer l’humidité relative de l’air.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "Le filet permet la capture des poissons.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "Un herbier est une collection d’animaux séchées et pressées.",
+    "choices": "Vrai.@-@Faux. Answer@-@Un herbier est une collection de végétaux séchées et pressées.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "La taxidermie est une technique qui permet la conservation des plantes.",
+    "choices": "Vrai.@-@Faux. Answer@-@La taxidermie est une technique qui permet la conservation des animaux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "La répartition @blank@ dépend des @blank@ de chaque milieu naturel. Ces conditions sont appelées facteurs écologiques, et sont répartis en : facteurs abiotiques et @blank@.",
+    "choices": "des êtres vivants Answer@-@conditions Answer@-@facteurs biotiques Answer@-@le biotope@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "@blank@ est la science chargée de l'étude de @blank@, qui est formé par le biotope et @blank@.",
+    "choices": "l’écologie Answer@-@l’écosystème Answer@-@la biocénose Answer@-@La géologie@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "Classer les strates végétatives suivantes selon leur longueur, de la plus courte à la plus longue :",
+    "choices": "Strate des mousse et lichens (strate muscinale).@-@Strate des herbes (strate herbacée).@-@Strate des arbustes (strate arbustive).@-@Strate des arbres (strate arborescente).@-@",
+    "type": "ord"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "La densité relative : d = (n/N) * 100. avec : n @blank@ ; N @blank@.",
+    "choices": "le nombre d’individus de la même espèce Answer@-@le nombre total des individus Answer@-@le nombre de relevés où l’espèce est présente@-@nombre total de relevés réalisés@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "Les stations les plus adéquates pour la réalisation des recensements sont les stations @blank@. Ces stations se situent dans @blank@ et donnent des résultats @blank@.",
+    "choices": "homogènes Answer@-@le centre du milieu Answer@-@plus exacts Answer@-@hétérogènes@-@la limite entre deux milieux différents@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "La réalisation de l’histogramme et de la courbe de fréquence nous permet de déduire @blank@ du milieu. Une courbe @blank@ indique que le milieu est homogène, alors qu’une courbe @blank@ indique que le milieu est hétérogène.",
+    "choices": "l’homogénéité Answer@-@unimodale Answer@-@plurimodale Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "Les outils utilisés pour l’orientation dans le terrain sont :",
+    "choices": "La boussole. Answer@-@La carte. Answer@-@Le pH mètre.@-@Le thermomètre.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "Le profil topographique est réalisé à partir de :",
+    "choices": "La carte géologique.@-@La carte topographique. Answer@-@La carte de végétation.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "La fréquence d’une espèce trouvée dans 5 relevés, parmi 10 réalisés, est :",
+    "choices": "25%@-@50% Answer@-@75%@-@100%@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "La réalisation d’un herbier se fait selon les étapes suivantes; Classer ces étapes dans l’ordre chronologique :",
+    "choices": "La récolte.@-@Le séchage.@-@Le suivi.@-@La présentation.@-@",
+    "type": "ord"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "Classer les types d’écosystème système du plus grand au plus petit :",
+    "choices": "Macro-écosystème (exemple : océan).@-@Meso-écosystème (exemple : prairie).@-@Micro-écosystème (exemple : le dessous d’une pierre)@-@",
+    "type": "ord"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "L’étude de la répartition horizontale des végétaux se fait selon les étapes suivantes ; Classer ces étapes dans l’ordre chronologique :",
+    "choices": "Tracer le profil topographique.@-@Représenter les végétaux caractéristiques.@-@Représenter le type de sol.@-@Proposer des hypothèses pour expliquer la répartition horizontale des végétaux.@-@",
+    "type": "ord"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "La fréquence d’une espèce trouvée dans 5 relevés, parmi 20 réalisés, est :",
+    "choices": "25% Answer@-@50%@-@75%@-@100%@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "La fréquence d’une espèce trouvée dans 15 relevés, parmi 20 réalisés, est :",
+    "choices": "25%@-@50%@-@75% Answer@-@100%@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter1/",
+    "question": "La fréquence d’une espèce trouvée dans 15 relevés, parmi 15 réalisés, est :",
+    "choices": "25%@-@50%@-@75%@-@100% Answer@-@",
+    "type": "mcq"
+  }
+]

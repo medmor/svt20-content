@@ -1,0 +1,230 @@
+[
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "La photosynthèse nécessite la présence @blank@. Cette derniere est constitué de différents @blank@ avec des longueurs @blank@ allant de 400nm à 720nm.",
+    "choices": "de la lumière Answer@-@rayonnements Answer@-@d’onde Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Les différents rayons lumineux n’ont pas la même efficacité sur le processus de @blank@. Ainsi, l’intensité de ce phénomène est forte en rayonnement @blank@, faible en @blank@ et null en @blank@. L’efficacité des rayons de lumière blanche vis-à-vis du processus de la photosynthèse est appelée @blank@.",
+    "choices": "la photosynthèse Answer@-@rouge et bleu Answer@-@jaune Answer@-@vert Answer@-@spectre d’action Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "La chlorophylle brute se compose de plusieurs @blank@, à savoir @blank@ de couleur verte, @blank@ de couleur jaune et @blank@ de couleur orange.",
+    "choices": "pigments Answer@-@la chlorophylle (b et a) Answer@-@les xanthophylles Answer@-@les carotènes Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Les chloroplastes sont des organites @blank@ capables de réaliser @blank@, et ils contiennent @blank@ dont ils tirent leur @blank@.",
+    "choices": "de cellules végétales Answer@-@la photosynthèse Answer@-@la chlorophylle Answer@-@couleur Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "L’oxygène libéré lors de @blank@ résulte de @blank@, et cette réaction peut être représentée comme suit : 2H2O → @blank@2 + @blank@H+ + @blank@.",
+    "choices": "la photosynthèse Answer@-@l’oxydation de l’eau Answer@-@O Answer@-@4 Answer@-@4e- Answer@-@CO2@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Au niveau cellulaire, la molécule de chlorophylle a perd @blank@, sous l’effet de @blank@. Elle devient excitée, lui conférant un pouvoir @blank@ élevé qui lui permet d’extraire un électron @blank@.",
+    "choices": "un électron Answer@-@l’énergie lumineuse Answer@-@oxydant Answer@-@d’une molécule d’eau Answer@-@d’une molécule de sucre@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Les protons, résultant de @blank@, s’accumulent à l’intérieur du @blank@, en plus des protons qui entrent dans le thylakoïde du fait du transfert @blank@. Cela crée une différence de @blank@ de protons entre les deux côtés de la membrane thylakoïde, c’est @blank@.",
+    "choices": "l’oxydation de l’eau Answer@-@thylakoïde Answer@-@d’électrons Answer@-@concentration Answer@-@le gradient des protons Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "La chlorophylle brute absorbe :",
+    "choices": "Toutes les radiations lumineuses.@-@Les radiations vertes.@-@Les radiations rouges. Answer@-@Les radiations bleues. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Le photosystème est constitué par :",
+    "choices": "La chlorophylle a et la chlorophylle b.@-@La chlorophylle brute et l’antenne collectrice.@-@La chlorophylle a et l’antenne collectrice. Answer@-@La chlorophylle b et l’antenne collectrice.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "La photosynthèse nécessite :",
+    "choices": "La lumière. Answer@-@L’oxygène.@-@Le dioxyde de carbone. Answer@-@La chlorophylle. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Le chloroplaste :",
+    "choices": "Est un pigment qui absorbent l’énergie lumineuse.@-@Est un organite de la cellule végétale. Answer@-@Est un pigment qui absorbe Toutes les radiations lumineuses.@-@Est un pigment qui absorbe Les radiations rouges, bleues et violettes.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Lors de la photosynthèse, le CO2 est fixé :",
+    "choices": "Durant le cycle de Calvin. Answer@-@Durant les réactions de la phase photochimique.@-@Durant le cycle de Krebs.@-@Durant les réactions de la phase obscure. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "La chlorophylle brute :",
+    "choices": "contient de la chlorophylle a seulement.@-@contient de la chlorophylle b seulement.@-@contient seulement de la chlorophylle a et b.@-@contient de la chlorophylle a et b et d’autre pigments (xanthophylle et carotènes). Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "La lumière blanche :",
+    "choices": "contient une seule radiation lumineuse.@-@contient plusieurs radiations lumineuses qui diffèrent par leurs longueurs d’onde. Answer@-@contient seulement des radiations vues par l’oille nue.@-@contient des radiations non visibles par l’oille nue. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "L’organite cellulaire responsable de la photosynthèse est :",
+    "choices": "le chloroplaste. Answer@-@la mitochondrie.@-@le noyau.@-@la vacuole.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Le centre réactionnel du photosystème :",
+    "choices": "contient de la chlorophylle a. Answer@-@contient de la chlorophylle b.@-@contient seulement de la chlorophylle a et b.@-@contient de la chlorophylle a et b et d’autre pigments (xanthophylle et carotènes).@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Un pigment excité peut revenir à son état initial par :",
+    "choices": "fluorescence. Answer@-@résonance. Answer@-@fusion.@-@Absorption.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Le photosystème est constitué de :",
+    "choices": "centre réactionnel. Answer@-@antenne collectrice. Answer@-@chloroplaste.@-@Thylakoïdes.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Les réactions de la photosynthèse responsables de la libération d’O2 sont :",
+    "choices": "les réactions lumino-dépendantes. Answer@-@Les réactions lumino-indépendantes.@-@Les réactions de la formation des glucides.@-@Les réactions de l’hydrolyse des glucides.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "La photolyse de l’eau est une réaction qui conduit à la production de H2O.",
+    "choices": "Vrai.@-@Faux. Answer@-@la photolyse de l’eau est une réaction qui conduit à la production d’ O2.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "La molécule de NADPH2 est un transporteur d’électrons et de protons.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "La molécule de chlorophylle peut libérer un électron lorsque elle est excitée par l’eau.",
+    "choices": "Vrai.@-@Faux. Answer@-@la molécule de chlorophylle peut libérer un électron lorsque elle est excitée par la lumière.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "On peut extraire la chlorophylle brute à partir des racines.",
+    "choices": "Vrai.@-@Faux. Answer@-@On peut extraire la chlorophylle brute à partir des feuilles vertes.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "La chromatographie sur papier est une technique qui permet d’extraire la chlorophylle brute.",
+    "choices": "Vrai.@-@Faux. Answer@-@La chromatographie sur papier est une technique qui permet la séparation des pigments chlorophylliens.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Le spectre de la chlorophylle brute est différent du spectre de la lumière blanche.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Le rayonnement vert est le rayonnement le moins absorbé par les pigments chlorophylliens.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Le chloroplaste est l’organite cellulaire responsable de la photosynthèse.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Le chloroplaste est un organite cellulaire délimité par trois membranes (interne, moyenne et externe).",
+    "choices": "Vrai.@-@Faux. Answer@-@Le chloroplaste est un organite cellulaire délimité par deux membranes (interne et externe).@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "La lumière absorbée par les pigments chlorophylliens est utilisé dans la photosynthèse.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Le photosystème est constitué par un centre réactionnel et une antenne collectrice.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Le centre réactionnel est constitué de chlorophylle b capable de céder ses électrons à un accepteur d’électron.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le centre réactionnel est constitué de chlorophylle a capable de céder ses électrons à un accepteur d’électron.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Lorsque les électrons se déplacent de PS II vers PSI, l’énergie du flux d’électrons est exploitée pour synthétiser d’ATP.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "Lorsque les électrons se déplacent de PS II vers PSI, l’énergie du flux des protons est exploitée pour synthétiser d’ATP.",
+    "choices": "Vrai.@-@Faux. Answer@-@Lorsque les électrons se déplacent de PS II vers PSI, l’énergie du flux d’électrons est exploitée pour synthétiser d’ATP.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "La membrane des thylakoïdes est imperméable aux ions H+, sauf au niveau de l’ATP synthase.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "La synthèse de l’ATP se fait par l’ADP synthase.",
+    "choices": "Vrai.@-@Faux. Answer@-@La synthèse de l’ATP se fait par l’ATP synthase.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "L’ATP synthase est un canal à protons, et en même temps un enzyme qui catalyse la synthèse de l’ATP.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "La fixation du CO2 se fait par les réactions du cycle de Calvin.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter3/",
+    "question": "La fixation du CO2 se fait par les réactions du cycle de Krebs.",
+    "choices": "Vrai.@-@Faux. Answer@-@La fixation du CO2 se fait par les réactions du cycle de Calvin.@-@",
+    "type": "tof"
+  }
+]

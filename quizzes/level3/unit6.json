@@ -1,0 +1,284 @@
+[
+  {
+    "level": "level3/unit6/",
+    "question": "Les déplacements horizontaux @blank@ peuvent conduire celles-ci à @blank@ les unes des autres, ce qui conduit aux phénomènes de : @blank@ (plaque océanique sous une plaque continentale), @blank@ (plaque océanique au-dessus d’une plaque continentale) et @blank@ (entre deux plaque océanique).",
+    "choices": "des plaques lithosphériques Answer@-@se rapprocher Answer@-@subduction Answer@-@obduction Answer@-@collision Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "@blank@ se caractérisent par la présence d’ @blank@ profonde souvent associée à @blank@.",
+    "choices": "les chaînes de subduction Answer@-@une fosse océanique Answer@-@un prisme d’accrétion Answer@-@les chaînes d’obduction.@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "@blank@ se caractérisent par @blank@ dont @blank@ se répartissent sur un plan oblique qui plonge sous la marge continentale : @blank@.",
+    "choices": "les chaînes de subductions Answer@-@une activité sismique intense Answer@-@les foyers Answer@-@le plan de Benioff Answer@-@les chaînes de collision@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Le magma andésitique se forme en profondeur @blank@ par @blank@ des péridotites du manteau de la plaque continentale chevauchante en présence d’ @blank@.",
+    "choices": "des zones de subduction Answer@-@fusion partielle Answer@-@eau Answer@-@vent@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "L’obduction est la montée d’ @blank@ sur @blank@, elle est due au blocage d’ @blank@.",
+    "choices": "une plaque océanique Answer@-@une plaque continentale Answer@-@une subduction Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Le métamorphisme est @blank@ à l’ @blank@ d’ @blank@ causée par la variation @blank@.",
+    "choices": "la transformation Answer@-@état solide Answer@-@une roche préexistante Answer@-@de la température et de la pression Answer@-@état liquide@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "@blank@ est causé principalement par @blank@ du magma intrusif, qui est responsable de la transformation des roches qui l’entourent formant @blank@.",
+    "choices": "le métamorphisme de contact Answer@-@la chaleur Answer@-@une auréole de métamorphisme Answer@-@le métamorphisme régional@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "@blank@ se réalise dans les zones de subduction, oû les roches de @blank@ plongeante se transforment en @blank@ qui contiennent des minéraux caractéristiques d’une @blank@ pression et une @blank@ température.",
+    "choices": "le métamorphisme dynamique Answer@-@la lithosphère océanique Answer@-@roches métamorphiques Answer@-@haute Answer@-@basse Answer@-@le métamorphisme de contact@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Dans les zones de subduction, le magma andésitique se forme à partir de la fusion de :",
+    "choices": "La péridotite anhydre (non hydratée) du manteau supérieur de la plaque chevauchante.@-@La péridotite hydratée du manteau supérieur de la plaque chevauchante. Answer@-@La péridotite hydratée de la lithosphère subduite (enfouie).@-@La péridotite anhydre (non hydratée) de la lithosphère subduite.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Le métamorphisme qui caractérise les zones de subduction résulte d’une :",
+    "choices": "Haute pression et d’une haute température.@-@Haute pression et d’une basse température. Answer@-@Basse pression et d’une haute température.@-@Basse pression et d’une basse température.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "La formation des chaînes d’obduction est le résultat :",
+    "choices": "Du déplacement d’une lithosphère continentale au-dessus d’une lithosphère océanique.@-@Du déplacement d’une lithosphère océanique au-dessus d’une lithosphère continentale. Answer@-@De l’enfouissement d’une lithosphère océanique sous une lithosphère océanique.@-@De l’enfouissement d’une lithosphère océanique sous une lithosphère continentale.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "L’anatexie accompagnée de la formation de la migmatite est un phénomène qui :",
+    "choices": "Aboutit à la formation d’un magma granitique. Answer@-@Aboutit à la fusion partielle de la péridotite.@-@Aboutit à la formation de roches métamorphiques.@-@Résulte d’une augmentation de la pression et de la température lors de la subduction.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "La faille inverse est une structure :",
+    "choices": "qui résulte des contraintes tectoniques distensives.@-@caractérisée par l’éloignement des deux compartiments de la faille.@-@caractérisée par un plan de faille vertical.@-@caractérisée par le rapprochement des deux compartiments de la faille. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "L’andésite est une roche magmatique qui :",
+    "choices": "résulte d’un refroidissement rapide du magma en profondeur.@-@résulte d’un refroidissement lent du magma en surface.@-@a une structure microlitique caractérisée par des microlites et du verre. Answer@-@a une structure grenue caractérisée par des cristaux de grande taille.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Les chaînes de subduction résultent de l’enfouissement d’une lithosphère :",
+    "choices": "océanique moins dense sous une lithosphère continentale plus dense.@-@continentale moins dense sous une lithosphère océanique plus dense.@-@océanique plus dense sous une lithosphère continentale moins dense. Answer@-@continentale plus dense sous une lithosphère océanique moins dense.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "L’auréole de métamorphisme est une zone qui entoure le granite :",
+    "choices": "intrusif et résulte d’un métamorphisme de contact. Answer@-@d’anatexie et résulte d’un métamorphisme de contact.@-@intrusif et résulte d’un métamorphisme régional.@-@d’anatexie et résulte d’un métamorphisme régional.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "En comparaison avec la croûte continentale, la croûte océanique est :",
+    "choices": "plus épaisse et plus dense ;@-@plus épaisse et moins dense ;@-@moins épaisse et plus dense ; Answer@-@moins épaisse et moins dense.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Les zones de subduction sont caractérisées par un volcanisme andésitique lié à la fusion partielle de la péridotite :",
+    "choices": "hydratée de la plaque en subduction.@-@non hydratée de la plaque en subduction.@-@hydratée de la plaque chevauchante. Answer@-@non hydratée de la plaque chevauchante.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "L’ophiolite est un complexe rocheux constitué par les roches suivantes :",
+    "choices": "péridotite, andésite, filons doléritiques et basalte.@-@andésite, gabbro, filons doléritiques et basalte.@-@péridotite, gabbro, andésite et basalte.@-@péridotite, gabbro, filons doléritiques et basalte. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Les zones de subduction sont caractérisées par des anomalies thermiques :",
+    "choices": "positives selon le plan de Bénioff et négatives qu niveau de l’arc volcanique.@-@positives selon le plan de Bénioff et au niveau de l’arc volcanique.@-@négatives selon le plan de Bénioff et au niveau de l’arc volcanique.@-@négatives selon le plan de Bénioff et positives au niveau de l’arc volcanique. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "La croûte continentale est principalement formée :",
+    "choices": "de gabbros.@-@de granites. Answer@-@de péridotites.@-@de basaltes.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "L’origine de la fusion de la péridotite dans les zones de subduction est :",
+    "choices": "un flux géothermique supérieur à la moyenne.@-@la déshydratation des matériaux de la croûte océanique subduite. Answer@-@la déshydratation des matériaux de la croûte continentale subduite@-@un flux géothermique inférieur à la moyenne.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Les ophiolites sont :",
+    "choices": "des fossiles marins.@-@la trace d’un domaine océanique disparu. Answer@-@un domaine continental déformé à la suite d’une collision.@-@des minéraux caractéristiques du granite.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Le magma andésitique se forme suite à la fusion partielle d’une roche nommée :",
+    "choices": "l’éclogite.@-@l’argile.@-@la péridotite. Answer@-@le basalte.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Les chaînes de collision résultent de :",
+    "choices": "l’affrontement de deux plaques océaniques sous l’effet des contraintes compressives.@-@l’affrontement de deux blocs continentaux après la fermeture d’un ancien océan. Answer@-@l’effet de forces géologiques extensives en rapport avec la fermeture d’un ancien océan.@-@l’effet de forces géologiques compressives au niveau de la dorsale océanique.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "La séquence métamorphique est un ensemble de :",
+    "choices": "roches magmatiques résultantes du refroidissement du même magma.@-@roches ayant subi un même degré de métamorphisme.@-@minéraux ayant subit une température croissante.@-@roches métamorphiques qui résultent de la même roche mère. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Les migmatites :",
+    "choices": "sont des roches appartenant à une auréole métamorphique.@-@sont des roches ayant une texture mixte (grenue et foliée). Answer@-@résultent de la fusion partielle de la péridotite.@-@résultent de la fusion totale du gneiss.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Le refroidissement du magma en surface dans les zones de subduction entraîne la formation de :",
+    "choices": "l’andésite à structure grenue.@-@la péridotite à structure microlitique.@-@l’andésite à structure microlitique. Answer@-@la péridotite à structure grenue.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Le gneiss se caractérise par une structure :",
+    "choices": "grenue.@-@de foliation. Answer@-@microlitique.@-@de schistosité.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Les zones de subduction se caractérisent par une :",
+    "choices": "haute pression et haute température.@-@basse pression et haute température.@-@haute pression et basse température. Answer@-@basse pression et basse température.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "La chaîne d’Oman est formée suite à un :",
+    "choices": "déplacement d’une lithosphère continentale au-dessus d’une lithosphère océanique.@-@déplacement d’une lithosphère océanique au-dessus d’une lithosphère continentale. Answer@-@enfouissement d’une lithosphère océanique sous une lithosphère océanique.@-@enfouissement d’une lithosphère océanique sous une lithosphère continentale.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "La série métamorphique des roches argileuses résultante d’un métamorphisme de pression et de température croissantes est :",
+    "choices": "argile → gneiss → schiste → micaschiste.@-@argile → schiste → gneiss → micaschiste.@-@argile → schiste → micaschiste → gneiss. Answer@-@argile → gneiss → micaschiste → schiste.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Le granite intrusif est entouré par :",
+    "choices": "les migmatites.@-@l’auréole métamorphique. Answer@-@le gneiss.@-@la péridotite.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "L’éclogite est une roche métamorphique formée sous les conditions suivantes :",
+    "choices": "haute pression et haute température.@-@haute pression et basse température. Answer@-@basse pression et haute température.@-@basse pression et basse température.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Les migmatites forment un complexe rocheux qui sépare :",
+    "choices": "les roches du métamorphisme de contact du domaine de la fusion.@-@les roches du métamorphisme dynamique du domaine de la fusion.@-@le granite anatectique du granite intrusif.@-@le gneiss du granite anatectique. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "L’auréole de métamorphisme est formée de roches qui résultent d’un métamorphisme régional.",
+    "choices": "Vrai.@-@Faux. Answer@-@L’auréole de métamorphisme est formée de roches qui résultent d’un métamorphisme de contact.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Les nappes de charriage résultent d’un déplacement de formations rocheuses sur de longues distances, sous l’effet de forces compressives.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Les plis et les failles inverses sont des déformations tectoniques caractéristiques des zones d’affrontement entre les plaques lithosphériques.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "La schistosité est une structure caractéristique des roches métamorphiques qui apparaît dans les conditions extrêmes du métamorphisme.",
+    "choices": "Vrai.@-@Faux. Answer@-@La schistosité est une structure caractéristique des roches métamorphique qui apparaît dans les premiers stages de métamorphisme.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Le magma andésitique résulte de la fusion partielle des roches préexistantes sous l’action d’un métamorphisme de haute température et de basse pression.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le magma andésitique résulte de la fusion partielle des roches préexistantes sous l’action d’un métamorphisme de haute température et de haute pression.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Les zones de subduction sont caractérisées par un métamorphisme dynamique.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Une séquence métamorphique correspond à l’ensemble des roches qui se sont formées dans les mêmes conditions de pression et de température.",
+    "choices": "Vrai.@-@Faux. Answer@-@Une séquence métamorphique correspond à l’ensemble des roches qui sont formées dans des conditions croissantes de pression et de température.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "La schistosité et la foliation sont deux structures caractéristiques des roches métamorphiques et magmatiques.",
+    "choices": "Vrai.@-@Faux. Answer@-@La schistosité et la foliation sont deux structures caractéristiques des roches métamorphiques.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "La croûte océanique est formée de granites et de gabbro.",
+    "choices": "Vrai.@-@Faux. Answer@-@La croûte océanique est formée de basalte et de gabbro.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Au niveau de zones de subduction, les foyers sismiques se répartissent selon un plan oblique au-dessous de la plaque chevauchante.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "La chaîne d’obduction résulte de l’enfouissement d’une plaque océanique sous une plaque continentale.",
+    "choices": "Vrai.@-@Faux. Answer@-@La chaîne d’obduction résulte du chevauchement d’une plaque océanique sur une plaque continentale.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit6/",
+    "question": "Un pli-faille résulte d’une faille suivie d’un pli.",
+    "choices": "Vrai.@-@Faux. Answer@-@Un pli-faille résulte d’un pli suivi d’une faille@-@",
+    "type": "tof"
+  }
+]

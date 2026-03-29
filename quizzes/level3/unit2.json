@@ -1,0 +1,272 @@
+[
+  {
+    "level": "level3/unit2/",
+    "question": "@blank@ est un programme héréditaire qui détermine @blank@ héréditaires de @blank@.",
+    "choices": "l’information génétique Answer@-@les caractères Answer@-@l’individu Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "L’information génétique est @blank@ d’une cellule @blank@ aux cellules filles par @blank@.",
+    "choices": "transmise Answer@-@mère Answer@-@la mitose Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "La prophase se caractérise par la condensation de @blank@ qui forme @blank@, la disparition de @blank@ et l’apparition du @blank@ entre deux pôles de la cellule.",
+    "choices": "la chromatine Answer@-@des chromosomes Answer@-@l’enveloppe nucléaire Answer@-@fuseau mitotique Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "La métaphase se caractérise par @blank@ des chromosomes doubles dans @blank@ de la cellule, formant @blank@.",
+    "choices": "le regroupement Answer@-@le plan équatorial Answer@-@une plaque équatoriale Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "La métaphase se caractérise par @blank@ des deux chromatides constituantes @blank@ (par clivage des centromères), et @blank@ en sens opposé de deux lots @blank@ de chromosomes.",
+    "choices": "la séparation Answer@-@les chromosomes doubles Answer@-@la migration Answer@-@identiques Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "La mitose est précédée par @blank@ qui se caractérise par @blank@ des chromosomes. La mitose et l’interphase qui @blank@ constituent @blank@.",
+    "choices": "l’interphase Answer@-@la duplication Answer@-@la précède Answer@-@un cycle cellulaire Answer@-@la suit@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "L’ADN est constitué par @blank@ molécules : l’acide phosphorique, @blank@ et des bases azotées. La combinaison de ces molécules forme @blank@.",
+    "choices": "trois Answer@-@le désoxyribose Answer@-@un nucléotide Answer@-@quatre@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "La molécule d’ADN est formée de deux @blank@ de nucléotides enroulés @blank@ l’une autour de l’autre, c’est @blank@. Les deux brins sont liés par @blank@ entre les bases azotées.",
+    "choices": "chaînes (brins) Answer@-@en spirale Answer@-@la double hélice Answer@-@des liaisons hydrogènes Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Le gène est @blank@ de nucléotides d’ADN qui contrôle @blank@. Le gène peut prendre plusieurs @blank@, chaque forme est @blank@.",
+    "choices": "une séquence Answer@-@un caractère héréditaire Answer@-@formes Answer@-@un allèle Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "La mutation est toute @blank@ spontanée, imprévue et @blank@ qui touche l’ADN au niveau @blank@ par substitution, ou délétion, ou @blank@ d’un nucléotide ou plus.",
+    "choices": "modification Answer@-@rare Answer@-@d’un gène Answer@-@addition Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Le brassage interchromosomique lors de la méiose résulte de la répartition indépendante et aléatoire :",
+    "choices": "des chromosomes homologues pendant l’anaphase I. Answer@-@des chromosomes homologues pendant l’anaphase II.@-@des chromatides pendant l’anaphase I.@-@des chromatides pendant l’anaphase II.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Durant la métaphase de la mitose, chaque chromosome est formé :",
+    "choices": "d’une seule chromatide constituée de deux brins d’ADN.@-@de deux chromatides constituée chacune d’un brin d’ADN.@-@de deux chromatides constituée chacune de deux brins d’ADN. Answer@-@de deux chromatides l’une constituée d’un seul brin d'ADN et l’autre de deux brins d’ADN.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Dans le cas du monohybridisme, le croisement entre un individu homozygote récessif et un individu hétérozygote donne :",
+    "choices": "25 % de phénotype récessif et 75 % de phénotype dominant.@-@75 % de phénotype récessif et 25 % de phénotype dominant.@-@25 % de phénotype récessif, 50 % de phénotype intermédiaire et 25 % de phénotype dominant.@-@50 % de phénotype récessif et 50 % de phénotype dominant. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Au cours de la réplication de l’ADN :",
+    "choices": "la double hélice parentale reste intacte et une deuxième copie entièrement nouvelle est synthétisée.@-@chaque brin des deux molécules d’ADN formées contient des fragments anciens et des fragments nouvellement synthétisés.@-@les deux brins de la double hélice parentale se séparent et chacun d’eux sert de modèle pour la synthèse d’un nouveau brin complémentaire. Answer@-@la double hélice parentale ne sert pas à la synthèse des deux nouvelles copies d’ADN.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Les yeux de réplication apparaissent au cours de :",
+    "choices": "la prophase.@-@L’interphase. Answer@-@la métaphase.@-@la télophase.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "La méiose donne :",
+    "choices": "quatre cellules diploïdes à partir d’une cellule mère diploïde.@-@deux cellules diploïdes à partir d’une cellule mère diploïde.@-@quatre cellules haploïdes à partir d’une cellule mère diploïde. Answer@-@deux cellules haploïdes à partir d’une cellule mère lipoïde.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Une personne atteinte du syndrome de Down possède :",
+    "choices": "le chromosome 22 en un seul exemplaire.@-@le chromosome 21 en trois exemplaires. Answer@-@le chromosome 22 en trois exemplaires.@-@le chromosome 21 en un seul exemplaire.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "la formule chromosomique d’un individu atteint du syndrome de klinefelter est :",
+    "choices": "2n-1 = 22AA + Y.@-@2n-1 = 22AA + X.@-@2n = 22AA + XXY.@-@2n+1 = 22AA + XYY. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Un gène est :",
+    "choices": "Une séquence de nucléotides qui code une séquence d’acides aminés dans la cellule. Answer@-@Une séquence de nucléotide qui code plusieurs séquences différentes d’acides aminés dans la cellule.@-@Un ensemble de séquences nucléotidiques qui codent un ensemble de séquences d’acides aminés dans la cellule.@-@L’ensemble des molécules d’ADN de tous les chromosomes de la cellule.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "La transcription de l’ADN nécessite :",
+    "choices": "L’intervention d’ADN polymérase et produit une molécule d’ARNm.@-@L’intervention d’ADN polymérase et produit deux molécules d’ADN.@-@L’intervention de l’ARN polymérase et produit une molécule d’ARNm. Answer@-@L’intervention de l’ARN polymérase et produit deux molécules d’ADN.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "La mitose chez une cellule diploïde :",
+    "choices": "Est caractérisée par une prophase où il y a apparition des nucléoles et d’une paroi nucléaire.@-@Produit 4 cellules haploïdes.@-@Est un phénomène continue comportant quatre phase. Answer@-@Assure une transmission conforme de l’information génétique. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "L’acide désoxyribonucléique ADN :",
+    "choices": "Est constitué d’un seul brin de nucléotides.@-@Est formé de deux brins de nucléotides antiparallèles. Answer@-@Constitue le support de l’information génétique dans la cellule. Answer@-@Est une séquence de quatre types différents de nucléotides. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Le nucléotide :",
+    "choices": "Est formé de : Phospholipides + Désoxyribose + Base azotée.@-@Est formé de : Acide phosphorique + Désoxyribose + Base azotée. Answer@-@Est l’unité structurale du brin d’ADN. Answer@-@Est l’unité structurale des protéines.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Le codon est :",
+    "choices": "Une séquence de trois acides aminés sur l’ADN.@-@Une séquence de trois nucléotides sur l’ARNm. Answer@-@Une séquence de trois nucléotides sur l’ARNt.@-@L’unité de base du code génétique. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "La transcription de l’ADN :",
+    "choices": "Nécessite la présence de l’ARN polymérase. Answer@-@Se déroule au niveau des ribosomes.@-@Produit l’ARNm. Answer@-@Se produit seulement pendant G1 de l’interphase.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Dans le noyau de la cellule :",
+    "choices": "L’ADN est associé à des protéines. Answer@-@Il y a duplication de l’ADN pendant la prophase de la mitose.@-@Il y a transcription de l’ARN en ADN pendant l’interphase.@-@Les nucléoles disparaissent pendant la prophase de la mitose. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "La mutation :",
+    "choices": "Ne se produit pas dans les cellules végétatives de l’organisme.@-@Peut se produire dans toute cellule de l’organisme. Answer@-@Il en résulte toujours un nouvel allèle du gène. Answer@-@Elle est toujours prévisible.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "La mutation par substitution au niveau de l’ADN :",
+    "choices": "Est toujours héréditaire (de la cellule mère aux cellules filles). Answer@-@Fait changer obligatoirement la séquence nucléotidique de l’ARNm. Answer@-@Fait changer obligatoirement la séquence des acides aminés au niveau des protéines.@-@Fait changer obligatoirement la fonction de la protéine.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Le plasmide est :",
+    "choices": "L’un des chromosomes de la cellule végétale.@-@Une mitochondrie dans la cellule bactérienne.@-@L’ADN principal des cellules bactériennes.@-@Une petite molécule d’ADN circulaire chez la bactérie. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Contrairement aux cellules embryonnaires, les cellules adultes sont génétiquement différentes.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les cellules embryonnaires et les cellules adultes ont le même contenu génétique.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Les chromosomes ne sont observables au microscope qu’au cours de la mitose.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Le code génétique est constitué par 64 triplés de nucléotide présentés par le tableau du code génétique.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Les différents ARN de transfert peuvent se lier à n’import quel codon de l’ARNm.",
+    "choices": "Vrai.@-@Faux. Answer@-@Chaque ARN de transfert se caractérise par un anticodon qui se lit à un codon spécifique de l’ARNm@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Les codons d’ARNm ne sont pas tous traduits en acides aminés.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Au niveau de l’ADN d’une cellule eucaryote en phase G2 d’interphase, on peut observer des fourches de réplication.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les fourches de réplication sont observées au niveau de la phase S de l’interphase.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "L’assemblage d’une chaîne polypeptidique débute toujours par la mise en place de l’acide aminé méthionine.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Scientifiquement, on désigne toute division cellulaire par le mot mitose.",
+    "choices": "Vrai.@-@Faux. Answer@-@La méiose est un autre type de division cellulaire.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Le chromosome mitotique résulte d’une forte condensation de nombreuses molécules d’ADN.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le chromosome mitotique résulte d’une forte condensation d’une seule molécule d’ADN (par chromatide).@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "La synthèse protéique s’effectue au niveau des ribosomes.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Une enzyme de restriction coupe la molécule d’ADN à chaque fois qu’elle rencontre une certaine séquence de bases.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Plusieurs hormones produites par le génie génétique sont actuellement disponibles sur le marché.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "L’anomalie chromosomique est une modification du nombre ou de la structure des chromosomes.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "La translocation réciproque est le transfert d’un fragment de chromosome sur un autre chromosome.",
+    "choices": "Vrai.@-@Faux. Answer@-@La translocation simple est le transfert d’un fragment de chromosome sur un autre chromosme.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "La translocation chromosomique équilibrée modifie le nombre des chromosomes chez l’individu porteur de cette anomalie.",
+    "choices": "Vrai.@-@Faux. Answer@-@La translocation chromosomique équilibrée ne modifie par le contenu génétique d’un individu.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level3/unit2/",
+    "question": "Les maladies héréditaires récessives liées au chromosome sexuel X affectent les femelles plus que les mâles.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les maladies héréditaires récessives liées au chromosome sexuel X affectent les mâles plus que les mâles.@-@",
+    "type": "tof"
+  }
+]

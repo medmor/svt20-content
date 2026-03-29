@@ -1,0 +1,128 @@
+[
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "Le climat est @blank@ qui règnent dans l’atmosphère terrestre dans @blank@ et pendant une période qui s’étale sur @blank@.",
+    "choices": "l’ensemble des conditions Answer@-@une région donnée Answer@-@plusieurs années Answer@-@la température@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "On cite parmi les conditions climatiques :",
+    "choices": "La température. Answer@-@Les sels minéraux.@-@Les précipitations. Answer@-@Le vent. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "On calcule l’écart thermique par la relation :",
+    "choices": "(M – m) / 2.@-@(M + m) / 2.@-@M – m. Answer@-@M + m.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "On calcule la moyenne thermique par la relation :",
+    "choices": "(M – m) / 2.@-@(M + m) / 2. Answer@-@M – m.@-@M + m.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "Parmi les instruments de mesures des conditions climatique :",
+    "choices": "Le thermomètre. Answer@-@Le baromètre. Answer@-@Le pH-mètre .@-@Le centimètre.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "Parmi les facteurs qui influencent le climat à l’échelle nationale :",
+    "choices": "Le type du sol.@-@La période aride.@-@Le rapprochement de la mer. Answer@-@La texture du sol.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "L’unité utilisée pour l’enregistrement des précipitations est :",
+    "choices": "Lux.@-@C (Celsius).@-@mm. Answer@-@K (Kelvin).@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "On représente sur le diagramme ombrothermique :",
+    "choices": "Les précipitations. Answer@-@L’humidité relative de l’air.@-@La température. Answer@-@La vitesse du vent.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "On représente sur le diagramme bioclimatique d’Emberger :",
+    "choices": "Les précipitations.@-@Le quotient pluviométrique. Answer@-@La température minimale (m). Answer@-@La température maximale (M).@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "Sur une courbe en cloche le nombre d’individus est nulle :",
+    "choices": "Dans de la zone optimale.@-@Au milieu de la zone optimale.@-@Dans la zone de tolérance.@-@Dans la zone létale. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "Le cèdre préfère :",
+    "choices": "Un climat saharien.@-@Une période aride qui dépasse 5 mois.@-@Des précipitations annuelles importantes qui dépassent 750 mm. Answer@-@Un hiver tempéré à chaud.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "La température, dans un même lieu, ne varie pas durant la journée.",
+    "choices": "Vrai.@-@Faux. Answer@-@La température varie d’ne valeur minimale (m) à une valeur maximale (M).@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "La température minimale (m) est enregistrée généralement durant la nuit.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "Le luxmètre est utilisé pour la mesure de l’humidité relative.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le luxmètre est utilisé pour la mesure de l’intensité lumineuse.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "L’anémomètre est utilisé pour la mesure de la vitesse du vent.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "La serriculture est utilisée pour la maîtrise des conditions climatique.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "Dans un diagramme ombrothermique, la période aride est déterminée quand la courbe des précipitations est en dessous de la courbe de la température.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "Plus on s’éloigne de la mer, plus les précipitations augmentent.",
+    "choices": "Vrai.@-@Faux. Answer@-@Plus on s’éloigne de la mer, plus les précipitations diminuent.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "Le mois le plus chaud est généralement le mois septembre.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le mois le plus chaud est généralement le mois août.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "Plus on augmente en altitude, plus la température diminue.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter3/",
+    "question": "La température enregistrée dans les deux versant d’une vallée est toujours la même.",
+    "choices": "Vrai.@-@Faux. Answer@-@La température enregistrée dans les deux versant d’une vallée peut varier selon l’exposition (nord ou sud) des deux versant.@-@",
+    "type": "tof"
+  }
+]

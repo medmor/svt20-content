@@ -1,0 +1,164 @@
+[
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "On distingue @blank@ types de datation : @blank@ (se base sur un ensemble de principes stratigraphiques) et @blank@ (se basant sur les éléments radioactifs).",
+    "choices": "deux Answer@-@la datation relative Answer@-@la datation absolue Answer@-@trois@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "Dans une série sédimentaire @blank@, toute couche sédimentaire est plus @blank@ que la couche au-dessus d’elle, et plus @blank@ que la couche en dessous d’elle.",
+    "choices": "non déformée Answer@-@ancienne Answer@-@récente Answer@-@déformée@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "On parle de variation latérale du faciès lorsque deux formations sédimentaires de @blank@, en continuité, présentent des faciès @blank@. Cette variation de faciès est due à la variation @blank@ de sédimentation (profondeur, proximité de la cote…).",
+    "choices": "même âge Answer@-@différents Answer@-@des conditions Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "@blank@ permettent de dater les couches sédimentaires dans lesquelles ils se @blank@, cette datation est basée sur le principe @blank@.",
+    "choices": "les fossiles stratigraphiques Answer@-@trouvent Answer@-@d’identité paléontologique Answer@-@variation latérale de faciès@-@les fossiles de faciès@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "@blank@ est la période qui correspond à une @blank@ suivie par une @blank@ dans une même région",
+    "choices": "le cycle sédimentaire Answer@-@transgression Answer@-@régression Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "Le temps géologique est divisé en se basant sur :",
+    "choices": "le principe de superposition.@-@les grandes crises biologiques. Answer@-@les fossiles de faciès.@-@la série régressive.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "L’étage stratigraphique :",
+    "choices": "est une série de strates stratigraphiques déformées.@-@est limité par deux lacunes stratigraphiques. Answer@-@est l’unité essentielle dans l’échelle stratigraphique. Answer@-@détermine une période géologique équivalente à 100Ma.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "L’ammonite :",
+    "choices": "a vécue durant le quaternaire.@-@a vécue durant le secondaire. Answer@-@indique un milieu de sédimentation continental.@-@indique un milieu de sédimentation marin. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "Le cycle sédimentaire",
+    "choices": "est une série régressive.@-@est une série transgressive.@-@est une série transgressive suivie par une série régressive. Answer@-@est une série régressive suivie par une série transgressive.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "La série régressive est la succession de sédiments",
+    "choices": "carbonatés → fins → grossiers. Answer@-@fins → carbonatés → grossiers.@-@grossiers → fins → carbonatés.@-@grossiers→ carbonatés → fin.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "La série transgressive est la succession de sédiments",
+    "choices": "carbonatés → fins → grossiers.@-@fins → carbonatés → grossiers.@-@grossiers → fins → carbonatés. Answer@-@grossiers→ carbonatés → fin.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "Les trilobites",
+    "choices": "sont des fossiles marins. Answer@-@sont des fossiles continentaux.@-@caractérisent le secondaire.@-@caractérise le tertiaire@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "La lacune stratigraphique est une structure dans les séries sédimentaires :",
+    "choices": "qui indique une continuité dans la sédimentation.@-@qui indique une discontinuité dans la sédimentation. Answer@-@qui indique le lit d’une strate sédimentaires.@-@qui indique le toit d’une strate sédimentaire.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "Les fossiles utilisées dans la datation relative :",
+    "choices": "se caractérisent par une longue répartition chronologique.@-@se caractérisent par une petite répartition chronologique. Answer@-@sont des fossiles de faciès.@-@sont des fossiles stratigraphiques. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "Déterminer le principe qui se base sur l’utilisation des fossiles :",
+    "choices": "le principe de superposition.@-@le principe de continuité.@-@le principe de la variation latérale de faciès.@-@le principe de l’identité paléontologique. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "Lorsqu’une faille coupe une strate sédimentaire :",
+    "choices": "la strate est plus ancienne que la faille. Answer@-@La faille est plus ancienne que la strate.@-@Le principe utilisé dans la datation est le principe de la superposition.@-@Le principe utilisé dans la datation est le principe de recoupement. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "Le principe de superposition est un principe stratigraphique qui permet la datation absolue des strates sédimentaires.",
+    "choices": "Vrai,@-@Faux. Answer@-@Le principe de superposition est un principe stratigraphique qui permet la datation relative des strates sédimentaires.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "On ne peut pas appliquer le principe de continuité dans le cas d’alternance de strates stratigraphiques de même faciès.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "Les fossiles de faciès se caractérisent par une distribution géographique limité.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "Les fossiles de faciès se caractérisent par une grande distribution géographique ",
+    "choices": "Vrai@-@Faux. Answer@-@Les fossiles de faciès se caractérisent par une distribution géographique limité.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "Les stratotypes permettent de déterminer les étages de l’échelle stratigraphique.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "Les trilobites sont des fossiles stratigraphiques qui caractérisent le tertiaire.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les trilobites sont des fossiles stratigraphiques qui caractérisent le primaire@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "Dans une discordance angulaire, les strates au-dessous et les strates au-dessus de la discordance sont toutes horizontales.",
+    "choices": "Vrai.@-@Faux. Answer@-@Dans une discordance parallèle, les strates au-dessous et les strates au-dessus de la discordance sont toutes horizontales.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "Tout évènement géologique qui recoupe une strate stratigraphique est plus ancien que cette strate.",
+    "choices": "Vrai.@-@Faux. Answer@-@Tout évènement géologique qui recoupe une strate stratigraphique est plus récent que cette strate.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "Les débris d’une roche inclus dans une autre couche sont toujours plus anciens que leur contenant.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "Les fossiles de faciès permettent de dater les strates sédimentaires.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les fossiles stratigraphiques permettent de dater les strates sédimentaires.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit1/chapter2/",
+    "question": "La transgression marine est un envahissement durable de zones littorales par la mère.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  }
+]

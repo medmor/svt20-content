@@ -1,0 +1,182 @@
+[
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Les plantes chlorophylliennes sont des organismes @blank@, car elles ont besoin de minéraux pour @blank@ leur matière organique grâce à @blank@.",
+    "choices": "autotrophes Answer@-@synthétiser Answer@-@l’énergie lumineuse Answer@-@hétérotrophe@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Les feuilles des plantes chlorophylliennes ont des structures particulières appelées @blank@, qui jouent un rôle important dans la régulation @blank@ avec le milieu @blank@.",
+    "choices": "les stomates Answer@-@des échanges gazeux Answer@-@extérieur Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "L’ouverture @blank@ est fortement influencée par l’éclairage, la température et @blank@, et donc les stomates sont des structures qui permettent @blank@ des échanges gazeux entre la plante et son @blank@.",
+    "choices": "des stomates Answer@-@l’humidité Answer@-@la régulation Answer@-@environnement Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "@blank@ permet à la plante de produire @blank@ qui contribuent à @blank@ et à la formation de ses réserves. Les composés de base sont classés en @blank@, lipides et protéines.",
+    "choices": "la photosynthèse Answer@-@des substances organiques Answer@-@sa croissance Answer@-@sucres Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Les sucres sont formés de @blank@ qui sont : @blank@ (C), @blank@ (H) et @blank@ (O).",
+    "choices": "trois atomes Answer@-@le carbone Answer@-@l’hydrogène Answer@-@l’oxygène Answer@-@quatres atomes@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Les protéines sont formées essentiellement de @blank@ qui sont : @blank@ (C), @blank@ (H), @blank@ (O) et @blank@ (N).",
+    "choices": "quatres atomes Answer@-@le carbone Answer@-@l’hydrogène Answer@-@l’oxygène Answer@-@l’azote Answer@-@trois atomes@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Les acides aminés sont constitués par @blank@ essentiels qui sont : @blank@, @blank@ (COOH) et @blank@ (NH2).",
+    "choices": "trois unités Answer@-@un radical organique variable Answer@-@un groupement acide Answer@-@un groupement amine Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Les échanges gazeux chlorophylliens :",
+    "choices": "sont effectués durant le jour. Answer@-@sont effectués durant la nuit.@-@sont effectués à travers les poils absorbants.@-@vont enrichir l’environnement en CO2.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Le rouge de crésol est un indicateur coloré :",
+    "choices": "qui permet la mise en évidence de la présence de CO2. Answer@-@qui permet la mise en évidence de la présence d’O2.@-@qui prend une coloration rouge dans un milieu riche en CO2.@-@qui prend une coloration jaune dans un milieu pauvre en CO2. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Les échanges gazeux chlorophylliens sont influencés par :",
+    "choices": "le taux d’O2 dans l’aire.@-@le taux de CO2 dans l’aire. Answer@-@l’intensité lumineuse. Answer@-@la température ambiante. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Le taux d’ouverture des stomates",
+    "choices": "est maximal pendant la journée. Answer@-@est maximal durant la nuit.@-@est influencé par l’humidité relative de l’aire. Answer@-@est influencé par la température. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Dans la lumière, les plantes chlorophylliennes :",
+    "choices": "absorbent CO2 par les échanges gazeux chlorophylliens. Answer@-@absorbent O2 par les échanges gazeux chlorophylliens.@-@libèrent CO2 par les échanges gazeux chlorophylliens.@-@libèrent O2 par les échanges gazeux chlorophylliens. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Les structures responsables des échanges gazeux chlorophylliens sont :",
+    "choices": "les stomates. Answer@-@les poils absorbants.@-@les chloroplastes.@-@les mitochondries.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "La production de la matière organique se réalise :",
+    "choices": "par les parties vertes des feuilles. Answer@-@par les parties non vertes des feuilles.@-@en présence de la lumière. Answer@-@en absence de la lumière.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Le glucose est :",
+    "choices": "un monosaccharide. Answer@-@un disaccharide.@-@un acide aminé.@-@une protéine.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Le saccharose est :",
+    "choices": "un monosaccharide.@-@un disaccharide. Answer@-@un acide aminé.@-@une protéine.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Les protéines sont constituées par :",
+    "choices": "des monosaccharides.@-@des disaccharides.@-@des acides aminés. Answer@-@des acides gras.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "La bicouche lipidique de la membrane plasmique est constitué essentiellement par :",
+    "choices": "des phospholipides. Answer@-@des acides aminés.@-@des glycolipides.@-@des triglycérides.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Un acide aminé contient :",
+    "choices": "un groupement aminé. Answer@-@Un groupement acide. Answer@-@Un groupement alcool.@-@Un groupement aldéhyde.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "La formule chimique des monosaccharides est CnH2nO2n.",
+    "choices": "Vrai.@-@Faux. Answer@-@La formule chimique des monosaccharides est CnH2nOn.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "La formule chimique du glucose est C6H12O12.",
+    "choices": "Vrai.@-@Faux. Answer@-@La formule chimique du glucose est C6H12O6@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Un disaccharide est une molécule constituée par la liaison de deux monosaccharides.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Un dipeptide est une molécule constituée par la liaison de deux acides aminés par une liaison glycosidique.",
+    "choices": "Vrai.@-@Faux. Answer@-@Un dipeptide est une molécule constituée par la liaison de deux acides aminés par une liaison peptidique.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Les triglycérides sont des esters d’acides gras et du glycérol.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "En absence de la lumière, les plantes chlorophylliennes absorbent CO2 et libèrent O2.",
+    "choices": "Vrai.@-@Faux. Answer@-@En présence de la lumière, les plantes chlorophylliennes absorbent CO2 et libèrent O2.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Le taux de CO2 absorbé par les plantes chlorophylliennes augmente avec l’augmentation de la concentration de CO2 externe.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Le taux de CO2 absorbé par les plantes chlorophylliennes augmente avec l’augmentation de l’intensité lumineuse.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "Généralement, les stomates sont plus abondants dans la face inférieur des feuilles vertes.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "La production de la matière organique par les feuilles vertes peut s’effectuer en absence de la lumière.",
+    "choices": "Vrai.@-@Faux. Answer@-@la production de la matière organique par les plantes vertes s’effectue uniquement en présence de la lumière.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level2/unit2/chapter2/",
+    "question": "La production de la matière organique par les feuilles vertes s’effectue en absence de CO2.",
+    "choices": "Vrai.@-@Faux. Answer@-@La production de la matière organique par les feuilles vertes nécessite la présence de CO2.@-@",
+    "type": "tof"
+  }
+]

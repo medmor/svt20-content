@@ -1,0 +1,152 @@
+[
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "Les conifères sont @blank@ qui ont @blank@, c’est-à-dire @blank@, ce qui fait du vent le facteur le plus important pour @blank@.",
+    "choices": "des plantes à graines nues Answer@-@des fleurs réduites Answer@-@sans calice ni corolle Answer@-@la pollinisation Answer@-@des fleurs colorées@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "@blank@ ont des fleurs réduites, ce qui fait @blank@ le facteur le plus important pour @blank@.",
+    "choices": "les conifères Answer@-@du vent Answer@-@la pollinisation Answer@-@des abeilles@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "Les organes reproducteurs @blank@ se présentent sous la forme de @blank@ situés à la base du rameau annuel. Chaque cône est constitué de plusieurs @blank@.",
+    "choices": "mâles Answer@-@groupes de cônes Answer@-@rangées d'écailles Answer@-@femelle@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "Les grains de pollen se forment à l’intérieur @blank@ à partir @blank@, qui subit @blank@ pour donner 4 cellules @blank@ appelées microspores.",
+    "choices": "du sac pollinique Answer@-@d’une cellule mère diploïde Answer@-@une méiose Answer@-@haploïdes Answer@-@du sac embryonnaire@-@d’une cellule mère haploïde@-@une mitose@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "Lorsque le tube pollinique atteint @blank@, il la pénètre et son extrémité se dégénère pour libérer @blank@. L’un contribue @blank@, tandis que l’autre se @blank@ avec le noyau végétatif.",
+    "choices": "L’archégone Answer@-@les deux gamètes mâles Answer@-@à la fécondation Answer@-@dégénère Answer@-@l’ovule@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "L’appareil reproducteur mâle est des conifères :",
+    "choices": "un pistil.@-@un cône. Answer@-@une étamine.@-@un axe.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "Chez les conifères, le gamète mâle est porté par :",
+    "choices": "l’ovule.@-@l’ovaire.@-@la graine.@-@le grain de pollen. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "Chez les conifères, les grains de pollen se forment dans :",
+    "choices": "les sacs embryonnaires.@-@les sacs polliniques. Answer@-@les sacs aérifères.@-@l’ovaire.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "Chez les conifères, l’ovule se trouve :",
+    "choices": "dans l’ovaire.@-@sur la face supérieur de l’écaille. Answer@-@sur la face inférieur de l’écaille.@-@dans l’anthère.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "Chez les conifères, la pollinisation se fait :",
+    "choices": "essentiellement par le vent. Answer@-@essentiellement par les abeilles.@-@par le vent et les abeilles.@-@essentiellement par l’eau.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "Chez les conifères, la fécondation est simple car :",
+    "choices": "les deux anthérozoïdes fécondent les deux noyaux du sac.@-@les deux anthérozoïdes fécondent deux oosphères.@-@un anthérozoïde féconde l’oosphère et l’autre dégénère. Answer@-@un anthérozoïde féconde l’oosphère et l’autre fécondent les deux noyaux du sac.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "Chez les conifères, la germination des graines nécessite :",
+    "choices": "un milieu sec.@-@une température inférieure à 0C.@-@un milieu anaérobie.@-@une bonne aération. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "L’endosperme :",
+    "choices": "contient le gamète mâle.@-@est formé de cellules diploïdes.@-@est formé de cellules haploïdes. Answer@-@contient le noyau végétatif.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "La mitose d’une cellule haploïde :",
+    "choices": "donne deux cellules haploïdes. Answer@-@donne deux cellules diploïdes.@-@donne quatre cellules haploïdes.@-@donne quatre cellules diploïdes.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "La méiose d’une cellule diploïde :",
+    "choices": "donne deux cellules haploïdes.@-@donne deux cellules diploïdes.@-@donne quatre cellules haploïdes. Answer@-@donne quatre cellules diploïdes.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "Le cône mâle est comparable à une fleur bisexuée.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le cône mâle est comparable à une fleur mono-sexuée mâle.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "L’endosperme est haploïde.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "La graine est constituée essentiellement par un embryon et des réserves nutritives.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "Les gymnospermes se caractérisent par la double fécondation.",
+    "choices": "Vrai.@-@Faux. Answer@-@Chez les gymnospermes, la fécondation est simple.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "La fécondation est la fusion entre deux gamètes mâles.",
+    "choices": "Vrai.@-@Faux. Answer@-@La fécondation est la fusion entre deux gamètes : un mâle et l’autre femelle.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "Les sacs aérifères facilitent la pollinisation par les abeilles.",
+    "choices": "Vrai.@-@Faux. Answer@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "La radicule est le premier constituant de l’embryon qui sort de la graine.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "Chez les conifères, durant la germination du grain de pollen, le noyau végétatif se situe à l’extrémité du tube pollinique.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "La germination du grain de pollen, chez le pin, s’arrête la première année et continue le printemps de la deuxième année.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit2/chapter2/",
+    "question": "La mitose est l’ensemble de deux divisions : réductionnelle et équationnelle.",
+    "choices": "Vrai.@-@Faux. Answer@-@La méiose est l’ensemble de deux divisions : réductionnelle et équationnelle.@-@",
+    "type": "tof"
+  }
+]

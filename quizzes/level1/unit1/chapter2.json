@@ -1,0 +1,188 @@
+[
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Le sol est un mélange de grains de @blank@ différentes, @blank@ permet de déterminer la distribution en poids des particules suivant leurs @blank@.",
+    "choices": "tailles Answer@-@l’analyse granulométrique Answer@-@dimensions Answer@-@points de fletrissement@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "@blank@ est le mode d’assemblage des constituants du sol, la forme des éléments structuraux du sol permet le classement des types de structure du sol en @blank@ : La structure particulaire, @blank@ et la structure glomérulaire.",
+    "choices": "la structure du sol Answer@-@trois groupes Answer@-@la structure compacte Answer@-@la structure de la cellule@-@cinq groupes@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Les particules argileuses et @blank@ sont chargés négativement, donc ces particules restent dispersées dans l’eau, dans ce cas on parle de @blank@. La présence @blank@ (Ca++, Na+…) neutralisent les charges négatives, et l’ensemble va former des amas (agrégats), c’est la @blank@.",
+    "choices": "les particules d’hums Answer@-@colloïdes dispersées Answer@-@des cations Answer@-@floculation Answer@-@les particules de sables@-@les anions@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "L’acidité du sol est exprimé par @blank@, qui reflète la concentration en @blank@ dans le sol. Cette caractéristique est liée à la nature de @blank@, généralement : les sols calcaires sont @blank@, tandis que les sols siliceux sont @blank@.",
+    "choices": "le pH Answer@-@ions H+ Answer@-@la roche mère Answer@-@basiques Answer@-@acides Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "L’effet mécanique des plantes sur le sol se manifeste par la @blank@ importante de leurs racines qui @blank@ dans les horizons du sol et les fissures de la roche mère qui se dégrade progressivement, ce qui contribue à la @blank@ du sol et à la @blank@ de l’eau. Par leur déplacement et le creusement de tunnels dans le sol, @blank@ contribuent à aérer le sol, à y enfouir la litière, à @blank@ les horizons du sol.",
+    "choices": "croissance Answer@-@pénètrent Answer@-@stabilisation Answer@-@filtration Answer@-@les animaux Answer@-@mélanger et homogénéiser Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Le sol qui a la plus grande capacité de rétention d’eau est :",
+    "choices": "Le sol sableux.@-@Le sol limono-sableux.@-@Le sol limoneux.@-@Le sol argileux. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Les grains les plus petits sont :",
+    "choices": "Les grains de sable.@-@Les grains de limon.@-@Les grains d’argile. Answer@-@Les grains de gravier.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Les vers de terre :",
+    "choices": "Sont des organismes nuisibles pour le sol.@-@Ils contribuent dans l’aération du sol. Answer@-@Sont des organismes bénéfiques pour le sol. Answer@-@Ils provoquent le lessivage du sol.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Le sol calcaire :",
+    "choices": "est généralement basique. Answer@-@est généralement acide.@-@Contient le CaCO₃ . Answer@-@Émet une effervescence en présence du vinaigre blanc. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Le sol :",
+    "choices": "ne contient pas d’êtres vivants.@-@contient une flore seulement.@-@contient une faune seulement.@-@contient une flore et une faune. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "La structure compacte :",
+    "choices": "est caractéristique des sols riches en sable.@-@est caractéristique des sols riches en humus.@-@est caractéristique des sols riches en argile. Answer@-@est la structure plus favorable pour les végétaux.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Le sol le plus favorable pour les végétaux est :",
+    "choices": "le sol lessivé.@-@le sol qui a une structure particulaire.@-@le sol riche en humus. Answer@-@le sol qui a une structure compacte.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "L’eau utilisable par la plante :",
+    "choices": "est l’eau qui reste dans le sol après que le point de flétrissement est atteint.@-@est la capacité de rétention d’eau.@-@est la capacité de rétention d’eau + le point de flétrissement.@-@est la capacité de rétention d’eau – le point de flétrissement. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Les plantes calcicoles sont des plantes :",
+    "choices": "qui tolèrent le calcaire dans le sol. Answer@-@qui ne tolèrent pas le calcaire dans le sol.@-@qui poussent dans des sols acides.@-@qui poussent dans des sols alcalins. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Un engrais NPK contient :",
+    "choices": "l’azote. Answer@-@le phosphore. Answer@-@le potassium. Answer@-@le magnésium.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Classer les éléments suivants de plus grand au plus petit :",
+    "choices": "Cailloux.@-@Graviers.@-@Sables.@-@Limons.@-@Argiles@-@",
+    "type": "ord"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Classer les sols suivants du sol qui a la plus grande capacité de rétentions d’eau à celui qui a la plus petite capacité.",
+    "choices": "Argile.@-@Limon argileux.@-@Limon.@-@Limon sableux.@-@Sable.@-@",
+    "type": "ord"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Classer les structures du sol suivantes : de celle qui a le plus grand volume de vide interstitiel à celle qui a le plus petit volume.",
+    "choices": "Structure particulaire.@-@Structure glomérulaire.@-@Structure compacte.@-@",
+    "type": "ord"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Pour extraire la microfaune du sol on utilise l’appareil de Berlèse. Cela se fait selon les étapes suivantes. Classer ces étapes dans l’ordre chronologique.",
+    "choices": "Mettre le sol dans le tamis de l’entonnoir de l’appareil de Berlèse.@-@Allumer la lampe de l’appareil.@-@La faune vont fuir l’éclairement et la chaleur de la lampe, et tombe dans le flacon contenant l’alcool.@-@Observation de la microfaune à l’aide de la loupe.@-@",
+    "type": "ord"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Classer les étapes de formation du sol dans l’ordre chronologique :",
+    "choices": "Fragmentation de la roche mère (formation des cailloux, sable…).@-@Altération chimique de la roche mère (formation des éléments fin : argile, sels minéraux…).@-@Altération biologique par la flore et la faune du sol.@-@Enrichissent du sol par de la matière organique (végétaux et animaux).@-@Evolution du sol et formation des différents horizons.@-@",
+    "type": "ord"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Classer les étapes de l’analyse granulométrique du sol dans l’ordre chronologique :",
+    "choices": "Élimination de la matière organique et du calcaire du sol, par l’ajout de H2O2 et Hcl.@-@lavage puis séchage du sol.@-@Tamisage de l’échantillon, pour séparer les différents grains suivant leurs dimensions.@-@Détermination de la quantité et du pourcentage de chaque catégorie de grains du sol.@-@",
+    "type": "ord"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Dans la nature la roche mère subit une dégradation chimique seulement.",
+    "choices": "Vrai. @-@Faux. Answer@-@Dans la nature la roche mère subit la dégradation chimique, physique et biologique.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "La litière est transformée en humus par les êtres vivant du sol.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "La source naturelle des sels minéraux dans le sol est la décomposition de la matière organique par les êtres vivant du sol.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "L’appareil de Berlèse est utilisé pour la mise en évidence de la microflore du sol.",
+    "choices": "Vrai.@-@Faux. Answer@-@L’appareil de Berlèse est utilisé pour la mise en évidence de la microfaune du sol.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "On peut limiter l’avancé du désert par le surpâturage.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le surpâturage accentue la dégradation du sol et accélère l’avancé du désert.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Un sol siliceux est un sol riche en calcium.",
+    "choices": "Vrai.@-@Faux. Answer@-@Un sol calcaire est un sol riche en calcium.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Le drainage est l’écoulement de l’excès d’eau sous l’effet de la gravité.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Le sol argileux est plus perméable que le sol sableux.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le sol argileux est moins perméable que le sol sableux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "L’horizon B est appelé horizon humique.",
+    "choices": "Vrai.@-@Faux. Answer@-@L’horizon B est l’horizon d’accumulation (horizon minéral).@-@",
+    "type": "tof"
+  },
+  {
+    "level": "level1/unit1/chapter2/",
+    "question": "Les anions contribuent dans la formation du complexe argilo-humique.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les cations contribuent dans la formation du complexe argilo-humique@-@",
+    "type": "tof"
+  }
+]

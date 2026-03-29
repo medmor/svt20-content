@@ -20,6 +20,8 @@ node_modules/
 
 # Quizzes data
 quizzes/quizzes.json
+!**/quizzes/*.json
+!**/quizzes/**/*.json
 
 # Exam metadata (per-exam index files)
 !**/exams/index.json
