@@ -1,0 +1,142 @@
+[
+  {
+    "level": "level1",
+    "unit": "unit1",
+    "chapter": "chapter1",
+    "path": "level1/unit1/chapter1",
+    "count": 31
+  },
+  {
+    "level": "level1",
+    "unit": "unit1",
+    "chapter": "chapter2",
+    "path": "level1/unit1/chapter2",
+    "count": 31
+  },
+  {
+    "level": "level1",
+    "unit": "unit1",
+    "chapter": "chapter3",
+    "path": "level1/unit1/chapter3",
+    "count": 21
+  },
+  {
+    "level": "level1",
+    "unit": "unit1",
+    "chapter": "chapter4",
+    "path": "level1/unit1/chapter4",
+    "count": 25
+  },
+  {
+    "level": "level1",
+    "unit": "unit2",
+    "chapter": "chapter1",
+    "path": "level1/unit2/chapter1",
+    "count": 33
+  },
+  {
+    "level": "level1",
+    "unit": "unit2",
+    "chapter": "chapter2",
+    "path": "level1/unit2/chapter2",
+    "count": 25
+  },
+  {
+    "level": "level1",
+    "unit": "unit2",
+    "chapter": "chapter3",
+    "path": "level1/unit2/chapter3",
+    "count": 32
+  },
+  {
+    "level": "level1",
+    "unit": "unit2",
+    "chapter": "chapter4",
+    "path": "level1/unit2/chapter4",
+    "count": 25
+  },
+  {
+    "level": "level2",
+    "unit": "unit1",
+    "chapter": "chapter1",
+    "path": "level2/unit1/chapter1",
+    "count": 28
+  },
+  {
+    "level": "level2",
+    "unit": "unit1",
+    "chapter": "chapter2",
+    "path": "level2/unit1/chapter2",
+    "count": 27
+  },
+  {
+    "level": "level2",
+    "unit": "unit2",
+    "chapter": "chapter1",
+    "path": "level2/unit2/chapter1",
+    "count": 30
+  },
+  {
+    "level": "level2",
+    "unit": "unit2",
+    "chapter": "chapter2",
+    "path": "level2/unit2/chapter2",
+    "count": 30
+  },
+  {
+    "level": "level2",
+    "unit": "unit2",
+    "chapter": "chapter3",
+    "path": "level2/unit2/chapter3",
+    "count": 38
+  },
+  {
+    "level": "level3",
+    "unit": "unit1",
+    "chapter": null,
+    "path": "level3/unit1",
+    "count": 60
+  },
+  {
+    "level": "level3",
+    "unit": "unit2",
+    "chapter": null,
+    "path": "level3/unit2",
+    "count": 45
+  },
+  {
+    "level": "level3",
+    "unit": "unit3",
+    "chapter": null,
+    "path": "level3/unit3",
+    "count": 37
+  },
+  {
+    "level": "level3",
+    "unit": "unit3sp",
+    "chapter": null,
+    "path": "level3/unit3sp",
+    "count": 41
+  },
+  {
+    "level": "level3",
+    "unit": "unit4",
+    "chapter": null,
+    "path": "level3/unit4",
+    "count": 11
+  },
+  {
+    "level": "level3",
+    "unit": "unit5",
+    "chapter": null,
+    "path": "level3/unit5",
+    "count": 48
+  },
+  {
+    "level": "level3",
+    "unit": "unit6",
+    "chapter": null,
+    "path": "level3/unit6",
+    "count": 47
+  }
+]
