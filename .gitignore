@@ -18,6 +18,9 @@ node_modules/
 # Figures data (per-chapter figures lists)
 !**/figures.json
 
+# Quizzes data
+quizzes/quizzes.json
+
 # Exam metadata (per-exam index files)
 !**/exams/index.json
 !**/exams/**/index.json
