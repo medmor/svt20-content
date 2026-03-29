@@ -93,50 +93,50 @@
   {
     "level": "2bac",
     "unit": "unit1",
-    "chapter": "unit1-chapter",
-    "path": "2bac/unit1/unit1-chapter",
+    "chapter": "unit1",
+    "path": "2bac/unit1/unit1",
     "count": 60
   },
   {
     "level": "2bac",
     "unit": "unit2",
-    "chapter": "unit2-chapter",
-    "path": "2bac/unit2/unit2-chapter",
+    "chapter": "unit2",
+    "path": "2bac/unit2/unit2",
     "count": 45
   },
   {
     "level": "2bac",
     "unit": "unit3",
-    "chapter": "unit3-chapter",
-    "path": "2bac/unit3/unit3-chapter",
+    "chapter": "unit3",
+    "path": "2bac/unit3/unit3",
     "count": 37
   },
   {
     "level": "2bac",
     "unit": "unit3sp",
-    "chapter": "unit3sp-chapter",
-    "path": "2bac/unit3sp/unit3sp-chapter",
+    "chapter": "unit3sp",
+    "path": "2bac/unit3sp/unit3sp",
     "count": 41
   },
   {
     "level": "2bac",
     "unit": "unit4",
-    "chapter": "unit4-chapter",
-    "path": "2bac/unit4/unit4-chapter",
+    "chapter": "unit4",
+    "path": "2bac/unit4/unit4",
     "count": 11
   },
   {
     "level": "2bac",
     "unit": "unit5",
-    "chapter": "unit5-chapter",
-    "path": "2bac/unit5/unit5-chapter",
+    "chapter": "unit5",
+    "path": "2bac/unit5/unit5",
     "count": 48
   },
   {
     "level": "2bac",
     "unit": "unit6",
-    "chapter": "unit6-chapter",
-    "path": "2bac/unit6/unit6-chapter",
+    "chapter": "unit6",
+    "path": "2bac/unit6/unit6",
     "count": 47
   }
 ]
