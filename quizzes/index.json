@@ -70,6 +70,13 @@
     "count": 30
   },
   {
+    "level": "tc",
+    "unit": "unit-1-lettres",
+    "chapter": "chapter3",
+    "path": "tc/unit-1-lettres/chapter3",
+    "count": 50
+  },
+  {
     "level": "1bac",
     "unit": "unit1",
     "chapter": "chapter1",

@@ -1,0 +1,290 @@
+[
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le tamisage est une technique de :",
+    "choices": "Traitement chimique.@-@Traitement physique. Answer@-@Traitement biologique.@-@Désinfection.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "La chaux est utilisée pour :",
+    "choices": "Éliminer les micro-organismes.@-@Rendre le pH de l'eau neutre. Answer@-@Filtrer les solides fins.@-@Éliminer le goût de l'eau.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le charbon actif sert à :",
+    "choices": "Neutraliser le pH.@-@Désinfecter l'eau.@-@Traiter le goût anormal de l'eau. Answer@-@Éliminer les solides en suspension.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "L'ozone et le chlore sont utilisés pour :",
+    "choices": "La filtration.@-@La décantation.@-@La désinfection de l'eau. Answer@-@Le tamisage.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Les deux étapes essentielles du traitement de l'eau potable sont :",
+    "choices": "Tamisage et filtration.@-@Traitement physique et traitement chimique. Answer@-@Décantation et chloration.@-@Stockage et distribution.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "L'osmose inverse est utilisée pour :",
+    "choices": "Le traitement des eaux usées.@-@Le dessalement des eaux saumâtres. Answer@-@La filtration de l'eau potable.@-@La décantation.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le dessalement au Maroc est utilisé dans les régions de :",
+    "choices": "Casablanca et Rabat.@-@Tarfaya, Boujdour et Smara. Answer@-@Marrakech et Agadir.@-@Fès et Meknès.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le traitement biologique des eaux usées utilise :",
+    "choices": "Des produits chimiques.@-@Des bactéries. Answer@-@Des filtres à sable.@-@De l'ozone.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "L'office responsable de la distribution de l'eau au Maroc est :",
+    "choices": "L'ONEP.@-@L'ONEE. Answer@-@L'ORMVA.@-@Le ministère de l'eau.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le moteur du cycle de l'eau est :",
+    "choices": "Le vent.@-@L'énergie solaire. Answer@-@La gravité.@-@La pression atmosphérique.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le passage de l'état solide à l'état liquide est appelé :",
+    "choices": "L'évaporation.@-@La condensation.@-@La fusion. Answer@-@La solidification.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le passage de l'état gazeux à l'état liquide est appelé :",
+    "choices": "La fusion.@-@L'évaporation.@-@La condensation. Answer@-@La solidification.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le passage de l'état liquide à l'état gazeux est appelé :",
+    "choices": "La fusion.@-@L'évaporation. Answer@-@La condensation.@-@La solidification.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Les étapes d'approvisionnement en eau dans le milieu urbain sont :",
+    "choices": "Pompage, stockage, distribution.@-@Pompage, traitement, stockage, distribution. Answer@-@Traitement, stockage, pompage.@-@Stockage, traitement, distribution.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Pour désinfecter 10L d'eau avec de l'eau de javel (12°), il faut ajouter :",
+    "choices": "1 goutte.@-@5 gouttes.@-@10 gouttes. Answer@-@2 ml.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le tamisage élimine les polluants solides gros.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "La filtration élimine les polluants solides fins.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "La décantation élimine les polluants en suspension par sédimentation.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "L'ozone est utilisé pour neutraliser le pH de l'eau.",
+    "choices": "Vrai.@-@Faux. Answer@-@L'ozone est utilisé pour la désinfection, c'est la chaux qui neutralise le pH.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le traitement de l'eau potable comprend uniquement des techniques physiques.",
+    "choices": "Vrai.@-@Faux. Answer@-@Il comprend un traitement physique ET chimique.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "L'osmose inverse permet de dessaler l'eau de mer.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Dans l'osmose inverse, l'eau traverse la membrane de la solution concentrée vers l'eau potable.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le traitement biologique des eaux usées élimine les solides en suspension.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le traitement biologique élimine la matière organique, le prétraitement élimine les solides.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Les eaux usées traitées peuvent être réutilisées dans l'agriculture.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Les boues issues du traitement des eaux usées peuvent être utilisées en agriculture.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le réseau de distribution individuel fournit de l'eau à chaque maison.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le réseau de distribution collectif est utilisé dans les bidonvilles.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "En milieu rural, l'approvisionnement en eau est facile à généraliser.",
+    "choices": "Vrai.@-@Faux. Answer@-@L'espacement des habitats et le petit nombre d'habitants le rendent difficile.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Les sources d'eau en milieu rural incluent les puits et la collecte d'eau de pluie.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "L'eau existe dans la nature sous trois états : solide, liquide et gazeux.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "La solidification est le passage de l'état solide à l'état liquide.",
+    "choices": "Vrai.@-@Faux. Answer@-@C'est le passage de l'état liquide à l'état solide.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le cycle de l'eau est divisé en étape atmosphérique et étape terrestre.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "L'évaporation et la transpiration contribuent à accumuler l'eau dans l'atmosphère.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le traitement de l'eau potable comprend deux étapes : le traitement @blank@ et le traitement @blank@.",
+    "choices": "physique Answer@-@chimique Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le @blank@ est utilisé pour rendre le pH de l'eau neutre.",
+    "choices": "chaux Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le @blank@ est utilisé pour traiter le goût anormal de l'eau.",
+    "choices": "charbon actif Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "L'@blank@ et le @blank@ sont utilisés pour désinfecter l'eau.",
+    "choices": "ozone Answer@-@chlore Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le dessalement des eaux saumâtres utilise la technique de l'@blank@.",
+    "choices": "osmose inverse Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le traitement @blank@ des eaux usées utilise des bactéries pour éliminer la matière organique.",
+    "choices": "biologique Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "L'office responsable de l'eau au Maroc est l'@blank@.",
+    "choices": "ONEE Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "La @blank@ est le passage de l'état solide à l'état liquide.",
+    "choices": "fusion Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "La @blank@ est le passage de l'état liquide à l'état gazeux.",
+    "choices": "évaporation Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "La @blank@ est le passage de l'état gazeux à l'état liquide.",
+    "choices": "condensation Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "La @blank@ est le passage de l'état liquide à l'état solide.",
+    "choices": "solidification Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Le moteur du cycle de l'eau est l'@blank@.",
+    "choices": "énergie solaire Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Les trois états de l'eau dans la nature sont : @blank@, @blank@ et @blank@.",
+    "choices": "solide Answer@-@liquide Answer@-@gazeux Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Dans l'étape @blank@ du cycle de l'eau, l'eau s'accumule dans l'atmosphère par évaporation et transpiration.",
+    "choices": "atmosphérique Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter3/",
+    "question": "Après les précipitations, l'eau peut @blank@, s'@blank@ ou être utilisée par les êtres vivants.",
+    "choices": "ruisseler Answer@-@infiltrer Answer@-@",
+    "type": "ftb"
+  }
+]
