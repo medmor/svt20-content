@@ -1,0 +1,182 @@
+[
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Les eaux superficielles désignent :",
+    "choices": "Les eaux souterraines uniquement.@-@L'eau accumulée à la surface (rivières, lacs, barrages). Answer@-@L'eau atmosphérique.@-@L'eau potable.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "La principale source d'eau douce superficielle est :",
+    "choices": "Les nappes phréatiques.@-@Les précipitations. Answer@-@La fonte des glaces.@-@L'eau souterraine.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "La moyenne annuelle des précipitations au Maroc est environ :",
+    "choices": "250 mm.@-@350 mm. Answer@-@500 mm.@-@700 mm.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Pour que le Maroc ne connaisse pas de pénurie, les précipitations doivent dépasser :",
+    "choices": "350 mm.@-@400 mm.@-@500 mm. Answer@-@600 mm.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Le volume des précipitations qui tombe au Maroc est estimé à :",
+    "choices": "50 milliards de m³.@-@100 milliards de m³.@-@150 milliards de m³. Answer@-@200 milliards de m³.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Le Maroc profite seulement de ce volume de précipitations :",
+    "choices": "10 milliards de m³.@-@23,5 milliards de m³. Answer@-@50 milliards de m³.@-@100 milliards de m³.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Le nombre de barrages au Maroc est environ :",
+    "choices": "50.@-@75.@-@112. Answer@-@150.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Le volume d'eau stocké par les barrages au Maroc est environ :",
+    "choices": "5 milliards de m³.@-@10 milliards de m³.@-@16,5 milliards de m³. Answer@-@25 milliards de m³.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "La précipitation efficace est :",
+    "choices": "Toute l'eau qui tombe.@-@Les précipitations moins l'eau évaporée et celle qui atteint les océans. Answer@-@L'eau des nappes.@-@L'eau potable.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Les eaux des barrages sont utilisées pour :",
+    "choices": "Uniquement l'eau potable.@-@L'eau potable, l'irrigation et la production d'électricité. Answer@-@Uniquement l'irrigation.@-@Uniquement l'électricité.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Les précipitations constituent la plus importante source d'eau douce superficielle.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Les différentes formes de précipitations sont : pluie, rosée, neige, grêle.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Le Maroc profite de 50% des précipitations qui tombent.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le Maroc profite d'environ 15,6% des précipitations qui tombent.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "La moyenne des précipitations au Maroc (350 mm) est suffisante pour éviter la pénurie.",
+    "choices": "Vrai.@-@Faux. Answer@-@Il faut plus de 500 mm de précipitations pour éviter la pénurie.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Les barrages au Maroc stockent environ 16,5 milliards de m³ d'eau.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Les eaux des barrages servent uniquement à l'eau potable.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les eaux des barrages servent à l'eau potable, l'irrigation et la production d'électricité.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Le pourcentage d'eaux superficielles perdues au Maroc est d'environ 83%.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "La pluie, la rosée et la neige sont des formes de précipitations.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "La précipitation efficace est égale aux précipitations totales moins l'évaporation.",
+    "choices": "Vrai.@-@Faux. Answer@-@La précipitation efficace est égale aux précipitations moins l'évaporation, la transpiration et l'eau qui atteint les océans.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Les eaux superficielles peuvent provenir de la fonte des neiges.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "L'eau des précipitations peut ruisseler, s'infiltrer ou s'évaporer.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Le Maroc compte environ 112 barrages.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "L'eau qui atteint les océans fait partie de la précipitation efficace.",
+    "choices": "Vrai.@-@Faux. Answer@-@L'eau qui atteint les océans est perdue et ne fait pas partie de la précipitation efficace.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Les eaux @blank@ désignent l'eau accumulée à la surface sous forme de rivières, lacs, barrages.",
+    "choices": "superficielles Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Les différentes formes de précipitations sont : la @blank@, la @blank@, la @blank@, les grêles.",
+    "choices": "pluie Answer@-@rosée Answer@-@neige Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "La moyenne annuelle des précipitations au Maroc est de @blank@ mm.",
+    "choices": "350 Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Le volume des précipitations au Maroc est de @blank@ milliards de m³, dont seulement @blank@ milliards de m³ sont utilisés.",
+    "choices": "150 Answer@-@23,5 Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "La précipitation efficace = Somme des précipitations – (Eau @blank@ + Eau @blank@ + Eau qui atteint les océans).",
+    "choices": "évaporée Answer@-@transpirée Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Le nombre de barrages au Maroc est @blank@, stockant @blank@ milliards de m³ d'eau.",
+    "choices": "112 Answer@-@16,5 Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter2/",
+    "question": "Pour éviter la pénurie au Maroc, les précipitations doivent dépasser @blank@ mm.",
+    "choices": "500 Answer@-@",
+    "type": "ftb"
+  }
+]

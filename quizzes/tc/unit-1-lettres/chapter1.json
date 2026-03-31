@@ -1,0 +1,296 @@
+[
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "La DBO₅ mesure :",
+    "choices": "La quantité d'oxygène dans l'eau.@-@La demande biologique en oxygène pendant 5 jours. Answer@-@La demande chimique en oxygène.@-@Le degré de pollution thermique.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Une DBO₅ supérieure à 25 indique une eau :",
+    "choices": "De très bonne qualité.@-@De bonne qualité.@-@De qualité moyenne.@-@De mauvaise qualité. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Une DBO₅ inférieure à 3 indique une eau :",
+    "choices": "De très bonne qualité. Answer@-@De bonne qualité.@-@De qualité moyenne.@-@De mauvaise qualité.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "L'auto-épuration est :",
+    "choices": "Un traitement chimique de l'eau.@-@La dégradation naturelle des matières organiques par les micro-organismes. Answer@-@Une technique de filtration.@-@Un procédé industriel.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les matières organiques polluantes proviennent de :",
+    "choices": "Uniquement les déchets domestiques.@-@Les déchets domestiques, agricoles et industriels. Answer@-@Uniquement les déchets agricoles.@-@Uniquement les déchets industriels.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "L'eutrophisation est causée principalement par :",
+    "choices": "Les pesticides.@-@Les engrais azotés et phosphatés. Answer@-@Les métaux lourds.@-@Les déchets plastiques.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Le seuil de nitrates dans l'eau potable selon l'OMS est :",
+    "choices": "25 mg/L.@-@50 mg/L. Answer@-@100 mg/L.@-@150 mg/L.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les nitrates sont :",
+    "choices": "Peu solubles dans l'eau.@-@Très solubles dans l'eau. Answer@-@Insolubles dans l'eau.@-@Partiellement solubles.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les pesticides peuvent contaminer :",
+    "choices": "Uniquement les eaux de surface.@-@Uniquement les eaux souterraines.@-@Les eaux superficielles et souterraines. Answer@-@Aucune eau.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Une ville de 100 000 habitants déverse environ par jour dans ses égouts :",
+    "choices": "5 tonnes de matière organique.@-@10 tonnes de matière organique.@-@18 tonnes de matière organique. Answer@-@25 tonnes de matière organique.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Une DBO₅ entre 10 et 25 indique une eau :",
+    "choices": "De très bonne qualité.@-@De bonne qualité.@-@De qualité moyenne.@-@De qualité médiocre. Answer@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "La DCO (Demande Chimique en Oxygène) par rapport à la DBO₅ est :",
+    "choices": "Plus lente.@-@Plus rapide. Answer@-@Identique.@-@Moins précise.@-@",
+    "type": "mcq"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "La DBO₅ mesure la quantité de dioxygène consommée par les bactéries pour dégrader les matières organiques.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "L'auto-épuration est la dégradation des matières organiques par des micro-organismes naturels.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "L'auto-épuration fonctionne même en cas d'excès de matière organique.",
+    "choices": "Vrai.@-@Faux. Answer@-@L'auto-épuration fonctionne uniquement si les matières organiques ne sont pas en excès.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les nitrates sont peu solubles dans l'eau.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les nitrates sont très solubles dans l'eau.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "L'eutrophisation provoque une chute de la quantité d'oxygène dans l'eau.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les pesticides sont potentiellement toxiques pour l'Homme.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Le seuil de nitrates selon l'OMS est de 100 mg/L.",
+    "choices": "Vrai.@-@Faux. Answer@-@Le seuil de nitrates selon l'OMS est de 50 mg/L.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les engrais azotés et phosphatés favorisent l'eutrophisation.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Une ville de 100 000 habitants déverse environ 18 tonnes de matière organique par jour.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "La DCO est une méthode plus lente que la DBO₅.",
+    "choices": "Vrai.@-@Faux. Answer@-@La DCO est une méthode plus rapide que la DBO₅.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les nitrates constituent la cause principale de pollution des nappes souterraines.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Une DBO₅ inférieure à 3 indique une eau très polluée.",
+    "choices": "Vrai.@-@Faux. Answer@-@Une DBO₅ inférieure à 3 indique une eau de très bonne qualité.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les déchets domestiques, agricoles et industriels peuvent polluer l'eau.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les nitrates sont toxiques pour la santé même à faible dose.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les nitrates sont toxiques pour la santé en fortes quantités.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les pesticides peuvent contaminer les eaux souterraines et superficielles.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "L'eutrophisation enrichit les milieux aquatiques en sels nutritifs.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Une DBO₅ de 15 correspond à une eau de bonne qualité.",
+    "choices": "Vrai.@-@Faux. Answer@-@Une DBO₅ de 15 correspond à une eau de qualité médiocre (entre 10-25).@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les bactéries sont les micro-organismes responsables de l'auto-épuration.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "L'eutrophisation augmente la quantité d'oxygène dans l'eau.",
+    "choices": "Vrai.@-@Faux. Answer@-@L'eutrophisation provoque une chute de la quantité d'oxygène dans l'eau.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les pesticides sont utilisés uniquement contre les insectes.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les pesticides sont utilisés contre les insectes, les mauvaises herbes, les champignons et autres ravageurs.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "L'eutrophisation réduit le nombre d'espèces animales et végétales aquatiques.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les algues se développent excessivement lors de l'eutrophisation.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "L'eau d'irrigation excessive peut transporter les pesticides vers les nappes souterraines.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les pesticides n'ont que des effets aigus sur la santé.",
+    "choices": "Vrai.@-@Faux. Answer@-@Les pesticides peuvent avoir des effets aigus et chroniques sur la santé.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "La décomposition des algues provoque une chute d'oxygène dans l'eau.",
+    "choices": "Vrai. Answer@-@Faux.@-@",
+    "type": "tof"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "La DBO₅ est la demande @blank@ en @blank@ pendant @blank@ jours à 20°C.",
+    "choices": "biologique Answer@-@oxygène Answer@-@5 Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Une DBO₅ inférieure à 3 indique une eau de @blank@ qualité, supérieure à 25 indique une eau de @blank@ qualité.",
+    "choices": "très bonne Answer@-@mauvaise Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "L'@blank@ est la dégradation naturelle des matières organiques par les micro-organismes présents dans le milieu.",
+    "choices": "auto-épuration Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "L'eutrophisation est un enrichissement excessif des milieux aquatiques en @blank@ et @blank@.",
+    "choices": "sels nutritifs Answer@-@azote/phosphore Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Le seuil de nitrates dans l'eau potable selon l'OMS est @blank@ mg/L.",
+    "choices": "50 Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les pesticides peuvent être transportés par l'eau de pluie pour contaminer les eaux @blank@ et @blank@.",
+    "choices": "superficielles Answer@-@souterraines Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les nitrates sont très @blank@ dans l'eau et constituent la cause principale de pollution des @blank@ souterraines.",
+    "choices": "solubles Answer@-@nappes Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les nitrates sont entraînés par @blank@ ou par @blank@ vers les eaux superficielles ou les nappes phréatiques.",
+    "choices": "ruissellement Answer@-@infiltration Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les pesticides sont utilisés pour protéger les cultures contre les @blank@, les @blank@ et les champignons.",
+    "choices": "insectes Answer@-@mauvaises herbes Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "Les pesticides sont potentiellement @blank@ pour l'Homme et peuvent avoir des effets @blank@ et chroniques.",
+    "choices": "toxiques Answer@-@aigus Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "L'auto-épuration est la dégradation naturelle des matières organiques grâce à l'action de @blank@ présents naturellement dans le milieu.",
+    "choices": "micro-organismes Answer@-@",
+    "type": "ftb"
+  },
+  {
+    "level": "tc/unit-1-lettres/chapter1/",
+    "question": "L'auto-épuration fonctionne uniquement si les matières organiques ne sont pas en @blank@.",
+    "choices": "excès Answer@-@",
+    "type": "ftb"
+  }
+]

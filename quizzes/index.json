@@ -56,6 +56,20 @@
     "count": 25
   },
   {
+    "level": "tc",
+    "unit": "unit-1-lettres",
+    "chapter": "chapter1",
+    "path": "tc/unit-1-lettres/chapter1",
+    "count": 49
+  },
+  {
+    "level": "tc",
+    "unit": "unit-1-lettres",
+    "chapter": "chapter2",
+    "path": "tc/unit-1-lettres/chapter2",
+    "count": 30
+  },
+  {
     "level": "1bac",
     "unit": "unit1",
     "chapter": "chapter1",
