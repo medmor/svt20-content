@@ -15,6 +15,9 @@ node_modules/
 # Content index (committed to git)
 !index.json
 
+# Daily content
+!daily-content.json
+
 # Figures data (per-chapter figures lists)
 !**/figures.json
 
