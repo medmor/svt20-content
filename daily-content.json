@@ -1,15 +1,15 @@
 {
-  "date": "2026-04-07",
+  "date": "2026-04-08",
   "quiz_level": "2BAC",
-  "quiz_unit": "Unité 3 - Génétique des populations",
-  "quiz_question": "La méiose est constituée d'une :",
-  "quiz_option_a": "succession de deux mitoses",
-  "quiz_option_b": "division réductionnelle précédée d'une division équationnelle",
-  "quiz_option_c": "division réductionnelle suivie d'une division équationnelle",
-  "quiz_option_d": "succession de deux divisions précédées chacune d'une interphase",
+  "quiz_unit": "Unité 3 - Génétique",
+  "quiz_question": "La méiose donne :",
+  "quiz_option_a": "quatre cellules diploïdes à partir d'une cellule mère diploïde.",
+  "quiz_option_b": "deux cellules diploïdes à partir d'une cellule mère diploïde.",
+  "quiz_option_c": "quatre cellules haploïdes à partir d'une cellule mère diploïde.",
+  "quiz_option_d": "deux cellules haploïdes à partir d'une cellule mère diploïde.",
   "quiz_answer": "C",
-  "def_term": "Méiose",
-  "def_text": "Division cellulaire réductrice qui permet de passer d'une cellule diploïde (2n) à quatre cellules haploïdes (n). Elle comprend deux divisions successives : la division réductionnelle (séparation des chromosomes homologues) suivie de la division équationnelle (séparation des chromatides). La méiose assure le brassage génétique et la production des gamètes.",
-  "flash_front": "Quel est le résultat de la méiose en termes de cellules ?",
-  "flash_back": "La méiose produit 4 cellules haploïdes (n chromosomes) à partir d'une cellule mère diploïde (2n chromosomes). Chaque cellule fille possède la moitié du matériel génétique de la cellule mère."
+  "def_term": "Caryotype",
+  "def_text": "Représentation schématique ordonnée des chromosomes d'une cellule, classés par paires selon leur taille et leur forme. Il permet d'identifier les anomalies chromosomiques (trisomies, délétions, translocations) et de déterminer le sexe génétique d'un individu.",
+  "flash_front": "Qu'est-ce que le crossing-over ?",
+  "flash_back": "Le crossing-over est un échange de fragments de chromatides entre chromosomes homologues lors de la prophase I de la méiose. Ce phénomène permet le brassage intrachromosomique et augmente la diversité génétique des gamètes produits."
 }
