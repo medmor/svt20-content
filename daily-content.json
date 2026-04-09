@@ -1,15 +1,15 @@
 {
-  "date": "2026-04-08",
+  "date": "2026-04-09",
   "quiz_level": "2BAC",
-  "quiz_unit": "Unité 3 - Génétique",
-  "quiz_question": "La méiose donne :",
-  "quiz_option_a": "quatre cellules diploïdes à partir d'une cellule mère diploïde.",
-  "quiz_option_b": "deux cellules diploïdes à partir d'une cellule mère diploïde.",
-  "quiz_option_c": "quatre cellules haploïdes à partir d'une cellule mère diploïde.",
-  "quiz_option_d": "deux cellules haploïdes à partir d'une cellule mère diploïde.",
+  "quiz_unit": "Unité 5 - Immunologie",
+  "quiz_question": "Les anticorps sont produits par :",
+  "quiz_option_a": "Les lymphocytes T",
+  "quiz_option_b": "Les lymphocytes B",
+  "quiz_option_c": "Les plasmocytes",
+  "quiz_option_d": "Les macrophages",
   "quiz_answer": "C",
-  "def_term": "Caryotype",
-  "def_text": "Représentation schématique ordonnée des chromosomes d'une cellule, classés par paires selon leur taille et leur forme. Il permet d'identifier les anomalies chromosomiques (trisomies, délétions, translocations) et de déterminer le sexe génétique d'un individu.",
-  "flash_front": "Qu'est-ce que le crossing-over ?",
-  "flash_back": "Le crossing-over est un échange de fragments de chromatides entre chromosomes homologues lors de la prophase I de la méiose. Ce phénomène permet le brassage intrachromosomique et augmente la diversité génétique des gamètes produits."
+  "def_term": "Sélection clonale",
+  "def_text": "Processus par lequel seul le clone de lymphocytes B ayant reconnu un antigène est sélectionné et participe à la réponse immunitaire. Ce clone se multiplie ensuite (amplification clonale) et se différencie en plasmocytes producteurs d'anticorps.",
+  "flash_front": "Quelle est la différence entre RIMH et RIMC ?",
+  "flash_back": "RIMH (Réponse Immunitaire à Médiation Humorale) implique des anticorps produits par les plasmocytes. RIMC (Réponse Immunitaire à Médiation Cellulaire) implique les lymphocytes T cytotoxiques qui détruisent directement les cellules infectées par libération de perforines ou induction de l'apoptose."
 }
