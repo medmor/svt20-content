@@ -1,15 +1,15 @@
 {
-  "date": "2026-04-09",
+  "date": "2026-04-10",
   "quiz_level": "2BAC",
-  "quiz_unit": "Unité 5 - Immunologie",
-  "quiz_question": "Les anticorps sont produits par :",
-  "quiz_option_a": "Les lymphocytes T",
-  "quiz_option_b": "Les lymphocytes B",
-  "quiz_option_c": "Les plasmocytes",
-  "quiz_option_d": "Les macrophages",
-  "quiz_answer": "C",
-  "def_term": "Sélection clonale",
-  "def_text": "Processus par lequel seul le clone de lymphocytes B ayant reconnu un antigène est sélectionné et participe à la réponse immunitaire. Ce clone se multiplie ensuite (amplification clonale) et se différencie en plasmocytes producteurs d'anticorps.",
-  "flash_front": "Quelle est la différence entre RIMH et RIMC ?",
-  "flash_back": "RIMH (Réponse Immunitaire à Médiation Humorale) implique des anticorps produits par les plasmocytes. RIMC (Réponse Immunitaire à Médiation Cellulaire) implique les lymphocytes T cytotoxiques qui détruisent directement les cellules infectées par libération de perforines ou induction de l'apoptose."
+  "quiz_unit": "Unité 4: Génétique des populations",
+  "quiz_question": "Déterminer les processus qui augmentent la variation génétique dans la population :",
+  "quiz_option_a": "dérive génétique",
+  "quiz_option_b": "flux génique",
+  "quiz_option_c": "mutation",
+  "quiz_option_d": "tous ces processus",
+  "quiz_answer": "D",
+  "def_term": "Pool génique",
+  "def_text": "L'ensemble des allèles qui se trouvent sur les locus des gènes des chromosomes de tous les individus d'une population. C'est le génome collectif qui caractérise la composition génétique d'une population.",
+  "flash_front": "Quelles sont les conditions de l'équilibre de Hardy-Weinberg ?",
+  "flash_back": "Population infinie, reproduction sexuée, panmixie (fécondation aléatoire), pangamie (rencontre aléatoire des gamètes), absence de migration, absence de mutation, absence de sélection naturelle, et capacité reproductive identique pour tous les individus."
 }
