@@ -1,15 +1,15 @@
 {
-  "date": "2026-04-10",
+  "date": "2026-04-11",
   "quiz_level": "2BAC",
-  "quiz_unit": "Unité 4: Génétique des populations",
-  "quiz_question": "Déterminer les processus qui augmentent la variation génétique dans la population :",
-  "quiz_option_a": "dérive génétique",
-  "quiz_option_b": "flux génique",
-  "quiz_option_c": "mutation",
-  "quiz_option_d": "tous ces processus",
-  "quiz_answer": "B et C",
-  "def_term": "Pool génique",
-  "def_text": "L'ensemble des allèles qui se trouvent sur les locus des gènes des chromosomes de tous les individus d'une population. C'est le génome collectif qui caractérise la composition génétique d'une population.",
-  "flash_front": "Quelles sont les conditions de l'équilibre de Hardy-Weinberg ?",
-  "flash_back": "Population infinie, reproduction sexuée, panmixie (fécondation aléatoire), pangamie (rencontre aléatoire des gamètes), absence de migration, absence de mutation, absence de sélection naturelle, et capacité reproductive identique pour tous les individus."
+  "quiz_unit": "Unité 5: Immunologie",
+  "quiz_question": "La mémoire immunitaire se manifeste par :",
+  "quiz_option_a": "Des anticorps qui persistent longtemps, à forte dose, dans le corps.",
+  "quiz_option_b": "Des plasmocytes qui sécrètent de grandes quantités d'anticorps, pour une longue durée.",
+  "quiz_option_c": "Des lymphocytes spécifiques sensibilisés qui persistent longtemps dans le corps.",
+  "quiz_option_d": "Des antigènes que l'organisme garde longtemps dans les organes lymphoïdes.",
+  "quiz_answer": "C",
+  "def_term": "Mémoire immunitaire",
+  "def_text": "Capacité du système immunitaire à répondre plus rapidement et plus efficacement lors d'un second contact avec un antigène déjà rencontré. Elle est due aux lymphocytes mémoire (LT et LB mémoire) qui persistent longtemps dans l'organisme après la primo-infection.",
+  "flash_front": "Quelle est la différence entre la réponse immunitaire primaire et la réponse secondaire ?",
+  "flash_back": "La réponse primaire est lente (5 à 10 jours) et produit peu d'anticorps. La réponse secondaire est rapide (1 à 3 jours), plus intense et prolongée, grâce aux lymphocytes mémoire formés lors du premier contact avec l'antigène."
 }
