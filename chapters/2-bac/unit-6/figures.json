@@ -20,5 +20,33 @@
       "title": "Planche 5",
       "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level3/unit6/chapter1/Publication1/page05.jpg"
     }
+  ],
+  "le-mtamorphisme-et-sa-relation-avec-la-tectonique-des-plaques": [
+    {
+      "title": "Planche 1",
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level3/unit6/chapter2/Slide1.JPG"
+    },
+    {
+      "title": "Planche 2",
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level3/unit6/chapter2/Slide2.JPG"
+    },
+    {
+      "title": "Planche 3",
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level3/unit6/chapter2/Slide3.JPG"
+    },
+    {
+      "title": "Planche 4",
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level3/unit6/chapter2/Slide4.JPG"
+    }
+  ],
+  "la-granitisation-et-sa-relation-avec-le-mtamorphisme": [
+    {
+      "title": "Planche 1",
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level3/unit6/chapter2/Slide1.JPG"
+    },
+    {
+      "title": "Planche 2",
+      "figureUrl": "https://medmor.github.io/svt20-content/images/figures/level3/unit6/chapter3/Slide2.JPG"
+    }
   ]
 }
