@@ -11,5 +11,5 @@
   "def_term": "Sarcomère",
   "def_text": "Unité fonctionnelle et structurelle du muscle strié squelettique, délimitée par deux lignes Z consécutives, composée de myofilaments d'actine et de myosine.",
   "flash_front": "Quels sont les myofilaments présents au niveau des bandes sombres du sarcomère ?",
-  "flash_back": "Les myofilaments de myosine uniquement. Les bandes sombres (bandes A) correspondent à la zone où se trouvent les filaments épais de myosine."
+  "flash_back": "Les myofilaments de myosine ET d'actine. La bande A (sombre) contient les filaments épais de myosine et les filaments fins d'actine en zone de chevauchement. Seule la zone H (centrale) ne contient que la myosine."
 }
