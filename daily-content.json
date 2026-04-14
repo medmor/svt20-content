@@ -1,15 +1,15 @@
 {
-  "date": "2026-04-13",
-  "quiz_level": "2bac",
-  "quiz_unit": "unit1",
-  "quiz_question": "Les myofilaments de myosine sont présents uniquement au niveau des :",
-  "quiz_option_a": "bandes claires du sarcomère.",
-  "quiz_option_b": "bandes sombres du sarcomère.",
-  "quiz_option_c": "bandes sombres et une partie des bandes claires.",
-  "quiz_option_d": "bandes claires et une partie des bandes sombres.",
+  "date": "2026-04-14",
+  "quiz_level": "2BAC",
+  "quiz_unit": "unit2",
+  "quiz_question": "Les yeux de réplication apparaissent au cours de :",
+  "quiz_option_a": "La prophase",
+  "quiz_option_b": "L'interphase",
+  "quiz_option_c": "La métaphase",
+  "quiz_option_d": "La télophase",
   "quiz_answer": "b",
-  "def_term": "Sarcomère",
-  "def_text": "Unité fonctionnelle et structurelle du muscle strié squelettique, délimitée par deux lignes Z consécutives, composée de myofilaments d'actine et de myosine.",
-  "flash_front": "Quels sont les myofilaments présents au niveau des bandes sombres du sarcomère ?",
-  "flash_back": "Les myofilaments de myosine ET d'actine. La bande A (sombre) contient les filaments épais de myosine et les filaments fins d'actine en zone de chevauchement. Seule la zone H (centrale) ne contient que la myosine."
+  "def_term": "Réplication semi-conservative de l'ADN",
+  "def_text": "Mécanisme par lequel l'ADN se duplique avant la division cellulaire. Chaque brin de la double hélice sert de matrice pour synthétiser un nouveau brin complémentaire, produisant deux molécules d'ADN identiques, chacune composée d'un brin ancien et d'un brin nouveau.",
+  "flash_front": "Qu'est-ce que les yeux de réplication et quand apparaissent-ils ?",
+  "flash_back": "Les yeux de réplication sont des zones où l'ADN commence à se répliquer simultanément en plusieurs points le long du chromosome. Ils apparaissent au cours de l'interphase (phase S), période pendant laquelle la quantité d'ADN double pour préparer la division cellulaire."
 }
