@@ -6,29 +6,6 @@ node_modules/
 .env.local
 .env.*.local
 
-# Google Service Account credentials
-*.json
-!package.json
-!package-lock.json
-!sync-state.json
-
-# Content index (committed to git)
-!index.json
-
-# Daily content
-!daily-content.json
-
-# Figures data (per-chapter figures lists)
-!**/figures.json
-
-# Quizzes data
-quizzes/quizzes.json
-!**/quizzes/*.json
-!**/quizzes/**/*.json
-
-# Exam metadata (per-exam index files)
-!**/exams/index.json
-!**/exams/**/index.json
 
 # OS files
 .DS_Store

@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-10",
+  "quiz_level": "2BAC",
+  "quiz_unit": "Unité 4: Génétique des populations",
+  "quiz_question": "Déterminer les processus qui augmentent la variation génétique dans la population :",
+  "quiz_option_a": "dérive génétique",
+  "quiz_option_b": "flux génique",
+  "quiz_option_c": "mutation",
+  "quiz_option_d": "tous ces processus",
+  "quiz_answer": "D",
+  "def_term": "Pool génique",
+  "def_text": "L'ensemble des allèles qui se trouvent sur les locus des gènes des chromosomes de tous les individus d'une population. C'est le génome collectif qui caractérise la composition génétique d'une population.",
+  "flash_front": "Quelles sont les conditions de l'équilibre de Hardy-Weinberg ?",
+  "flash_back": "Population infinie, reproduction sexuée, panmixie (fécondation aléatoire), pangamie (rencontre aléatoire des gamètes), absence de migration, absence de mutation, absence de sélection naturelle, et capacité reproductive identique pour tous les individus.",
+  "revisions": [
+    {
+      "timestamp": "2026-04-10T00:00:00Z",
+      "changes": "Corrected quiz answer from D to B+C (flux génique + mutation increase variation, dérive génétique decreases it)",
+      "fields": {
+        "quiz_answer": "B et C"
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-09",
+  "quiz_level": "2BAC",
+  "quiz_unit": "Unité 5 - Immunologie",
+  "quiz_question": "Les anticorps sont produits par :",
+  "quiz_option_a": "Les lymphocytes T",
+  "quiz_option_b": "Les lymphocytes B",
+  "quiz_option_c": "Les plasmocytes",
+  "quiz_option_d": "Les macrophages",
+  "quiz_answer": "C",
+  "def_term": "Sélection clonale",
+  "def_text": "Processus par lequel seul le clone de lymphocytes B ayant reconnu un antigène est sélectionné et participe à la réponse immunitaire. Ce clone se multiplie ensuite (amplification clonale) et se différencie en plasmocytes producteurs d'anticorps.",
+  "flash_front": "Quelle est la différence entre RIMH et RIMC ?",
+  "flash_back": "RIMH (Réponse Immunitaire à Médiation Humorale) implique des anticorps produits par les plasmocytes. RIMC (Réponse Immunitaire à Médiation Cellulaire) implique les lymphocytes T cytotoxiques qui détruisent directement les cellules infectées par libération de perforines ou induction de l'apoptose."
+}

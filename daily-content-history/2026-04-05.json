@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-05",
+  "quiz_level": "2BAC",
+  "quiz_unit": "Unité 3 - Génétique",
+  "quiz_question": "Un crossing-over est un échange entre :",
+  "quiz_option_a": "les deux chromatides d'un chromosome dédoublé.",
+  "quiz_option_b": "les chromosomes de deux paires de chromosomes différentes.",
+  "quiz_option_c": "deux chromosomes homologues non dédoublés.",
+  "quiz_option_d": "deux chromatides de deux chromosomes homologues.",
+  "quiz_answer": "D",
+  "def_term": "Crossing-over",
+  "def_text": "Échange de fragments de chromatides entre deux chromosomes homologues lors de la prophase I de la méiose. Ce phénomène crée de nouvelles combinaisons d'allèles sur les chromatides remaniées, contribuant ainsi au brassage intrachromosomique et à la diversité génétique.",
+  "flash_front": "Quel est le rôle du brassage interchromosomique ?",
+  "flash_back": "Lors de l'anaphase I de la méiose, chaque chromosome d'une paire de chromosomes homologues migre aléatoirement vers l'un des deux pôles. Pour n paires de chromosomes, on obtient 2^n combinaisons possibles de gamètes, soit 2^23 combinaisons chez l'Homme."
+}
