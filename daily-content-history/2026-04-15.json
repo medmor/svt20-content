@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-15",
+  "quiz_level": "2BAC",
+  "quiz_unit": "unit3",
+  "quiz_question": "La méiose donne :",
+  "quiz_option_a": "quatre cellules diploïdes à partir d'une cellule mère diploïde.",
+  "quiz_option_b": "deux cellules diploïdes à partir d'une cellule mère diploïde.",
+  "quiz_option_c": "quatre cellules haploïdes à partir d'une cellule mère diploïde.",
+  "quiz_option_d": "deux cellules haploïdes à partir d'une cellule mère lipoïde.",
+  "quiz_answer": "c",
+  "def_term": "Caryotype",
+  "def_text": "Représentation organisée et classée des chromosomes d'une cellule, permettant d'identifier les anomalies chromosomiques numériques (trisomies, monosomies) ou structurales (translocations, délétions). Le caryotype humain normal comporte 46 chromosomes : 44 autosomes et 2 chromosomes sexuels (XX chez la femme, XY chez l'homme).",
+  "flash_front": "Quels sont les trois outils d'étude de la génétique humaine ?",
+  "flash_back": "1) L'arbre généalogique (pedigree) : suit la transmission d'un caractère dans une famille. 2) Le caryotype : identifie les anomalies chromosomiques. 3) L'électrophorèse : sépare les protéines pour analyser les allèles et déterminer le mode de transmission des maladies."
+}
