@@ -1,15 +1,15 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "quiz_level": "2BAC",
-  "quiz_unit": "unit3sp",
-  "quiz_question": "L'incinération est :",
-  "quiz_option_a": "la combustion des ordures dans des fours spécialisés à haute température.",
-  "quiz_option_b": "la biodégradation aérobie des ordures.",
-  "quiz_option_c": "la biodégradation anaérobie des ordures.",
-  "quiz_option_d": "un processus qui produit uniquement du lixiviat.",
-  "quiz_answer": "a",
-  "def_term": "Compostage",
-  "def_text": "Processus biologique aérobie de décomposition des matières organiques par des micro-organismes (bactéries, champignons) qui transforment les déchets organiques en un produit riche en composés humiques et en minéraux : le compost. Le compostage permet de valoriser les ordures ménagères organiques en un amendement naturel pour le sol.",
-  "flash_front": "Quelles sont les trois principales méthodes de valorisation des ordures ménagères organiques ?",
-  "flash_back": "1) Le compostage : décomposition aérobie produisant du compost. 2) La méthanisation : fermentation anaérobie produisant du biogaz (méthane). 3) L'incinération : combustion à haute température avec récupération d'énergie."
+  "quiz_unit": "unit4",
+  "quiz_question": "Laquelle des propositions suivantes décrit le mieux le flux génique :",
+  "quiz_option_a": "fécondation aléatoire.",
+  "quiz_option_b": "migration.",
+  "quiz_option_c": "dérive génétique.",
+  "quiz_option_d": "sélection.",
+  "quiz_answer": "b",
+  "def_term": "Pool génétique",
+  "def_text": "Ensemble de tous les allèles de tous les gènes présents dans une population. C'est le patrimoine génétique collectif d'une population qui se transmet d'une génération à l'autre.",
+  "flash_front": "Quels sont les quatre facteurs de variation génétique des populations ?",
+  "flash_back": "1) Les mutations : créent de nouveaux allèles. 2) La sélection naturelle : favorise les allèles avantageux. 3) La dérive génétique : fluctuations aléatoires dans les petites populations. 4) Le flux génique (migration) : échange d'allèles entre populations."
 }
