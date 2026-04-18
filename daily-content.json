@@ -1,15 +1,15 @@
 {
-  "date": "2026-04-17",
+  "date": "2026-04-18",
   "quiz_level": "2BAC",
-  "quiz_unit": "unit4",
-  "quiz_question": "Laquelle des propositions suivantes décrit le mieux le flux génique :",
-  "quiz_option_a": "fécondation aléatoire.",
-  "quiz_option_b": "migration.",
-  "quiz_option_c": "dérive génétique.",
-  "quiz_option_d": "sélection.",
-  "quiz_answer": "b",
-  "def_term": "Pool génétique",
-  "def_text": "Ensemble de tous les allèles de tous les gènes présents dans une population. C'est le patrimoine génétique collectif d'une population qui se transmet d'une génération à l'autre.",
-  "flash_front": "Quels sont les quatre facteurs de variation génétique des populations ?",
-  "flash_back": "1) Les mutations : créent de nouveaux allèles. 2) La sélection naturelle : favorise les allèles avantageux. 3) La dérive génétique : fluctuations aléatoires dans les petites populations. 4) Le flux génique (migration) : échange d'allèles entre populations."
+  "quiz_unit": "unit5",
+  "quiz_question": "La mémoire immunitaire se manifeste par :",
+  "quiz_option_a": "Des anticorps qui persistent longtemps, à forte dose, dans le corps.",
+  "quiz_option_b": "Des plasmocytes qui sécrètent de grandes quantités d'anticorps, pour une longue durée.",
+  "quiz_option_c": "Des lymphocytes spécifiques sensibilisés qui persistent longtemps dans le corps.",
+  "quiz_option_d": "Des antigènes que l'organisme garde longtemps dans les organes lymphoïdes.",
+  "quiz_answer": "c",
+  "def_term": "Réponse immunitaire spécifique",
+  "def_text": "Réaction de défense dirigée contre un antigène spécifique. Elle comprend la réponse humorale (production d'anticorps par les plasmocytes) et la réponse cellulaire (destruction des cellules infectées par les LT cytotoxiques).",
+  "flash_front": "Quelles sont les deux types de réponses immunitaires spécifiques ?",
+  "flash_back": "1) Réponse humorale : production d'anticorps par les plasmocytes (dérivés des LB). 2) Réponse cellulaire : destruction des cellules infectées par les LT cytotoxiques (LT8)."
 }
