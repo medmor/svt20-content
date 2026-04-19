@@ -1,15 +1,15 @@
 {
-  "date": "2026-04-18",
-  "quiz_level": "2BAC",
-  "quiz_unit": "unit5",
-  "quiz_question": "Le CMH désigne :",
-  "quiz_option_a": "des marqueurs biologiques situés sur les globules rouges.",
-  "quiz_option_b": "le complexe mineur d'histocompatibilité.",
-  "quiz_option_c": "les molécules qui marquent l'identité immunitaire de l'individu.",
-  "quiz_option_d": "toute protéine résultant de l'expression génétique.",
-  "quiz_answer": "c",
-  "def_term": "Réponse immunitaire spécifique",
-  "def_text": "Réaction de défense dirigée contre un antigène spécifique. Elle comprend la réponse humorale (production d'anticorps par les plasmocytes) et la réponse cellulaire (destruction des cellules infectées par les LT cytotoxiques).",
-  "flash_front": "Quelles sont les deux types de réponses immunitaires spécifiques ?",
-  "flash_back": "1) Réponse humorale : production d'anticorps par les plasmocytes (dérivés des LB). 2) Réponse cellulaire : destruction des cellules infectées par les LT cytotoxiques (LT8)."
+  "date": "2026-04-19",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit6",
+  "quiz_question": "La séquence métamorphique est un ensemble de :",
+  "quiz_option_a": "roches magmatiques résultantes du refroidissement du même magma.",
+  "quiz_option_b": "roches ayant subi un même degré de métamorphisme.",
+  "quiz_option_c": "minéraux ayant subit une température croissante.",
+  "quiz_option_d": "roches métamorphiques qui résultent de la même roche mère.",
+  "quiz_answer": "roches métamorphiques qui résultent de la même roche mère.",
+  "def_term": "Nappe de charriage",
+  "def_text": "Unité tectonique de grande dimension déplacée sur plusieurs dizaines de kilomètres, chevauchant une unité restée en place (autochtone). L'unité charriée est dite allochtone.",
+  "flash_front": "Qu'est-ce qu'un prisme d'accrétion ?",
+  "flash_back": "Structure formée par le raclage des sédiments de la plaque plongeante contre la plaque chevauchante au niveau d'une zone de subduction."
 }
