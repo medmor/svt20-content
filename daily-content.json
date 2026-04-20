@@ -1,15 +1,15 @@
 {
-  "date": "2026-04-19",
+  "date": "2026-04-20",
   "quiz_level": "2bac",
-  "quiz_unit": "unit6",
-  "quiz_question": "La séquence métamorphique est un ensemble de :",
-  "quiz_option_a": "roches magmatiques résultantes du refroidissement du même magma.",
-  "quiz_option_b": "roches ayant subi un même degré de métamorphisme.",
-  "quiz_option_c": "minéraux ayant subit une température croissante.",
-  "quiz_option_d": "roches métamorphiques qui résultent de la même roche mère.",
-  "quiz_answer": "roches métamorphiques qui résultent de la même roche mère.",
-  "def_term": "Nappe de charriage",
-  "def_text": "Unité tectonique de grande dimension déplacée sur plusieurs dizaines de kilomètres, chevauchant une unité restée en place (autochtone). L'unité charriée est dite allochtone.",
-  "flash_front": "Qu'est-ce qu'un prisme d'accrétion ?",
-  "flash_back": "Structure formée par le raclage des sédiments de la plaque plongeante contre la plaque chevauchante au niveau d'une zone de subduction."
+  "quiz_unit": "unit1",
+  "quiz_question": "La transformation d’une molécule de glucose en deux molécules d’acide pyruvique au niveau du hyaloplasme, s’accompagne d’une :",
+  "quiz_option_a": "réduction de 2NADH, H+ et de production de 4ATP.",
+  "quiz_option_b": "oxydation de 2NADH, H+ et de production de 4ATP.",
+  "quiz_option_c": "oxydation de 2NAD+ et de production de 2ATP.",
+  "quiz_option_d": "réduction de 2NAD+ et de production de 2ATP.",
+  "quiz_answer": "réduction de 2NAD+ et de production de 2ATP.",
+  "def_term": "Hydrolyse",
+  "def_text": "Réaction chimique de dégradation des macromolécules en monomères par addition d'eau. Exemples : digestion des protéines en acides aminés, hydrolyse du saccharose.",
+  "flash_front": "Qu'est-ce qu'un test biochimique ?",
+  "flash_back": "Test permettant d'identifier la présence d'une molécule organique. Exemples : Biuret (protéines → violet), Lugol (amidon → bleu-noir), Fehling (glucose réducteur → précipité rouge brique)."
 }
