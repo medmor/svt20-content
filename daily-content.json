@@ -1,15 +1,15 @@
 {
-  "date": "2026-04-21",
+  "date": "2026-04-22",
   "quiz_level": "2bac",
-  "quiz_unit": "unit2",
-  "quiz_question": "Au cours de la réplication de l’ADN :",
-  "quiz_option_a": "la double hélice parentale reste intacte et une deuxième copie entièrement nouvelle est synthétisée.",
-  "quiz_option_b": "chaque brin des deux molécules d’ADN formées contient des fragments anciens et des fragments nouvellement synthétisés.",
-  "quiz_option_c": "les deux brins de la double hélice parentale se séparent et chacun d’eux sert de modèle pour la synthèse d’un nouveau brin complémentaire.",
-  "quiz_option_d": "la double hélice parentale ne sert pas à la synthèse des deux nouvelles copies d’ADN.",
-  "quiz_answer": "les deux brins de la double hélice parentale se séparent et chacun d’eux sert de modèle pour la synthèse d’un nouveau brin complémentaire.",
-  "def_term": "Réplication de l'ADN",
-  "def_text": "Mécanisme par lequel une molécule d'ADN est copiée pour donner deux molécules identiques, se produisant durant la phase S de l'interphase.",
-  "flash_front": "Qu'est-ce qu'un gène ?",
-  "flash_back": "Une séquence de nucléotides d'ADN qui contient l'information génétique nécessaire à la synthèse d'une protéine ou d'une chaîne polypeptidique."
+  "quiz_unit": "unit3",
+  "quiz_question": "La méiose donne :",
+  "quiz_option_a": "quatre cellules diploïdes à partir d'une cellule mère diploïde.",
+  "quiz_option_b": "deux cellules diploïdes à partir d'une cellule mère diploïde.",
+  "quiz_option_c": "quatre cellules haploïdes à partir d'une cellule mère diploïde.",
+  "quiz_option_d": "deux cellules haploïdes à partir d'une cellule mère lipoïde.",
+  "quiz_answer": "quatre cellules haploïdes à partir d'une cellule mère diploïde.",
+  "def_term": "Génotype",
+  "def_text": "L'ensemble des allèles présents dans l'ADN d'un individu pour un ou plusieurs gènes donnés. Chez les diploïdes, chaque gène est représenté par deux allèles sur les chromosomes homologues. Le génotype s'écrit avec la notation A//A (homozygote) ou A//a (hétérozygote).",
+  "flash_front": "Qu'est-ce que le brassage intrachromosomique ?",
+  "flash_back": "C'est l'échange de fragments de chromatides entre chromosomes homologues (crossing-over) qui se produit au cours de la prophase I de la méiose, conduisant à de nouvelles combinaisons d'allèles sur les chromatides remaniées."
 }
