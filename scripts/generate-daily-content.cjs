@@ -130,9 +130,7 @@ function generateDailyContent() {
     process.exit(1);
   }
   
-  // Sample definitions and flashcards per unit (simplified — can be expanded)
-  const extras = getExtrasForUnit(unit);
-  
+  // Only write quiz data — def/flash are filled by the AI agent from chapter content
   const content = {
     date: dateStr,
     quiz_level: '2bac',
@@ -143,10 +141,10 @@ function generateDailyContent() {
     quiz_option_c: parsed.option_c,
     quiz_option_d: parsed.option_d,
     quiz_answer: parsed.answer,
-    def_term: extras.def_term,
-    def_text: extras.def_text,
-    flash_front: extras.flash_front,
-    flash_back: extras.flash_back,
+    def_term: '',
+    def_text: '',
+    flash_front: '',
+    flash_back: '',
   };
   
   // Write to daily-content.json
@@ -156,56 +154,6 @@ function generateDailyContent() {
   console.log(`   Answer: ${parsed.answer}`);
   
   return content;
-}
-
-function getExtrasForUnit(unit) {
-  // Simple fallback extras — ideally these would come from a curated pool per unit
-  const extras = {
-    unit1: {
-      def_term: 'Métabolisme',
-      def_text: 'L\'ensemble des réactions biochimiques qui se déroulent dans une cellule vivante pour assurer sa croissance, sa maintenance et sa reproduction.',
-      flash_front: 'Qu\'est-ce que la glycolyse ?',
-      flash_back: 'C\'est la dégradation anaérobie du glucose en pyruvate, avec production nette de 2 ATP et 2 NADH. Elle se déroule dans le cytosol.'
-    },
-    unit2: {
-      def_term: 'Réplication semi-conservative',
-      def_text: 'Mode de réplication de l\'ADN où chaque molécule fille contient un brin parental conservé et un brin néoformé.',
-      flash_front: 'Qu\'est-ce que les yeux de réplication ?',
-      flash_back: 'Ce sont les zones de dédoublement de l\'hélice d\'ADN où se déroule la réplication. Ils apparaissent au cours de la phase S de l\'interphase.'
-    },
-    unit3: {
-      def_term: 'Génotype',
-      def_text: 'L\'ensemble des allèles présents dans l\'ADN d\'un individu pour un ou plusieurs gènes donnés.',
-      flash_front: 'Qu\'est-ce que le brassage intrachromosomique ?',
-      flash_back: 'C\'est l\'échange de fragments de chromatides entre chromosomes homologues (crossing-over) lors de la prophase I de la méiose.'
-    },
-    unit3sp: {
-      def_term: 'Méiose',
-      def_text: 'Succession de deux divisions cellulaires (réductionnelle et équationnelle) aboutissant à la formation de quatre cellules haploïdes à partir d\'une cellule diploïde.',
-      flash_front: 'Qu\'est-ce que le brassage interchromosomique ?',
-      flash_back: 'C\'est la séparation aléatoire des chromosomes homologues lors de l\'anaphase I, produisant 2^n combinaisons différentes.'
-    },
-    unit4: {
-      def_term: 'Pool génique',
-      def_text: 'L\'ensemble de tous les allèles présents dans une population pour un ou plusieurs gènes donnés à un moment donné.',
-      flash_front: 'Qu\'est-ce que la sélection naturelle ?',
-      flash_back: 'C\'est un mécanisme évolutif qui favorise la reproduction et la survie des individus les mieux adaptés à leur environnement.'
-    },
-    unit5: {
-      def_term: 'Réponse immunitaire spécifique',
-      def_text: 'Défense de l\'organisme ciblée contre un antigène particulier, impliquant les lymphocytes B et T, avec mémoire immunitaire.',
-      flash_front: 'Qu\'est-ce que la mémoire immunitaire ?',
-      flash_back: 'Capacité du système immunitaire à répondre plus rapidement et plus fortement lors d\'un second contact avec le même antigène.'
-    },
-    unit6: {
-      def_term: 'Sismologie',
-      def_text: 'Science qui étudie les séismes, leur origine, leur propagation et leurs effets sur les structures et l\'environnement.',
-      flash_front: 'Qu\'est-ce que la croûte continentale ?',
-      flash_back: 'Partie externe et rigide de la Terre, principalement granitique, qui constitue les continents. Son épaisseur moyenne est de 30-40 km.'
-    }
-  };
-  
-  return extras[unit] || extras.unit1;
 }
 
 // Run
