@@ -2,14 +2,14 @@
   "date": "2026-05-29",
   "quiz_level": "2bac",
   "quiz_unit": "unit4",
-  "quiz_question": "Parmi les conditions de l’équilibre de Hardy-Weinberg :",
+  "quiz_question": "Parmi les conditions de l'équilibre de Hardy-Weinberg :",
   "quiz_option_a": "les fécondations sont préférentielles.",
   "quiz_option_b": "la taille de la population est vaste.",
-  "quiz_option_c": "il n’y a pas de migration.",
-  "quiz_option_d": "il n’y a pas de mutation.",
-  "quiz_answer": "il n’y a pas de mutation.",
-  "def_term": "",
-  "def_text": "",
-  "flash_front": "",
-  "flash_back": ""
+  "quiz_option_c": "il n'y a pas de migration.",
+  "quiz_option_d": "il n'y a pas de mutation.",
+  "quiz_answer": "il n'y a pas de mutation.",
+  "def_term": "Loi de Hardy-Weinberg",
+  "def_text": "Dans une population théorique idéale (taille infinie, panmixie, pangamie, pas de mutation, pas de migration, pas de sélection naturelle), les fréquences alléliques et génotypiques restent stables d'une génération à l'autre. Les fréquences génotypiques sont : f(AA) = p², f(Aa) = 2pq, f(aa) = q², avec p + q = 1.",
+  "flash_front": "Quelles sont les conditions de l'équilibre de Hardy-Weinberg ?",
+  "flash_back": "1. Population de taille infinie\n2. Croisements au hasard (panmixie et pangamie)\n3. Absence de mutation\n4. Absence de migration\n5. Absence de sélection naturelle\n6. Tous les individus ont la même capacité de reproduction"
 }
