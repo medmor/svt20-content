@@ -1,15 +1,15 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-29",
   "quiz_level": "2bac",
-  "quiz_unit": "unit5",
-  "quiz_question": "Lors d'une transfusion sanguine entre un donneur du groupe A et un receveur du groupe B, il y a agglutination des hématies chez le receveur car :",
-  "quiz_option_a": "les anticorps anti–B du donneur se fixent sur les anticorps anti–A du donneur.",
-  "quiz_option_b": "les anticorps anti–A du receveur se fixent sur les antigènes A du donneur.",
-  "quiz_option_c": "les antigènes A du donneur se fixent sur les antigènes B du receveur.",
-  "quiz_option_d": "le donneur et le receveur n'ont pas le même CMH.",
-  "quiz_answer": "les anticorps anti–A du receveur se fixent sur les antigènes A du donneur.",
-  "def_term": "Complexe Majeur d'Histocompatibilité (CMH)",
-  "def_text": "Glycoprotéines présentes à la surface des cellules de l'organisme qui constituent les marqueurs majeurs du soi. Elles permettent au système immunitaire de distinguer les cellules du soi du non-soi et jouent un rôle essentiel dans la surveillance immunitaire en présentant des fragments peptidiques aux lymphocytes T.",
-  "flash_front": "Quelles sont les différences entre la vaccination et la sérothérapie ?",
-  "flash_back": "La vaccination est une immunisation active préventive : elle consiste à injecter un antigène atténué ou tué, l'organisme produit ses propres anticorps avec un délai lent (jours à semaines) mais une protection durable (années à vie) grâce à la mémoire immunitaire. La sérothérapie est une immunisation passive curative ou d'urgence : elle consiste à injecter des anticorps déjà produits (sérum), l'effet est immédiat mais de courte durée (quelques semaines) car les anticorps injectés sont progressivement éliminés par l'organisme."
+  "quiz_unit": "unit4",
+  "quiz_question": "Parmi les conditions de l’équilibre de Hardy-Weinberg :",
+  "quiz_option_a": "les fécondations sont préférentielles.",
+  "quiz_option_b": "la taille de la population est vaste.",
+  "quiz_option_c": "il n’y a pas de migration.",
+  "quiz_option_d": "il n’y a pas de mutation.",
+  "quiz_answer": "il n’y a pas de mutation.",
+  "def_term": "",
+  "def_text": "",
+  "flash_front": "",
+  "flash_back": ""
 }
