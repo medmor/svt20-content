@@ -1,15 +1,14 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "quiz_level": "2bac",
-  "quiz_unit": "unit4",
-  "quiz_question": "Parmi les conditions de l'équilibre de Hardy-Weinberg :",
-  "quiz_option_a": "les fécondations sont préférentielles.",
-  "quiz_option_b": "la taille de la population est vaste.",
-  "quiz_option_c": "il n'y a pas de migration.",
-  "quiz_option_d": "il n'y a pas de mutation.",
-  "quiz_answer": "il n'y a pas de mutation.",
-  "def_term": "Loi de Hardy-Weinberg",
-  "def_text": "Dans une population théorique idéale (taille infinie, panmixie, pangamie, pas de mutation, pas de migration, pas de sélection naturelle), les fréquences alléliques et génotypiques restent stables d'une génération à l'autre. Les fréquences génotypiques sont : f(AA) = p², f(Aa) = 2pq, f(aa) = q², avec p + q = 1.",
-  "flash_front": "Quelles sont les conditions de l'équilibre de Hardy-Weinberg ?",
-  "flash_back": "1. Population de taille infinie\n2. Croisements au hasard (panmixie et pangamie)\n3. Absence de mutation\n4. Absence de migration\n5. Absence de sélection naturelle\n6. Tous les individus ont la même capacité de reproduction"
+  "quiz_unit": "unit5",
+  "quiz_question": "Un individu du groupe sanguin A possède :",
+  "quiz_option_a": "des agglutinines anti-B à la surface des hématies.",
+  "quiz_option_b": "des agglutinines anti-B dans le sérum.",
+  "quiz_option_c": "des agglutinogènes A à la surface des globules blancs.",
+  "quiz_option_d": "des agglutinogènes A à la surface des hématies.",
+  "quiz_answer": "des agglutinogènes A à la surface des hématies.",
+  "def_term": "CMH (Complexe Majeur d'Histocompatibilité)",
+  "def_text": "Glycoprotéines membranaires présentant en permanence des fragments de protéines synthétisées par la cellule, ce qui permet aux cellules immunitaires de distinguer le soi du non-soi. Il existe deux types : CMH I (sur toutes les cellules nucléées) et CMH II (sur certaines cellules immunitaires).",: "Quelles sont les 4 étapes essentielles de la phagocytose ?",
+  "flash_back": "1. Adhésion : la membrane du phagocyte adhère à la particule étrangère. 2. Absorption : émission de pseudopodes qui entourent le micro-organisme pour former un phagosome. 3. Digestion : les lysosomes fusionnent avec le phagosome et déversent leurs enzymes, formant un phagolysosome. 4. Rejet des débris cellulaires à l'extérieur de la cellule."
 }
