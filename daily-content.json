@@ -2,13 +2,14 @@
   "date": "2026-05-30",
   "quiz_level": "2bac",
   "quiz_unit": "unit5",
-  "quiz_question": "Un individu du groupe sanguin A possède :",
+  "quiz_question": "Un individu du groupe sanguin A possède :",
   "quiz_option_a": "des agglutinines anti-B à la surface des hématies.",
   "quiz_option_b": "des agglutinines anti-B dans le sérum.",
   "quiz_option_c": "des agglutinogènes A à la surface des globules blancs.",
   "quiz_option_d": "des agglutinogènes A à la surface des hématies.",
   "quiz_answer": "des agglutinogènes A à la surface des hématies.",
   "def_term": "CMH (Complexe Majeur d'Histocompatibilité)",
-  "def_text": "Glycoprotéines membranaires présentant en permanence des fragments de protéines synthétisées par la cellule, ce qui permet aux cellules immunitaires de distinguer le soi du non-soi. Il existe deux types : CMH I (sur toutes les cellules nucléées) et CMH II (sur certaines cellules immunitaires).",: "Quelles sont les 4 étapes essentielles de la phagocytose ?",
+  "def_text": "Glycoprotéines membranaires présentant en permanence des fragments de protéines synthétisées par la cellule, ce qui permet aux cellules immunitaires de distinguer le soi du non-soi. Il existe deux types : CMH I (sur toutes les cellules nucléées) et CMH II (sur certaines cellules immunitaires).",
+  "flash_front": "Quelles sont les 4 étapes essentielles de la phagocytose ?",
   "flash_back": "1. Adhésion : la membrane du phagocyte adhère à la particule étrangère. 2. Absorption : émission de pseudopodes qui entourent le micro-organisme pour former un phagosome. 3. Digestion : les lysosomes fusionnent avec le phagosome et déversent leurs enzymes, formant un phagolysosome. 4. Rejet des débris cellulaires à l'extérieur de la cellule."
 }
