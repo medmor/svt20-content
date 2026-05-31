@@ -1,15 +1,15 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "quiz_level": "2bac",
-  "quiz_unit": "unit5",
-  "quiz_question": "Un individu du groupe sanguin A possède :",
-  "quiz_option_a": "des agglutinines anti-B à la surface des hématies.",
-  "quiz_option_b": "des agglutinines anti-B dans le sérum.",
-  "quiz_option_c": "des agglutinogènes A à la surface des globules blancs.",
-  "quiz_option_d": "des agglutinogènes A à la surface des hématies.",
-  "quiz_answer": "des agglutinogènes A à la surface des hématies.",
-  "def_term": "CMH (Complexe Majeur d'Histocompatibilité)",
-  "def_text": "Glycoprotéines membranaires présentant en permanence des fragments de protéines synthétisées par la cellule, ce qui permet aux cellules immunitaires de distinguer le soi du non-soi. Il existe deux types : CMH I (sur toutes les cellules nucléées) et CMH II (sur certaines cellules immunitaires).",
-  "flash_front": "Quelles sont les 4 étapes essentielles de la phagocytose ?",
-  "flash_back": "1. Adhésion : la membrane du phagocyte adhère à la particule étrangère. 2. Absorption : émission de pseudopodes qui entourent le micro-organisme pour former un phagosome. 3. Digestion : les lysosomes fusionnent avec le phagosome et déversent leurs enzymes, formant un phagolysosome. 4. Rejet des débris cellulaires à l'extérieur de la cellule."
+  "quiz_unit": "unit6",
+  "quiz_question": "L’andésite est une roche magmatique qui :",
+  "quiz_option_a": "résulte d’un refroidissement rapide du magma en profondeur.",
+  "quiz_option_b": "résulte d’un refroidissement lent du magma en surface.",
+  "quiz_option_c": "a une structure microlitique caractérisée par des microlites et du verre.",
+  "quiz_option_d": "a une structure grenue caractérisée par des cristaux de grande taille.",
+  "quiz_answer": "a une structure microlitique caractérisée par des microlites et du verre.",
+  "def_term": "Le métamorphisme",
+  "def_text": "L'ensemble des changements structurels et minéralogiques qui se produisent sur une roche préexistante (sédimentaire ou magmatique) par l'action de la pression et de la température ou des deux. Le métamorphisme s'effectue à l'état solide de la roche.",
+  "flash_front": "Quels sont les trois types de chaînes de montagnes et à quel type de convergence correspondent-ils ?",
+  "flash_back": "1) Chaîne de subduction → zone de subduction (ex: Andes). 2) Chaîne d'obduction → zone d'obduction (ex: Oman/Al Hajar). 3) Chaîne de collision → zone de collision (ex: Himalaya)."
 }
