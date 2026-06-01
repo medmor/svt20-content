@@ -1,15 +1,15 @@
 {
-  "date": "2026-05-31",
+  "date": "2026-06-01",
   "quiz_level": "2bac",
-  "quiz_unit": "unit6",
-  "quiz_question": "L’andésite est une roche magmatique qui :",
-  "quiz_option_a": "résulte d’un refroidissement rapide du magma en profondeur.",
-  "quiz_option_b": "résulte d’un refroidissement lent du magma en surface.",
-  "quiz_option_c": "a une structure microlitique caractérisée par des microlites et du verre.",
-  "quiz_option_d": "a une structure grenue caractérisée par des cristaux de grande taille.",
-  "quiz_answer": "a une structure microlitique caractérisée par des microlites et du verre.",
-  "def_term": "Le métamorphisme",
-  "def_text": "L'ensemble des changements structurels et minéralogiques qui se produisent sur une roche préexistante (sédimentaire ou magmatique) par l'action de la pression et de la température ou des deux. Le métamorphisme s'effectue à l'état solide de la roche.",
-  "flash_front": "Quels sont les trois types de chaînes de montagnes et à quel type de convergence correspondent-ils ?",
-  "flash_back": "1) Chaîne de subduction → zone de subduction (ex: Andes). 2) Chaîne d'obduction → zone d'obduction (ex: Oman/Al Hajar). 3) Chaîne de collision → zone de collision (ex: Himalaya)."
+  "quiz_unit": "unit1",
+  "quiz_question": "Parmi les produits du cycle de Krebs :",
+  "quiz_option_a": "les composés réduits, le dioxyde de carbone et l’acétyle coenzyme A.",
+  "quiz_option_b": "le dioxyde de carbone, l’acétyle coenzyme A et l’ATP.",
+  "quiz_option_c": "les composés réduits, le dioxyde de carbone et l’ATP.",
+  "quiz_option_d": "les composés réduits, l’acétyle coenzyme A et l’ATP.",
+  "quiz_answer": "les composés réduits, le dioxyde de carbone et l’ATP.",
+  "def_term": "Glycolyse",
+  "def_text": "Première étape commune à la respiration et à la fermentation, se déroulant dans l'hyaloplasme. Le glucose y est dégradé en acide pyruvique avec un bilan net de 2 ATP et 2 NADH,H+.",
+  "flash_front": "Quels sont les trois types de produits du cycle de Krebs ?",
+  "flash_back": "Les composés réduits (NADH,H+ et FADH2), le dioxyde de carbone (CO2) et l'ATP."
 }
