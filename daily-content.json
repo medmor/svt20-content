@@ -1,15 +1,15 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "quiz_level": "2bac",
-  "quiz_unit": "unit1",
-  "quiz_question": "Parmi les produits du cycle de Krebs :",
-  "quiz_option_a": "les composés réduits, le dioxyde de carbone et l’acétyle coenzyme A.",
-  "quiz_option_b": "le dioxyde de carbone, l’acétyle coenzyme A et l’ATP.",
-  "quiz_option_c": "les composés réduits, le dioxyde de carbone et l’ATP.",
-  "quiz_option_d": "les composés réduits, l’acétyle coenzyme A et l’ATP.",
-  "quiz_answer": "les composés réduits, le dioxyde de carbone et l’ATP.",
-  "def_term": "Glycolyse",
-  "def_text": "Première étape commune à la respiration et à la fermentation, se déroulant dans l'hyaloplasme. Le glucose y est dégradé en acide pyruvique avec un bilan net de 2 ATP et 2 NADH,H+.",
-  "flash_front": "Quels sont les trois types de produits du cycle de Krebs ?",
-  "flash_back": "Les composés réduits (NADH,H+ et FADH2), le dioxyde de carbone (CO2) et l'ATP."
+  "quiz_unit": "unit2",
+  "quiz_question": "Durant la métaphase de la mitose, chaque chromosome est formé :",
+  "quiz_option_a": "d’une seule chromatide constituée de deux brins d’ADN.",
+  "quiz_option_b": "de deux chromatides constituée chacune d’un brin d’ADN.",
+  "quiz_option_c": "de deux chromatides constituée chacune de deux brins d’ADN.",
+  "quiz_option_d": "de deux chromatides l’une constituée d’un seul brin d'ADN et l’autre de deux brins d’ADN.",
+  "quiz_answer": "de deux chromatides constituée chacune de deux brins d’ADN.",
+  "def_term": "Le caryotype",
+  "def_text": "Representation photographique ou dessinee de l'ensemble des chromosomes presents dans les cellules d'une espece donnee, classes selon leur longueur et selon la position de leurs centromeres.",
+  "flash_front": "Quelles sont les quatre etapes de la mitose dans l'ordre ?",
+  "flash_back": "Prophase (condensation des chromosomes, disparition de l'enveloppe nucleaire, apparition du fuseau mitotique), Metaphase (positionnement des centromeres a l'equateur, formation de la plaque equatoriale), Anaphase (separation des chromatides, migration vers les poles), Telophase (decondensation des chromosomes, reformation de l'enveloppe nucleaire, cytodiérèse)."
 }
