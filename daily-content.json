@@ -1,15 +1,15 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "quiz_level": "2bac",
-  "quiz_unit": "unit2",
-  "quiz_question": "Durant la métaphase de la mitose, chaque chromosome est formé :",
-  "quiz_option_a": "d’une seule chromatide constituée de deux brins d’ADN.",
-  "quiz_option_b": "de deux chromatides constituée chacune d’un brin d’ADN.",
-  "quiz_option_c": "de deux chromatides constituée chacune de deux brins d’ADN.",
-  "quiz_option_d": "de deux chromatides l’une constituée d’un seul brin d'ADN et l’autre de deux brins d’ADN.",
-  "quiz_answer": "de deux chromatides constituée chacune de deux brins d’ADN.",
-  "def_term": "Le caryotype",
-  "def_text": "Representation photographique ou dessinee de l'ensemble des chromosomes presents dans les cellules d'une espece donnee, classes selon leur longueur et selon la position de leurs centromeres.",
-  "flash_front": "Quelles sont les quatre etapes de la mitose dans l'ordre ?",
-  "flash_back": "Prophase (condensation des chromosomes, disparition de l'enveloppe nucleaire, apparition du fuseau mitotique), Metaphase (positionnement des centromeres a l'equateur, formation de la plaque equatoriale), Anaphase (separation des chromatides, migration vers les poles), Telophase (decondensation des chromosomes, reformation de l'enveloppe nucleaire, cytodiérèse)."
+  "quiz_unit": "unit3",
+  "quiz_question": "Dans le cas d’une maladie héréditaire liée à un allèle dominant porté par le chromosome X :",
+  "quiz_option_a": "le père atteint de la maladie est hétérozygote ;",
+  "quiz_option_b": "une femme saine donne naissance à un garçon malade ;",
+  "quiz_option_c": "un père atteint de la maladie donne naissance à une fille saine ;",
+  "quiz_option_d": "un père atteint de la maladie donne naissance à une fille malade.",
+  "quiz_answer": "un père atteint de la maladie donne naissance à une fille malade.",
+  "def_term": "Arbre généalogique (pedigree)",
+  "def_text": "Représentation schématique simplifiée des liens de parenté existant au sein d'une famille. Il permet de suivre la transmission d'un caractère héréditaire au cours des générations.",
+  "flash_front": "Quelle est la conséquence d'un père atteint d'une maladie dominante liée à l'X sur ses descendants ?",
+  "flash_back": "Un père malade (XᴿY) donne naissance à des filles conductrices (hétérozygotes XᴿXʳ) qui sont toutes atteintes, et tous ses fils sont sains (XʸY)."
 }
