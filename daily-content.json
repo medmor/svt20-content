@@ -1,15 +1,15 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "quiz_level": "2bac",
-  "quiz_unit": "unit3",
-  "quiz_question": "Dans le cas d’une maladie héréditaire liée à un allèle dominant porté par le chromosome X :",
-  "quiz_option_a": "le père atteint de la maladie est hétérozygote ;",
-  "quiz_option_b": "une femme saine donne naissance à un garçon malade ;",
-  "quiz_option_c": "un père atteint de la maladie donne naissance à une fille saine ;",
-  "quiz_option_d": "un père atteint de la maladie donne naissance à une fille malade.",
-  "quiz_answer": "un père atteint de la maladie donne naissance à une fille malade.",
-  "def_term": "Arbre généalogique (pedigree)",
-  "def_text": "Représentation schématique simplifiée des liens de parenté existant au sein d'une famille. Il permet de suivre la transmission d'un caractère héréditaire au cours des générations.",
-  "flash_front": "Quelle est la conséquence d'un père atteint d'une maladie dominante liée à l'X sur ses descendants ?",
-  "flash_back": "Un père malade (XᴿY) donne naissance à des filles conductrices (hétérozygotes XᴿXʳ) qui sont toutes atteintes, et tous ses fils sont sains (XʸY)."
+  "quiz_unit": "unit3sp",
+  "quiz_question": "Les ordures ménagères :",
+  "quiz_option_a": "sont constitués par l’ensemble des déchets produits par l’industrie pétrolière.",
+  "quiz_option_b": "sont constitués par l’ensemble des déchets produits par les activités domestiques.",
+  "quiz_option_c": "sont constitués par l’ensemble des déchets produit par l’industrie nucléaire.",
+  "quiz_option_d": "sont constitués par l’ensemble des déchets produit par l’activité volcanique.",
+  "quiz_answer": "sont constitués par l’ensemble des déchets produits par les activités domestiques.",
+  "def_term": "Compostage",
+  "def_text": "Le compostage est un processus biologique réalisé grâce aux micro-organismes aérobies, qui transforment la matière organique en un produit riche en composés humiques et en minéraux : le compost.",
+  "flash_front": "Quels sont les avantages du compostage ?",
+  "flash_back": "Le compostage permet : la valorisation des déchets organiques, la réduction du volume des déchets, et l'amélioration de la qualité du sol (structure, aération, capacité de rétention d'eau)."
 }
