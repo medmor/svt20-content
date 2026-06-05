@@ -1,15 +1,15 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "quiz_level": "2bac",
-  "quiz_unit": "unit3sp",
-  "quiz_question": "Les ordures ménagères :",
-  "quiz_option_a": "sont constitués par l’ensemble des déchets produits par l’industrie pétrolière.",
-  "quiz_option_b": "sont constitués par l’ensemble des déchets produits par les activités domestiques.",
-  "quiz_option_c": "sont constitués par l’ensemble des déchets produit par l’industrie nucléaire.",
-  "quiz_option_d": "sont constitués par l’ensemble des déchets produit par l’activité volcanique.",
-  "quiz_answer": "sont constitués par l’ensemble des déchets produits par les activités domestiques.",
-  "def_term": "Compostage",
-  "def_text": "Le compostage est un processus biologique réalisé grâce aux micro-organismes aérobies, qui transforment la matière organique en un produit riche en composés humiques et en minéraux : le compost.",
-  "flash_front": "Quels sont les avantages du compostage ?",
-  "flash_back": "Le compostage permet : la valorisation des déchets organiques, la réduction du volume des déchets, et l'amélioration de la qualité du sol (structure, aération, capacité de rétention d'eau)."
+  "quiz_unit": "unit4",
+  "quiz_question": "Laquelle des propositions suivantes décrit le mieux le flux génique :",
+  "quiz_option_a": "fécondation aléatoire.",
+  "quiz_option_b": "migration.",
+  "quiz_option_c": "dérive génétique.",
+  "quiz_option_d": "sélection.",
+  "quiz_answer": "migration.",
+  "def_term": "Pool génique",
+  "def_text": "Ensemble des allèles qui se trouvent sur les locus des gènes des chromosomes de tous les individus d'une population. C'est le génome collectif d'une population.",
+  "flash_front": "Quelle est la formule des fréquences génotypiques dans une population en équilibre de Hardy-Weinberg (avec deux allèles A et a de fréquences p et q) ?",
+  "flash_back": "f(AA) = p² ; f(Aa) = 2pq ; f(aa) = q². La somme donne (p+q)² = 1."
 }
