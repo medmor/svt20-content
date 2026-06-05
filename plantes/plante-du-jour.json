@@ -1,0 +1,13 @@
+{
+  "slug": "figuier-sacre",
+  "name": "Figuier sacré",
+  "scientific_name": "Ficus religiosa",
+  "family": "Moraceae",
+  "image": "/plantes/images/figuier-sacre.webp",
+  "benefits": [
+    "Soulage les symptômes de l'asthme",
+    "Améliore la santé digestive et stimule l'appétit",
+    "Propriétés anti-inflammatoires pour la peau (eczéma, démangeaisons)"
+  ],
+  "has_full_article": true
+}
