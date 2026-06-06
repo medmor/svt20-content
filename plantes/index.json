@@ -7,5 +7,14 @@
     "summary": "Arbre sacré aux multiples propriétés médicinales, utilisé en médecine ayurvédique pour traiter l'asthme, les troubles digestifs et les affections cutanées.",
     "image": "/plantes/images/figuier-sacre.jpg",
     "tags": ["asthme", "digestion", "peau", "ayurvédique", "arbre-sacre"]
+  },
+  {
+    "slug": "moringa",
+    "name": "Moringa",
+    "scientific_name": "Moringa oleifera",
+    "family": "Moringaceae",
+    "summary": "L'arbre miracle, exceptionnel par sa richesse nutritionnelle : feuilles comestibles ultra-riches en vitamines, protéines, fer et antioxydants, utilisées aussi pour purifier l'eau.",
+    "image": "/plantes/images/moringa.jpg",
+    "tags": ["nutrition", "antioxydants", "système-immunitaire", "eau", "Afrique", "Inde"]
   }
 ]
