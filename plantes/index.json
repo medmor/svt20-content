@@ -16,5 +16,14 @@
     "summary": "L'arbre miracle, exceptionnel par sa richesse nutritionnelle : feuilles comestibles ultra-riches en vitamines, protéines, fer et antioxydants, utilisées aussi pour purifier l'eau.",
     "image": "/plantes/images/moringa.jpg",
     "tags": ["nutrition", "antioxydants", "système-immunitaire", "eau", "Afrique", "Inde"]
+  },
+  {
+    "slug": "thym",
+    "name": "Thym",
+    "scientific_name": "Thymus vulgaris",
+    "family": "Lamiaceae",
+    "summary": "Plante aromatique méditerranéenne aux puissantes propriétés antiseptiques et antibactériennes, utilisée depuis l'Antiquité en cuisine et en phytothérapie.",
+    "image": "/plantes/images/thym.webp",
+    "tags": ["antiseptique", "respiratoire", "digestion", "aromatique", "Méditerranée", "thymol"]
   }
 ]
