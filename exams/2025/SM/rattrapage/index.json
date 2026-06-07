@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "generated": "2026-06-07T15:30:00.000Z",
+  "exam": {
+    "id": "2025-sm-rattrapage",
+    "session": "Rattrapage",
+    "date": "2025-07-01",
+    "duration": "2",
+    "branch": "SM",
+    "image": "https://medmor.github.io/svt20-content/images/exams/sm/2025RattrapageSM/1.jpg"
+  },
+  "exercises": [
+    {
+      "slug": "partie-I",
+      "title": "Partie I : Restitution des connaissances (5 points)",
+      "path": "partie-I.html",
+      "type": "partie",
+      "number": 0,
+      "hasCorrection": true
+    },
+    {
+      "slug": "exercice-1",
+      "title": "Exercice 1 (4.5 points)",
+      "path": "exercice-1.html",
+      "type": "exercice",
+      "number": 1,
+      "hasCorrection": true
+    },
+    {
+      "slug": "exercice-2",
+      "title": "Exercice 2 (5.5 points)",
+      "path": "exercice-2.html",
+      "type": "exercice",
+      "number": 2,
+      "hasCorrection": true
+    },
+    {
+      "slug": "exercice-3",
+      "title": "Exercice 3 (5 points)",
+      "path": "exercice-3.html",
+      "type": "exercice",
+      "number": 3,
+      "hasCorrection": true
+    }
+  ]
+}
