@@ -25,5 +25,14 @@
     "summary": "Plante aromatique méditerranéenne aux puissantes propriétés antiseptiques et antibactériennes, utilisée depuis l'Antiquité en cuisine et en phytothérapie.",
     "image": "/plantes/images/thym.webp",
     "tags": ["antiseptique", "respiratoire", "digestion", "aromatique", "Méditerranée", "thymol"]
+  },
+  {
+    "slug": "pivoine",
+    "name": "Pivoine",
+    "scientific_name": "Paeonia",
+    "family": "Paeoniaceae",
+    "summary": "Plante vivace aux fleurs majestueuses et parfumées, utilisée depuis l'Antiquité gréco-latine et la médecine chinoise pour ses propriétés antispasmodiques, anti-inflammatoires et analgésiques.",
+    "image": "/plantes/images/pivoine.jpg",
+    "tags": ["antispasmodique", "anti-inflammatoire", "analgésique", "médecine-chinoise", "Antiquité", "cicatrisation"]
   }
 ]
