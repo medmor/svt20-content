@@ -34,5 +34,14 @@
     "summary": "Plante vivace aux fleurs majestueuses et parfumées, utilisée depuis l'Antiquité gréco-latine et la médecine chinoise pour ses propriétés antispasmodiques, anti-inflammatoires et analgésiques.",
     "image": "/plantes/images/pivoine.jpg",
     "tags": ["antispasmodique", "anti-inflammatoire", "analgésique", "médecine-chinoise", "Antiquité", "cicatrisation"]
+  },
+  {
+    "slug": "fraisier",
+    "name": "Fraisier",
+    "scientific_name": "Fragaria",
+    "family": "Rosaceae",
+    "summary": "Plante vivace aux fruits rouges exceptionnellement riches en vitamine C et en antioxydants, reconnue pour ses bienfaits cardiovasculaires, anti-inflammatoires et son faible index glycémique.",
+    "image": "/plantes/images/fraisier.jpg",
+    "tags": ["vitamine-C", "antioxydants", "cardiovasculaire", "anti-inflammatoire", "peau", "calendrier-républicain"]
   }
 ]
