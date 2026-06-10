@@ -43,5 +43,14 @@
     "summary": "Plante vivace aux fruits rouges exceptionnellement riches en vitamine C et en antioxydants, reconnue pour ses bienfaits cardiovasculaires, anti-inflammatoires et son faible index glycémique.",
     "image": "/plantes/images/fraisier.jpg",
     "tags": ["vitamine-C", "antioxydants", "cardiovasculaire", "anti-inflammatoire", "peau", "calendrier-républicain"]
+  },
+  {
+    "slug": "menthe",
+    "name": "Menthe",
+    "scientific_name": "Mentha spicata",
+    "family": "Lamiaceae",
+    "summary": "Plante aromatique emblématique du Maroc, aux propriétés digestives et rafraîchissantes. Riche en menthol et flavonoïdes, utilisée en cuisine, phytothérapie et cosmétique.",
+    "image": "/plantes/images/menthe.jpg",
+    "tags": ["digestion", "menthol", "aromatique", "Lamiaceae", "thé-marocain", "antispasmodique", "rafraîchissant"]
   }
 ]

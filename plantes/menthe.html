@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Menthe - Plante du Jour | SVT20</title>
+  <meta name="description" content="La Menthe (Mentha spicata) : plante aromatique emblématique du Maroc, aux propriétés digestives et rafraîchissantes. Découvrez ses bienfaits et usages en phytothérapie.">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      line-height: 1.8;
+      color: #1a1a1a;
+      background: linear-gradient(135deg, #f5f7fa 0%, #e8f4e8 100%);
+      padding: 2rem 1rem;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+      overflow: hidden;
+    }
+    .header {
+      background: linear-gradient(135deg, #2d6a4f 0%, #52b788 100%);
+      color: white;
+      padding: 3rem 2rem;
+      text-align: center;
+    }
+    .header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+      font-weight: 700;
+    }
+    .header .scientific {
+      font-style: italic;
+      font-size: 1.3rem;
+      opacity: 0.95;
+      font-weight: 400;
+    }
+    .header .family {
+      background: rgba(255,255,255,0.2);
+      padding: 0.3rem 1rem;
+      border-radius: 20px;
+      display: inline-block;
+      margin-top: 0.8rem;
+      font-size: 0.95rem;
+    }
+    .image-container {
+      width: 100%;
+      height: 400px;
+      overflow: hidden;
+      background: #f8f9fa;
+    }
+    .image-container img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .content {
+      padding: 2.5rem;
+    }
+    .intro {
+      font-size: 1.2rem;
+      color: #2d6a4f;
+      margin-bottom: 2rem;
+      padding-bottom: 2rem;
+      border-bottom: 2px solid #e8f4e8;
+      line-height: 1.7;
+    }
+    .section {
+      margin-bottom: 2.5rem;
+    }
+    .section h2 {
+      color: #2d6a4f;
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .section h2::before {
+      content: '🌿';
+      font-size: 1.3rem;
+    }
+    .section p {
+      margin-bottom: 1rem;
+      text-align: justify;
+    }
+    .benefits {
+      background: #f8f9fa;
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin: 1.5rem 0;
+    }
+    .benefits ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    .benefits li {
+      padding: 0.7rem 0;
+      padding-left: 2rem;
+      position: relative;
+      border-bottom: 1px solid #e8f4e8;
+    }
+    .benefits li:last-child {
+      border-bottom: none;
+    }
+    .benefits li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: #52b788;
+      font-weight: bold;
+    }
+    .uses {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+    .use-card {
+      background: linear-gradient(135deg, #e8f4e8 0%, #d4edda 100%);
+      padding: 1.2rem;
+      border-radius: 10px;
+      text-align: center;
+      border: 1px solid #c3e6cb;
+    }
+    .use-card h3 {
+      color: #2d6a4f;
+      font-size: 1.1rem;
+      margin-bottom: 0.5rem;
+    }
+    .use-card p {
+      font-size: 0.9rem;
+      color: #555;
+      text-align: center;
+    }
+    .svt-note {
+      background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%);
+      border-left: 4px solid #f39c12;
+      padding: 1.5rem;
+      border-radius: 0 10px 10px 0;
+      margin: 2rem 0;
+    }
+    .svt-note h3 {
+      color: #d68910;
+      margin-bottom: 0.8rem;
+      font-size: 1.1rem;
+    }
+    .svt-note p {
+      color: #856404;
+      font-size: 0.95rem;
+      text-align: left;
+    }
+    .footer {
+      background: #f8f9fa;
+      padding: 1.5rem 2.5rem;
+      text-align: center;
+      color: #666;
+      font-size: 0.9rem;
+      border-top: 1px solid #e8f4e8;
+    }
+    .footer a {
+      color: #2d6a4f;
+      text-decoration: none;
+    }
+    .footer a:hover {
+      text-decoration: underline;
+    }
+    @media (max-width: 600px) {
+      .header h1 {
+        font-size: 2rem;
+      }
+      .content {
+        padding: 1.5rem;
+      }
+      .image-container {
+        height: 250px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Menthe</h1>
+      <p class="scientific">Mentha spicata</p>
+      <span class="family">Famille : Lamiaceae</span>
+    </div>
+
+    <div class="image-container">
+      <img src="images/menthe.jpg" alt="Plante de menthe fraîche">
+    </div>
+
+    <div class="content">
+      <div class="intro">
+        <strong>Plante aromatique emblématique du Maroc</strong>, la menthe est bien plus qu'un simple ingrédient du thé traditionnel. Cultivée depuis l'Antiquité, elle combine saveur rafraîchissante et vertus médicinales reconnues par la science moderne.
+      </div>
+
+      <div class="section">
+        <h2>Présentation botanique</h2>
+        <p>
+          La menthe (<em>Mentha spicata</em>, ou menthe verte) est une plante herbacée vivace de la famille des <strong>Lamiaceae</strong>, la même que le thym, le romarin et la lavande. Elle se caractérise par ses feuilles opposées, dentelées, et ses tiges carrées typiques de cette famille.
+        </p>
+        <p>
+          Originaire d'Europe et d'Asie, la menthe s'est naturalisée dans le monde entier. Au Maroc, elle est cultivée intensivement dans les régions du Nord et est omniprésente dans les jardins familiaux.
+        </p>
+      </div>
+
+      <div class="section">
+        <h2>Composition et principes actifs</h2>
+        <p>La menthe doit ses propriétés à une richesse exceptionnelle en composés bioactifs :</p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Menthol (30-50%)</strong> : responsable de l'effet rafraîchissant et des propriétés antispasmodiques</li>
+            <li><strong>Carvone</strong> : composé aromatique majeur de la menthe verte</li>
+            <li><strong>Flavonoïdes</strong> : antioxydants puissants (lutéoline, ériocitrine)</li>
+            <li><strong>Acides phénoliques</strong> : acide rosmarinique aux propriétés anti-inflammatoires</li>
+            <li><strong>Tanins</strong> : astringents et antioxydants</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Propriétés médicinales</h2>
+        <p>Reconnue par l'OMS et l'EMA (Agence européenne du médicament), la menthe possède de multiples vertus thérapeutiques :</p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Digestive</strong> : soulage les nausées, ballonnements et spasmes gastriques</li>
+            <li><strong>Antispasmodique</strong> : détend les muscles lisses du tube digestif</li>
+            <li><strong>Antimicrobienne</strong> : active contre bactéries et champignons</li>
+            <li><strong>Décongestionnante</strong> : libère les voies respiratoires</li>
+            <li><strong>Stimulante cognitive</strong> : améliore la concentration et la vigilance</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Usages traditionnels et modernes</h2>
+        <div class="uses">
+          <div class="use-card">
+            <h3>🍵 Boisson</h3>
+            <p>Thé à la menthe marocain, infusions digestives</p>
+          </div>
+          <div class="use-card">
+            <h3>🍽️ Cuisine</h3>
+            <p>Salades, tajines, sauces, desserts</p>
+          </div>
+          <div class="use-card">
+            <h3>💊 Phytothérapie</h3>
+            <p>Huile essentielle, gélules, tisanes</p>
+          </div>
+          <div class="use-card">
+            <h3>🧴 Cosmétique</h3>
+            <p>Soins bucco-dentaires, produits rafraîchissants</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="svt-note">
+        <h3>📚 Intérêt pédagogique SVT</h3>
+        <p>
+          La menthe illustre parfaitement plusieurs concepts du programme : <strong>adaptation des plantes aromatiques</strong> (production de métabolites secondaires), <strong>multiplication végétative</strong> (stolons), <strong>système racinaire traçant</strong>, et l'importance des <strong>Lamiaceae</strong> en écologie méditerranéenne. C'est aussi un excellent exemple d'interaction homme-plante dans un contexte culturel marocain.
+        </p>
+      </div>
+
+      <div class="section">
+        <h2>Précautions d'usage</h2>
+        <p>
+          Bien que généralement sûre, la menthe doit être utilisée avec précaution dans certains cas : reflux gastro-œsophagien (peut aggraver les symptômes), calculs biliaires, et chez les jeunes enfants (risque de spasme laryngé avec le menthol pur). L'huile essentielle nécessite une dilution et un avis médical.
+        </p>
+      </div>
+    </div>
+
+    <div class="footer">
+      <p>Plante du Jour — 10 juin 2026 | <a href="https://svt20.com">SVT20.com</a></p>
+      <p>Source : Wikipedia — <a href="https://fr.wikipedia.org/wiki/Menthe" target="_blank">Menthe</a></p>
+    </div>
+  </div>
+</body>
+</html>
