@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Olivier - Plante du Jour | SVT20</title>
+  <meta name="description" content="L'Olivier (Olea europaea) : arbre millénaire symbolique du bassin méditerranéen, aux multiples usages alimentaires, médicinaux et culturels. Découvrez ses bienfaits et son importance écologique.">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      line-height: 1.8;
+      color: #1a1a1a;
+      background: linear-gradient(135deg, #f5f7fa 0%, #f0f4e8 100%);
+      padding: 2rem 1rem;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+      overflow: hidden;
+    }
+    .header {
+      background: linear-gradient(135deg, #556b2f 0%, #8fbc8f 100%);
+      color: white;
+      padding: 3rem 2rem;
+      text-align: center;
+    }
+    .header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+      font-weight: 700;
+    }
+    .header .scientific {
+      font-style: italic;
+      font-size: 1.3rem;
+      opacity: 0.95;
+      font-weight: 400;
+    }
+    .header .family {
+      background: rgba(255,255,255,0.2);
+      padding: 0.3rem 1rem;
+      border-radius: 20px;
+      display: inline-block;
+      margin-top: 0.8rem;
+      font-size: 0.95rem;
+    }
+    .image-container {
+      width: 100%;
+      height: 400px;
+      overflow: hidden;
+      background: #f8f9fa;
+    }
+    .image-container img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .content {
+      padding: 2.5rem;
+    }
+    .intro {
+      font-size: 1.2rem;
+      color: #556b2f;
+      margin-bottom: 2rem;
+      padding-bottom: 2rem;
+      border-bottom: 2px solid #e8f0e0;
+      line-height: 1.7;
+    }
+    .section {
+      margin-bottom: 2.5rem;
+    }
+    .section h2 {
+      color: #556b2f;
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .section h2::before {
+      content: '🫒';
+      font-size: 1.3rem;
+    }
+    .section p {
+      margin-bottom: 1rem;
+      text-align: justify;
+    }
+    .benefits {
+      background: #f8f9fa;
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin: 1.5rem 0;
+    }
+    .benefits ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    .benefits li {
+      padding: 0.7rem 0;
+      padding-left: 2rem;
+      position: relative;
+      border-bottom: 1px solid #e8f0e0;
+    }
+    .benefits li:last-child {
+      border-bottom: none;
+    }
+    .benefits li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: #8fbc8f;
+      font-weight: bold;
+    }
+    .uses {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+    .use-card {
+      background: linear-gradient(135deg, #e8f0e0 0%, #d4e8d0 100%);
+      padding: 1.2rem;
+      border-radius: 10px;
+      text-align: center;
+      border: 1px solid #c8d8c0;
+    }
+    .use-card h3 {
+      color: #556b2f;
+      font-size: 1.1rem;
+      margin-bottom: 0.5rem;
+    }
+    .use-card p {
+      font-size: 0.9rem;
+      color: #555;
+      text-align: center;
+    }
+    .svt-note {
+      background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%);
+      border-left: 4px solid #f39c12;
+      padding: 1.5rem;
+      border-radius: 0 10px 10px 0;
+      margin: 2rem 0;
+    }
+    .svt-note h3 {
+      color: #d68910;
+      margin-bottom: 0.8rem;
+      font-size: 1.1rem;
+    }
+    .svt-note p {
+      color: #856404;
+      font-size: 0.95rem;
+      text-align: left;
+    }
+    .fact-box {
+      background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin: 1.5rem 0;
+      border: 1px solid #90caf9;
+    }
+    .fact-box h3 {
+      color: #1565c0;
+      margin-bottom: 0.8rem;
+      font-size: 1.1rem;
+    }
+    .fact-box p {
+      color: #0d47a1;
+      font-size: 0.95rem;
+      text-align: left;
+    }
+    .footer {
+      background: #f8f9fa;
+      padding: 1.5rem 2.5rem;
+      text-align: center;
+      color: #666;
+      font-size: 0.9rem;
+      border-top: 1px solid #e8f0e0;
+    }
+    .footer a {
+      color: #556b2f;
+      text-decoration: none;
+    }
+    .footer a:hover {
+      text-decoration: underline;
+    }
+    @media (max-width: 600px) {
+      .header h1 {
+        font-size: 2rem;
+      }
+      .content {
+        padding: 1.5rem;
+      }
+      .image-container {
+        height: 250px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Olivier</h1>
+      <p class="scientific">Olea europaea</p>
+      <span class="family">Famille : Oleaceae</span>
+    </div>
+
+    <div class="image-container">
+      <img src="images/olivier.jpg" alt="Olives sur branche d'olivier">
+    </div>
+
+    <div class="content">
+      <div class="intro">
+        <strong>Symbole millénaire du bassin méditerranéen</strong>, l'olivier est bien plus qu'un arbre : c'est un patrimoine culturel, une source nutritionnelle exceptionnelle et un modèle d'adaptation aux climats arides. Cultivé depuis 6000 ans, il reste aujourd'hui crucial pour l'économie et l'écologie méditerranéennes.
+      </div>
+
+      <div class="section">
+        <h2>Présentation botanique</h2>
+        <p>
+          L'olivier (<em>Olea europaea</em>) est un arbre à feuillage persistant de la famille des <strong>Oleaceae</strong>. Il se caractérise par ses feuilles coriaces, lancéolées, vert-grisâtre sur le dessus et argentées au revers — une adaptation à la sécheresse qui réduit l'évapotranspiration.
+        </p>
+        <p>
+          Originaire du bassin méditerranéen, l'olivier peut vivre plusieurs siècles, voire millénaires. Certains spécimens en Tunisie, Grèce et Palestine dépassent les 2000 ans. Son tronc noueux et creux témoigne de sa longévité exceptionnelle.
+        </p>
+      </div>
+
+      <div class="section">
+        <h2>Adaptation xérophyte</h2>
+        <p>L'olivier est un modèle d'adaptation aux environnements arides :</p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Feuilles sclérophylles</strong> : épaisses, cuticule cireuse, stomates enfoncés</li>
+            <li><strong>Système racinaire profond</strong> : explore le sol jusqu'à 6 mètres de profondeur</li>
+            <li><strong>Réduction de la transpiration</strong> : feuilles orientées pour limiter l'exposition solaire</li>
+            <li><strong>Réserve hydrique</strong> : tissus capables de stocker l'eau</li>
+            <li><strong>Tolérance à la salinité</strong> : peut pousser dans des sols marginaux</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Composition nutritionnelle de l'huile d'olive</h2>
+        <p>L'huile d'olive extra-vierge est un trésor nutritionnel :</p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Acides gras mono-insaturés (73%)</strong> : acide oléique (oméga-9), cardioprotecteur</li>
+            <li><strong>Antioxydants puissants</strong> : polyphénols (oléocanthal, hydroxytyrosol)</li>
+            <li><strong>Vitamine E (tocophérols)</strong> : protège les lipides de l'oxydation</li>
+            <li><strong>Composés anti-inflammatoires</strong> : oléocanthal (effet similaire à l'ibuprofène)</li>
+            <li><strong>Stérols végétaux</strong> : réduisent l'absorption du cholestérol</li>
+          </ul>
+        </div>
+        <div class="fact-box">
+          <h3>💡 Le saviez-vous ?</h3>
+          <p>
+            L'oléocanthal, composé majeur de l'huile d'olive extra-vierge, provoque cette sensation de picotement dans la gorge — signe de qualité et de fraîcheur. C'est un anti-inflammatoire naturel aussi puissant que l'ibuprofène à dose équivalente !
+          </p>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Propriétés médicinales et santé</h2>
+        <p>Reconnue par l'EFSA (Autorité européenne de sécurité des aliments), l'huile d'olive offre de multiples bienfaits :</p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Santé cardiovasculaire</strong> : réduit LDL, augmente HDL, protège l'endothélium</li>
+            <li><strong>Effet antioxydant</strong> : lutte contre le stress oxydatif et le vieillissement cellulaire</li>
+            <li><strong>Anti-inflammatoire</strong> : prévient les maladies chroniques (diabète, cancer)</li>
+            <li><strong>Santé digestive</strong> : stimule la sécrétion biliaire, laxatif doux</li>
+            <li><strong>Protection cognitive</strong> : réduit le risque de maladies neurodégénératives (Alzheimer)</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Usages traditionnels et modernes</h2>
+        <div class="uses">
+          <div class="use-card">
+            <h3>🍽️ Alimentaire</h3>
+            <p>Huile d'olive, olives de table, cosmétique</p>
+          </div>
+          <div class="use-card">
+            <h3>💊 Médicinal</h3>
+            <p>Huiles essentielles, extraits de feuilles</p>
+          </div>
+          <div class="use-card">
+            <h3>🧴 Cosmétique</h3>
+            <p>Savons, crèmes, soins capillaires</p>
+          </div>
+          <div class="use-card">
+            <h3>🪵 Artisanal</h3>
+            <p>Bois sculpté, combustible, ornements</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="svt-note">
+        <h3>📚 Intérêt pédagogique SVT</h3>
+        <p>
+          L'olivier illustre parfaitement plusieurs concepts du programme : <strong>adaptation xérophyte</strong> (feuilles sclérophylles, système racinaire), <strong>photosynthèse en milieu aride</strong>, <strong>longévité végétale</strong>, et l'importance écologique des <strong>forêts méditerranéennes</strong>. C'est aussi un excellent exemple de <strong>coévolution homme-plante</strong> et de patrimoine agroalimentaire marocain (régions de Meknès, Fès, Marrakech).
+        </p>
+      </div>
+
+      <div class="section">
+        <h2>L'olivier au Maroc</h2>
+        <p>
+          Le Maroc est le <strong>2ᵉ producteur mondial</strong> d'huile d'olive en Afrique et le <strong>7ᵉ mondial</strong>. Les principales régions oléicoles sont Meknès-Tafilalet, Fès-Boulemane, Marrakech-Tensift et Taza-Al Hoceima. L'olivier occupe plus de 580 000 hectares et constitue une source cruciale de revenus pour les populations rurales.
+        </p>
+      </div>
+
+      <div class="section">
+        <h2>Précautions d'usage</h2>
+        <p>
+          L'huile d'olive est généralement sûre et bénéfique. Cependant, elle reste calorique (900 kcal/100g) et doit être consommée avec modération dans un régime équilibré. Les olives de table sont riches en sel (saumure) — à limiter en cas d'hypertension. L'huile d'olive ne convient pas pour les fritures à très haute température (point de fumée ~210°C).
+        </p>
+      </div>
+    </div>
+
+    <div class="footer">
+      <p>Plante du Jour — 11 juin 2026 | <a href="https://svt20.com">SVT20.com</a></p>
+      <p>Source : Wikipedia — <a href="https://fr.wikipedia.org/wiki/Olivier" target="_blank">Olivier</a></p>
+    </div>
+  </div>
+</body>
+</html>

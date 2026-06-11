@@ -52,5 +52,14 @@
     "summary": "Plante aromatique emblématique du Maroc, aux propriétés digestives et rafraîchissantes. Riche en menthol et flavonoïdes, utilisée en cuisine, phytothérapie et cosmétique.",
     "image": "/plantes/images/menthe.jpg",
     "tags": ["digestion", "menthol", "aromatique", "Lamiaceae", "thé-marocain", "antispasmodique", "rafraîchissant"]
+  },
+  {
+    "slug": "olivier",
+    "name": "Olivier",
+    "scientific_name": "Olea europaea",
+    "family": "Oleaceae",
+    "summary": "Arbre millénaire symbolique du bassin méditerranéen, adapté aux climats arides. Source d'huile d'olive aux vertus cardiovasculaires et antioxydantes exceptionnelles.",
+    "image": "/plantes/images/olivier.jpg",
+    "tags": ["xérophyte", "oléiculture", "cardiovasculaire", "antioxydant", "Méditerranée", "Maroc", "longévité"]
   }
 ]
