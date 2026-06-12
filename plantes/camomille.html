@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Camomille - Plante du Jour | SVT20</title>
+  <meta name="description" content="La Camomille (Matricaria recutita) : plante médicinale apaisante aux propriétés calmantes, anti-inflammatoires et digestives. Découvrez ses bienfaits et usages en phytothérapie.">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      line-height: 1.8;
+      color: #1a1a1a;
+      background: linear-gradient(135deg, #fef9e7 0%, #fff8e1 100%);
+      padding: 2rem 1rem;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+      overflow: hidden;
+    }
+    .header {
+      background: linear-gradient(135deg, #f9a825 0%, #fdd835 100%);
+      color: white;
+      padding: 3rem 2rem;
+      text-align: center;
+      text-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    }
+    .header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+      font-weight: 700;
+    }
+    .header .scientific {
+      font-style: italic;
+      font-size: 1.3rem;
+      opacity: 0.95;
+      font-weight: 400;
+    }
+    .header .family {
+      background: rgba(255,255,255,0.25);
+      padding: 0.3rem 1rem;
+      border-radius: 20px;
+      display: inline-block;
+      margin-top: 0.8rem;
+      font-size: 0.95rem;
+    }
+    .image-container {
+      width: 100%;
+      height: 400px;
+      overflow: hidden;
+      background: #f8f9fa;
+    }
+    .image-container img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .content {
+      padding: 2.5rem;
+    }
+    .intro {
+      font-size: 1.2rem;
+      color: #f9a825;
+      margin-bottom: 2rem;
+      padding-bottom: 2rem;
+      border-bottom: 2px solid #fff8e1;
+      line-height: 1.7;
+    }
+    .section {
+      margin-bottom: 2.5rem;
+    }
+    .section h2 {
+      color: #f9a825;
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .section h2::before {
+      content: '🌼';
+      font-size: 1.3rem;
+    }
+    .section p {
+      margin-bottom: 1rem;
+      text-align: justify;
+    }
+    .benefits {
+      background: #fffef5;
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin: 1.5rem 0;
+      border: 1px solid #fdd835;
+    }
+    .benefits ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    .benefits li {
+      padding: 0.7rem 0;
+      padding-left: 2rem;
+      position: relative;
+      border-bottom: 1px solid #fff8e1;
+    }
+    .benefits li:last-child {
+      border-bottom: none;
+    }
+    .benefits li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: #f9a825;
+      font-weight: bold;
+    }
+    .uses {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+    .use-card {
+      background: linear-gradient(135deg, #fff8e1 0%, #ffecb3 100%);
+      padding: 1.2rem;
+      border-radius: 10px;
+      text-align: center;
+      border: 1px solid #ffe082;
+    }
+    .use-card h3 {
+      color: #f9a825;
+      font-size: 1.1rem;
+      margin-bottom: 0.5rem;
+    }
+    .use-card p {
+      font-size: 0.9rem;
+      color: #555;
+      text-align: center;
+    }
+    .svt-note {
+      background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%);
+      border-left: 4px solid #f39c12;
+      padding: 1.5rem;
+      border-radius: 0 10px 10px 0;
+      margin: 2rem 0;
+    }
+    .svt-note h3 {
+      color: #d68910;
+      margin-bottom: 0.8rem;
+      font-size: 1.1rem;
+    }
+    .svt-note p {
+      color: #856404;
+      font-size: 0.95rem;
+      text-align: left;
+    }
+    .fact-box {
+      background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin: 1.5rem 0;
+      border: 1px solid #a5d6a7;
+    }
+    .fact-box h3 {
+      color: #2e7d32;
+      margin-bottom: 0.8rem;
+      font-size: 1.1rem;
+    }
+    .fact-box p {
+      color: #1b5e20;
+      font-size: 0.95rem;
+      text-align: left;
+    }
+    .footer {
+      background: #f8f9fa;
+      padding: 1.5rem 2.5rem;
+      text-align: center;
+      color: #666;
+      font-size: 0.9rem;
+      border-top: 1px solid #fff8e1;
+    }
+    .footer a {
+      color: #f9a825;
+      text-decoration: none;
+    }
+    .footer a:hover {
+      text-decoration: underline;
+    }
+    @media (max-width: 600px) {
+      .header h1 {
+        font-size: 2rem;
+      }
+      .content {
+        padding: 1.5rem;
+      }
+      .image-container {
+        height: 250px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Camomille</h1>
+      <p class="scientific">Matricaria recutita</p>
+      <span class="family">Famille : Asteraceae</span>
+    </div>
+
+    <div class="image-container">
+      <img src="images/camomille.jpg" alt="Fleurs de camomille allemande">
+    </div>
+
+    <div class="content">
+      <div class="intro">
+        <strong>Reine des plantes apaisantes</strong>, la camomille est utilisée depuis l'Antiquité égyptienne et gréco-romaine pour ses vertus calmantes et digestives. Cette petite fleur blanche et jaune, humble en apparence, cache une richesse thérapeutique exceptionnelle reconnue par la médecine moderne.
+      </div>
+
+      <div class="section">
+        <h2>Présentation botanique</h2>
+        <p>
+          La camomille allemande (<em>Matricaria recutita</em>, syn. <em>Matricaria chamomilla</em>) est une plante herbacée annuelle de la famille des <strong>Asteraceae</strong> (Composées), la même que la marguerite, le tournesol et l'artichaut. Elle se caractérise par ses fleurs en capitules blancs à centre jaune conique.
+        </p>
+        <p>
+          Originaire d'Europe et d'Asie occidentale, la camomille pousse spontanément dans les champs, les chemins et les terrains perturbés. Elle est aujourd'hui cultivée dans le monde entier pour ses fleurs médicinales. Le nom <em>Matricaria</em> vient du latin <em>matrix</em> (utérus), référence à ses usages gynécologiques historiques.
+        </p>
+      </div>
+
+      <div class="section">
+        <h2>Composition et principes actifs</h2>
+        <p>La camomille doit ses propriétés à une composition biochimique remarquable :</p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Huile essentielle (0,4-1,5%)</strong> : riche en chamazulène (bleu) et bisabolol</li>
+            <li><strong>Flavonoïdes</strong> : apigénine (sédative), lutéoline, quercétine</li>
+            <li><strong>Coumarines</strong> : umbelliférone aux propriétés antispasmodiques</li>
+            <li><strong>Acides phénoliques</strong> : acide chlorogénique, antioxydant</li>
+            <li><strong>Mucilages</strong> : adoucissants pour les muqueuses</li>
+          </ul>
+        </div>
+        <div class="fact-box">
+          <h3>💡 Le saviez-vous ?</h3>
+          <p>
+            L'huile essentielle de camomille contient du <strong>chamazulène</strong>, un composé bleu intense qui se forme lors de la distillation. C'est ce qui donne à l'huile sa couleur bleue caractéristique — un rare exemple de pigment bleu dans le règne végétal médicinal !
+          </p>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Propriétés médicinales</h2>
+        <p>Reconnue par l'OMS, l'EMA et la Commission E allemande, la camomille possède de multiples vertus thérapeutiques :</p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Sédative et anxiolytique</strong> : l'apigénine se lie aux récepteurs GABA, favorisant le sommeil</li>
+            <li><strong>Anti-inflammatoire</strong> : le bisabolol et le chamazulène inhibent les prostaglandines</li>
+            <li><strong>Antispasmodique digestive</strong> : détend les muscles lisses de l'intestin</li>
+            <li><strong>Cicatrisante et antiseptique</strong> : accélère la guérison des plaies et muqueuses</li>
+            <li><strong>Antiallergique</strong> : inhibe la libération d'histamine</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Usages traditionnels et modernes</h2>
+        <div class="uses">
+          <div class="use-card">
+            <h3>🍵 Infusion</h3>
+            <p>Tisane du soir, digestion, relaxation</p>
+          </div>
+          <div class="use-card">
+            <h3>💊 Phytothérapie</h3>
+            <p>Gélules, teinture-mère, extraits</p>
+          </div>
+          <div class="use-card">
+            <h3>🧴 Cosmétique</h3>
+            <p>Crèmes apaisantes, soins pour bébés</p>
+          </div>
+          <div class="use-card">
+            <h3>👁️ Ophtalmique</h3>
+            <p>Compresses pour yeux fatigués</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="svt-note">
+        <h3>📚 Intérêt pédagogique SVT</h3>
+        <p>
+          La camomille illustre parfaitement plusieurs concepts du programme : <strong>famille des Asteraceae</strong> (fleurs composées en capitules), <strong>métabolites secondaires</strong> (flavonoïdes, terpènes), <strong>plante médicinale</strong> et pharmacognosie, et l'importance des <strong>composés aromatiques</strong> dans la défense végétale. C'est aussi un excellent exemple de <strong>validation scientifique des usages traditionnels</strong> — l'apigénine a été isolée et son mécanisme d'action sur les récepteurs GABA élucidé.
+        </p>
+      </div>
+
+      <div class="section">
+        <h2>Indications thérapeutiques</h2>
+        <p>La camomille est indiquée dans de nombreuses situations :</p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Troubles du sommeil</strong> : insomnie légère, difficultés d'endormissement</li>
+            <li><strong>Anxiété et stress</strong> : nervosité, irritabilité, tension nerveuse</li>
+            <li><strong>Troubles digestifs</strong> : ballonnements, coliques, gastrites, syndrome de l'intestin irritable</li>
+            <li><strong>Inflammations buccales</strong> : aphtes, gingivites, maux de gorge (en gargarisme)</li>
+            <li><strong>Irritations cutanées</strong> : eczéma, crevasses, hémorroïdes (en application locale)</li>
+            <li><strong>Inflammations oculaires</strong> : conjonctivite légère, yeux fatigués (en compresses)</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Mode d'emploi</h2>
+        <p>Voici les principales façons d'utiliser la camomille :</p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Infusion</strong> : 2-3 g de fleurs séchées dans 150 mL d'eau bouillante, 10 min d'infusion, 3-4 tasses/jour</li>
+            <li><strong>Teinture-mère</strong> : 30-40 gouttes, 3 fois/jour dans un peu d'eau</li>
+            <li><strong>Huile essentielle</strong> : 1-2 gouttes diluées dans une huile végétale, application locale (voie orale réservée aux professionnels)</li>
+            <li><strong>Compresses</strong> : infusion concentrée appliquée sur la zone concernée</li>
+            <li><strong>Gargarisme</strong> : infusion tiède pour les maux de gorge et inflammations buccales</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Précautions et contre-indications</h2>
+        <p>
+          La camomille est généralement sûre et bien tolérée. Cependant, quelques précautions s'imposent :
+        </p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Allergie aux Asteraceae</strong> : risque de réaction croisée (ambroisie, marguerite, arnica)</li>
+            <li><strong>Traitement anticoagulant</strong> : la camomille contient des coumarines (interaction potentielle)</li>
+            <li><strong>Grossesse et allaitement</strong> : usage alimentaire sûr, éviter les doses thérapeutiques élevées</li>
+            <li><strong>Chirurgie programmée</strong> : arrêter 2 semaines avant (effet anticoagulant potentiel)</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Camomille romaine vs allemande</h2>
+        <p>
+          Il existe deux espèces principales utilisées en phytothérapie :
+        </p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Camomille allemande</strong> (<em>Matricaria recutita</em>) : annuelle, plus riche en chamazulène, anti-inflammatoire puissant</li>
+            <li><strong>Camomille romaine</strong> (<em>Chamaemelum nobile</em>) : vivace, plus amère, plus sédative, utilisée en aromathérapie</li>
+          </ul>
+        </div>
+        <p>Les deux espèces sont interchangeables pour la plupart des usages, mais la camomille allemande est préférée pour les inflammations et la romaine pour la relaxation nerveuse.</p>
+      </div>
+    </div>
+
+    <div class="footer">
+      <p>Plante du Jour — 12 juin 2026 | <a href="https://svt20.com">SVT20.com</a></p>
+      <p>Source : Wikipedia — <a href="https://fr.wikipedia.org/wiki/Camomille" target="_blank">Camomille</a></p>
+    </div>
+  </div>
+</body>
+</html>

@@ -61,5 +61,14 @@
     "summary": "Arbre millénaire symbolique du bassin méditerranéen, adapté aux climats arides. Source d'huile d'olive aux vertus cardiovasculaires et antioxydantes exceptionnelles.",
     "image": "/plantes/images/olivier.jpg",
     "tags": ["xérophyte", "oléiculture", "cardiovasculaire", "antioxydant", "Méditerranée", "Maroc", "longévité"]
+  },
+  {
+    "slug": "camomille",
+    "name": "Camomille",
+    "scientific_name": "Matricaria recutita",
+    "family": "Asteraceae",
+    "summary": "Plante médicinale apaisante aux propriétés sédatives, anti-inflammatoires et digestives. Riche en apigénine et bisabolol, utilisée depuis l'Antiquité pour le sommeil et la digestion.",
+    "image": "/plantes/images/camomille.jpg",
+    "tags": ["sédative", "digestion", "apigénine", "Asteraceae", "anxiété", "cicatrisante", "tisane"]
   }
 ]
