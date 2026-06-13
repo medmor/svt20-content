@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ginkgo - Plante du Jour | SVT20</title>
+  <meta name="description" content="Le Ginkgo (Ginkgo biloba) : fossile vivant vieux de 200 millions d'années, unique représentant de son embranchement. Découvrez ses vertus neuroprotectrices et son histoire évolutive exceptionnelle.">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+      line-height: 1.8;
+      color: #1a1a1a;
+      background: linear-gradient(135deg, #f0f4e8 0%, #e8f0e0 100%);
+      padding: 2rem 1rem;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+      overflow: hidden;
+    }
+    .header {
+      background: linear-gradient(135deg, #4a6741 0%, #7d9f6b 100%);
+      color: white;
+      padding: 3rem 2rem;
+      text-align: center;
+    }
+    .header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+      font-weight: 700;
+    }
+    .header .scientific {
+      font-style: italic;
+      font-size: 1.3rem;
+      opacity: 0.95;
+      font-weight: 400;
+    }
+    .header .family {
+      background: rgba(255,255,255,0.2);
+      padding: 0.3rem 1rem;
+      border-radius: 20px;
+      display: inline-block;
+      margin-top: 0.8rem;
+      font-size: 0.95rem;
+    }
+    .image-container {
+      width: 100%;
+      height: 400px;
+      overflow: hidden;
+      background: #f8f9fa;
+    }
+    .image-container img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    .content {
+      padding: 2.5rem;
+    }
+    .intro {
+      font-size: 1.2rem;
+      color: #4a6741;
+      margin-bottom: 2rem;
+      padding-bottom: 2rem;
+      border-bottom: 2px solid #e8f0e0;
+      line-height: 1.7;
+    }
+    .section {
+      margin-bottom: 2.5rem;
+    }
+    .section h2 {
+      color: #4a6741;
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .section h2::before {
+      content: '🌳';
+      font-size: 1.3rem;
+    }
+    .section p {
+      margin-bottom: 1rem;
+      text-align: justify;
+    }
+    .benefits {
+      background: #f8f9fa;
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin: 1.5rem 0;
+    }
+    .benefits ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    .benefits li {
+      padding: 0.7rem 0;
+      padding-left: 2rem;
+      position: relative;
+      border-bottom: 1px solid #e8f0e0;
+    }
+    .benefits li:last-child {
+      border-bottom: none;
+    }
+    .benefits li::before {
+      content: '✓';
+      position: absolute;
+      left: 0;
+      color: #7d9f6b;
+      font-weight: bold;
+    }
+    .uses {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+    .use-card {
+      background: linear-gradient(135deg, #e8f0e0 0%, #d4e0d0 100%);
+      padding: 1.2rem;
+      border-radius: 10px;
+      text-align: center;
+      border: 1px solid #c8d4c0;
+    }
+    .use-card h3 {
+      color: #4a6741;
+      font-size: 1.1rem;
+      margin-bottom: 0.5rem;
+    }
+    .use-card p {
+      font-size: 0.9rem;
+      color: #555;
+      text-align: center;
+    }
+    .svt-note {
+      background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%);
+      border-left: 4px solid #f39c12;
+      padding: 1.5rem;
+      border-radius: 0 10px 10px 0;
+      margin: 2rem 0;
+    }
+    .svt-note h3 {
+      color: #d68910;
+      margin-bottom: 0.8rem;
+      font-size: 1.1rem;
+    }
+    .svt-note p {
+      color: #856404;
+      font-size: 0.95rem;
+      text-align: left;
+    }
+    .fact-box {
+      background: linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%);
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin: 1.5rem 0;
+      border: 1px solid #90caf9;
+    }
+    .fact-box h3 {
+      color: #1565c0;
+      margin-bottom: 0.8rem;
+      font-size: 1.1rem;
+    }
+    .fact-box p {
+      color: #0d47a1;
+      font-size: 0.95rem;
+      text-align: left;
+    }
+    .timeline {
+      background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%);
+      border-radius: 12px;
+      padding: 1.5rem;
+      margin: 1.5rem 0;
+      border: 1px solid #ce93d8;
+    }
+    .timeline h3 {
+      color: #7b1fa2;
+      margin-bottom: 1rem;
+      font-size: 1.1rem;
+    }
+    .timeline-item {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 0.8rem;
+      align-items: center;
+    }
+    .timeline-item::before {
+      content: '🕰️';
+      font-size: 1.2rem;
+    }
+    .timeline-item strong {
+      color: #4a148c;
+      min-width: 80px;
+    }
+    .timeline-item span {
+      color: #6a1b9a;
+    }
+    .footer {
+      background: #f8f9fa;
+      padding: 1.5rem 2.5rem;
+      text-align: center;
+      color: #666;
+      font-size: 0.9rem;
+      border-top: 1px solid #e8f0e0;
+    }
+    .footer a {
+      color: #4a6741;
+      text-decoration: none;
+    }
+    .footer a:hover {
+      text-decoration: underline;
+    }
+    @media (max-width: 600px) {
+      .header h1 {
+        font-size: 2rem;
+      }
+      .content {
+        padding: 1.5rem;
+      }
+      .image-container {
+        height: 250px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Ginkgo</h1>
+      <p class="scientific">Ginkgo biloba</p>
+      <span class="family">Famille : Ginkgoaceae</span>
+    </div>
+
+    <div class="image-container">
+      <img src="images/ginkgo.jpg" alt="Arbre de Ginkgo biloba avec feuilles en éventail">
+    </div>
+
+    <div class="content">
+      <div class="intro">
+        <strong>Fossile vivant le plus célèbre du règne végétal</strong>, le Ginkgo biloba est un arbre unique au monde : seul représentant actuel d'un embranchement entier (les Ginkgophyta) qui dominait les forêts il y a 200 millions d'années. Symbole de résilience et de longévité, il est aujourd'hui cultivé pour ses vertus neuroprotectrices exceptionnelles.
+      </div>
+
+      <div class="section">
+        <h2>Un fossile vivant exceptionnel</h2>
+        <p>
+          Le Ginkgo (<em>Ginkgo biloba</em>) est un arbre décidu (à feuilles caduques) de la famille des <strong>Ginkgoaceae</strong>. Il appartient à l'embranchement des <strong>Ginkgophyta</strong>, un groupe de gymnospermes qui comptait des milliers d'espèces au Mésozoïque. Aujourd'hui, <strong>le Ginkgo est la seule espèce survivante</strong> de cet embranchement — tous ses cousins sont éteints depuis plus de 100 millions d'années.
+        </p>
+        <p>
+          Originaire de Chine centrale, le Ginkgo a failli disparaître lors des glaciations du Pléistocène. Il n'a survécu que dans quelques vallées isolées du sud-est de la Chine. Sauvé par les moines bouddhistes qui le cultivaient dans les temples, il est aujourd'hui planté dans le monde entier comme arbre d'ornement et médicinal.
+        </p>
+        <div class="timeline">
+          <h3>📜 Chronologie évolutive du Ginkgo</h3>
+          <div class="timeline-item">
+            <strong>-200 Ma</strong>
+            <span>Apparition des premiers Ginkgophyta (Trias supérieur)</span>
+          </div>
+          <div class="timeline-item">
+            <strong>-150 Ma</strong>
+            <span>Âge d'or des Ginkgo (Jurassique) — forêts dominantes</span>
+          </div>
+          <div class="timeline-item">
+            <strong>-65 Ma</strong>
+            <span>Extinction Crétacé-Tertiaire — déclin massif</span>
+          </div>
+          <div class="timeline-item">
+            <strong>-2 Ma</strong>
+            <span>Glaciations du Pléistocène — survie uniquement en Chine</span>
+          </div>
+          <div class="timeline-item">
+            <strong>Aujourd'hui</strong>
+            <span>Seule espèce survivante de tout l'embranchement</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Caractéristiques botaniques uniques</h2>
+        <p>Le Ginkgo présente des traits remarquables qui le distinguent de tous les autres arbres :</p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Feuilles bilobées en éventail</strong> : forme unique, nervation dichotomique (se divise en deux)</li>
+            <li><strong>Gymnosperme à feuilles caduques</strong> : seul gymnosperme qui perd ses feuilles en automne</li>
+            <li><strong>Sexe séparé</strong> : arbres mâles et femelles distincts (dioïque)</li>
+            <li><strong>Graines charnues</strong> : les femelles produisent des graines à odeur forte (acide butyrique)</li>
+            <li><strong>Longévité exceptionnelle</strong> : peut vivre plus de 1000 ans, certains spécimens chinois ont 3000+ ans</li>
+            <li><strong>Résistance extrême</strong> : survit à la pollution, aux maladies, aux radiations (Hiroshima)</li>
+          </ul>
+        </div>
+        <div class="fact-box">
+          <h3>💡 Le saviez-vous ?</h3>
+          <p>
+            Six Ginkgo situés à ~1 km de l'hypocentre d'Hiroshima ont <strong>survécu à la bombe atomique de 1945</strong>. Bien que calcinés, ils ont repoussé au printemps suivant. L'un d'eux, près du temple Hosen-bo, est toujours vivant aujourd'hui — symbole de résilience et d'espoir.
+          </p>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Composition et principes actifs</h2>
+        <p>Les feuilles de Ginkgo contiennent des composés bioactifs uniques :</p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Flavonoïdes (24-26%)</strong> : ginkgétine, bilobétine, antioxydants puissants</li>
+            <li><strong>Lactones sesquiterpéniques (6-7%)</strong> : ginkgolides A, B, C, J et bilobalide — exclusifs au Ginkgo</li>
+            <li><strong>Acides organiques</strong> : acide ginkgolique (à contrôler, potentiellement toxique)</li>
+            <li><strong>Proanthocyanidines</strong> : antioxydants, protecteurs vasculaires</li>
+          </ul>
+        </div>
+        <p>Les extraits standardisés (EGb 761®) sont dosés précisément : 24% de flavonoïdes et 6% de lactones terpéniques — c'est la référence clinique mondiale.</p>
+      </div>
+
+      <div class="section">
+        <h2>Propriétés médicinales et usages</h2>
+        <p>Reconnu par l'OMS, la Commission E allemande et l'ESCOP, le Ginkgo possède de multiples vertus :</p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Neuroprotection</strong> : protège les neurones du stress oxydatif et de l'excitotoxicité</li>
+            <li><strong>Amélioration cognitive</strong> : mémoire, concentration, attention (étudiants, seniors)</li>
+            <li><strong>Circulation cérébrale</strong> : vasodilatation, fluidité sanguine, prévention des AVC</li>
+            <li><strong>Circulation périphérique</strong> : artérite des membres inférieurs, syndrome de Raynaud</li>
+            <li><strong>Protection auditive et visuelle</strong> : acouphènes, dégénérescence maculaire</li>
+            <li><strong>Anxiolytique léger</strong> : réduit les symptômes d'anxiété généralisée</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="section">
+        <h2>Indications thérapeutiques</h2>
+        <p>Le Ginkgo est indiqué dans de nombreuses situations cliniques :</p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Troubles cognitifs légers</strong> : oublis, difficultés de concentration, fatigue mentale</li>
+            <li><strong>Démence sénile (Alzheimer)</strong> : ralentissement du déclin cognitif (stades légers à modérés)</li>
+            <li><strong>Artérite des membres inférieurs</strong> : claudication intermittente (douleurs à la marche)</li>
+            <li><strong>Acouphènes et vertiges</strong> : d'origine vasculaire</li>
+            <li><strong>Rétinopathie diabétique</strong> : protection de la microcirculation rétinienne</li>
+            <li><strong>Mal d'altitude</strong> : prévention des symptômes chez les randonneurs</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="svt-note">
+        <h3>📚 Intérêt pédagogique SVT</h3>
+        <p>
+          Le Ginkgo illustre parfaitement plusieurs concepts du programme : <strong>évolution végétale</strong> (fossile vivant, gymnospermes), <strong>biodiversité et extinction</strong> (seule espèce survivante), <strong>adaptation</strong> (résistance extrême), <strong>neurosciences</strong> (mémoire, plasticité synaptique), et <strong>pharmacologie</strong> (principes actifs, essais cliniques). C'est un pont exceptionnel entre paléontologie, biologie évolutive et médecine moderne.
+        </p>
+      </div>
+
+      <div class="section">
+        <h2>Mode d'emploi et posologie</h2>
+        <p>Voici les principales façons d'utiliser le Ginkgo :</p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Extrait standardisé (EGb 761®)</strong> : 120-240 mg/jour en 2-3 prises (référence clinique)</li>
+            <li><strong>Gélules/comprimés</strong> : extraits secs dosés, standardisés en flavonoïdes et lactones</li>
+            <li><strong>Teinture-mère</strong> : 50-100 gouttes/jour dans un peu d'eau</li>
+            <li><strong>Infusion</strong> : 2-3 g de feuilles séchées dans 150 mL d'eau bouillante (moins efficace — les principes actifs sont peu hydrosolubles)</li>
+          </ul>
+        </div>
+        <p><strong>Délai d'action :</strong> Les effets cognitifs nécessitent 4-6 semaines de prise continue. Les effets sur la circulation périphérique peuvent prendre 3-6 mois.</p>
+      </div>
+
+      <div class="section">
+        <h2>Précautions et contre-indications</h2>
+        <p>Bien que généralement sûr, le Ginkgo nécessite quelques précautions :</p>
+        <div class="benefits">
+          <ul>
+            <li><strong>Traitement anticoagulant</strong> : potentialise les effets (warfarine, aspirine) — risque hémorragique</li>
+            <li><strong>Chirurgie programmée</strong> : arrêter 2 semaines avant (fluidifiant sanguin)</li>
+            <li><strong>Épilepsie</strong> : peut abaisser le seuil épileptogène (ginkgolides)</li>
+            <li><strong>Grossesse et allaitement</strong> : éviter par précaution (manque de données)</li>
+            <li><strong>Graines fraîches</strong> : toxiques (ginkgotoine) — ne pas consommer crues</li>
+          </ul>
+        </div>
+        <p><strong>Effets secondaires rares :</strong> troubles digestifs, maux de tête, réactions cutanées. Les extraits standardisés modernes ont un profil de sécurité excellent.</p>
+      </div>
+
+      <div class="section">
+        <h2>Le Ginkgo dans la culture</h2>
+        <p>
+          En Asie, le Ginkgo est un arbre sacré depuis plus de 1000 ans. Planté autour des temples bouddhistes et confucéens, il symbolise la longévité, la résilience et l'espoir. Le poète allemand Goethe lui a dédié un célèbre poème en 1815, comparant la feuille bilobée à l'union de deux êtres aimés.
+        </p>
+        <p>
+          Aujourd'hui, le Ginkgo est l'arbre d'alignement urbain le plus planté au monde (Tokyo, Paris, New York) grâce à sa résistance exceptionnelle à la pollution atmosphérique.
+        </p>
+      </div>
+    </div>
+
+    <div class="footer">
+      <p>Plante du Jour — 13 juin 2026 | <a href="https://svt20.com">SVT20.com</a></p>
+      <p>Source : Wikipedia — <a href="https://en.wikipedia.org/wiki/Ginkgo_biloba" target="_blank">Ginkgo biloba</a></p>
+    </div>
+  </div>
+</body>
+</html>

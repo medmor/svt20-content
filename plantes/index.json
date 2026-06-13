@@ -70,5 +70,14 @@
     "summary": "Plante médicinale apaisante aux propriétés sédatives, anti-inflammatoires et digestives. Riche en apigénine et bisabolol, utilisée depuis l'Antiquité pour le sommeil et la digestion.",
     "image": "/plantes/images/camomille.jpg",
     "tags": ["sédative", "digestion", "apigénine", "Asteraceae", "anxiété", "cicatrisante", "tisane"]
+  },
+  {
+    "slug": "ginkgo",
+    "name": "Ginkgo",
+    "scientific_name": "Ginkgo biloba",
+    "family": "Ginkgoaceae",
+    "summary": "Fossile vivant vieux de 200 millions d'années, unique représentant de son embranchement. Neuroprotecteur exceptionnel pour la mémoire, la concentration et la circulation cérébrale.",
+    "image": "/plantes/images/ginkgo.jpg",
+    "tags": ["fossile-vivant", "gymnosperme", "neuroprotection", "mémoire", "évolution", "Chine", "longévité", "circulation"]
   }
 ]
