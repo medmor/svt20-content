@@ -1,287 +1,92 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Menthe - Plante du Jour | SVT20</title>
-  <meta name="description" content="La Menthe (Mentha spicata) : plante aromatique emblématique du Maroc, aux propriétés digestives et rafraîchissantes. Découvrez ses bienfaits et usages en phytothérapie.">
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
-      line-height: 1.8;
-      color: #1a1a1a;
-      background: linear-gradient(135deg, #f5f7fa 0%, #e8f4e8 100%);
-      padding: 2rem 1rem;
-    }
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      background: white;
-      border-radius: 16px;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.08);
-      overflow: hidden;
-    }
-    .header {
-      background: linear-gradient(135deg, #2d6a4f 0%, #52b788 100%);
-      color: white;
-      padding: 3rem 2rem;
-      text-align: center;
-    }
-    .header h1 {
-      font-size: 2.5rem;
-      margin-bottom: 0.5rem;
-      font-weight: 700;
-    }
-    .header .scientific {
-      font-style: italic;
-      font-size: 1.3rem;
-      opacity: 0.95;
-      font-weight: 400;
-    }
-    .header .family {
-      background: rgba(255,255,255,0.2);
-      padding: 0.3rem 1rem;
-      border-radius: 20px;
-      display: inline-block;
-      margin-top: 0.8rem;
-      font-size: 0.95rem;
-    }
-    .image-container {
-      width: 100%;
-      height: 400px;
-      overflow: hidden;
-      background: #f8f9fa;
-    }
-    .image-container img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-    }
-    .content {
-      padding: 2.5rem;
-    }
-    .intro {
-      font-size: 1.2rem;
-      color: #2d6a4f;
-      margin-bottom: 2rem;
-      padding-bottom: 2rem;
-      border-bottom: 2px solid #e8f4e8;
-      line-height: 1.7;
-    }
-    .section {
-      margin-bottom: 2.5rem;
-    }
-    .section h2 {
-      color: #2d6a4f;
-      font-size: 1.5rem;
-      margin-bottom: 1rem;
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-    }
-    .section h2::before {
-      content: '🌿';
-      font-size: 1.3rem;
-    }
-    .section p {
-      margin-bottom: 1rem;
-      text-align: justify;
-    }
-    .benefits {
-      background: #f8f9fa;
-      border-radius: 12px;
-      padding: 1.5rem;
-      margin: 1.5rem 0;
-    }
-    .benefits ul {
-      list-style: none;
-      padding-left: 0;
-    }
-    .benefits li {
-      padding: 0.7rem 0;
-      padding-left: 2rem;
-      position: relative;
-      border-bottom: 1px solid #e8f4e8;
-    }
-    .benefits li:last-child {
-      border-bottom: none;
-    }
-    .benefits li::before {
-      content: '✓';
-      position: absolute;
-      left: 0;
-      color: #52b788;
-      font-weight: bold;
-    }
-    .uses {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-      gap: 1rem;
-      margin-top: 1rem;
-    }
-    .use-card {
-      background: linear-gradient(135deg, #e8f4e8 0%, #d4edda 100%);
-      padding: 1.2rem;
-      border-radius: 10px;
-      text-align: center;
-      border: 1px solid #c3e6cb;
-    }
-    .use-card h3 {
-      color: #2d6a4f;
-      font-size: 1.1rem;
-      margin-bottom: 0.5rem;
-    }
-    .use-card p {
-      font-size: 0.9rem;
-      color: #555;
-      text-align: center;
-    }
-    .svt-note {
-      background: linear-gradient(135deg, #fff3cd 0%, #ffeaa7 100%);
-      border-left: 4px solid #f39c12;
-      padding: 1.5rem;
-      border-radius: 0 10px 10px 0;
-      margin: 2rem 0;
-    }
-    .svt-note h3 {
-      color: #d68910;
-      margin-bottom: 0.8rem;
-      font-size: 1.1rem;
-    }
-    .svt-note p {
-      color: #856404;
-      font-size: 0.95rem;
-      text-align: left;
-    }
-    .footer {
-      background: #f8f9fa;
-      padding: 1.5rem 2.5rem;
-      text-align: center;
-      color: #666;
-      font-size: 0.9rem;
-      border-top: 1px solid #e8f4e8;
-    }
-    .footer a {
-      color: #2d6a4f;
-      text-decoration: none;
-    }
-    .footer a:hover {
-      text-decoration: underline;
-    }
-    @media (max-width: 600px) {
-      .header h1 {
-        font-size: 2rem;
-      }
-      .content {
-        padding: 1.5rem;
-      }
-      .image-container {
-        height: 250px;
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="header">
-      <h1>Menthe</h1>
-      <p class="scientific">Mentha spicata</p>
-      <span class="family">Famille : Lamiaceae</span>
-    </div>
+<article class="plante-article">
+  <header>
+    <h1>Menthe (Mentha spicata)</h1>
+    <p class="subtitle">Plantes &amp; Santé — Fiche plante</p>
+  </header>
 
-    <div class="image-container">
-      <img src="https://medmor.github.io/svt20-content/plantes/images/menthe.jpg" alt="Plante de menthe fraîche">
-    </div>
+  <section>
+    <h2>Description botanique</h2>
+    <p>La menthe, scientifiquement nommée <em>Mentha spicata</em> (menthe verte), est une plante herbacée vivace de la famille des <strong>Lamiaceae</strong>, la même que le thym, le romarin et la lavande. Elle mesure 30 à 90 cm de hauteur et se caractérise par ses feuilles opposées, dentelées, fortement aromatiques, et ses tiges carrées typiques de cette famille.</p>
+    <p>La menthe se multiplie rapidement par stolons, formant des touffes denses. Les fleurs, regroupées en épis terminaux, sont petites, roses ou blanches, et apparaissent de juin à septembre. Elles sont riches en nectar et attractives pour les abeilles.</p>
+    <p>Originaire d'Europe et d'Asie, la menthe s'est naturalisée dans le monde entier. Au Maroc, elle est cultivée intensivement dans les régions du Nord et est omniprésente dans les jardins familiaux, où elle est connue sous le nom de <strong>naânaâ</strong> (نعناع), ingrédient essentiel du thé à la menthe traditionnel.</p>
+  </section>
 
-    <div class="content">
-      <div class="intro">
-        <strong>Plante aromatique emblématique du Maroc</strong>, la menthe est bien plus qu'un simple ingrédient du thé traditionnel. Cultivée depuis l'Antiquité, elle combine saveur rafraîchissante et vertus médicinales reconnues par la science moderne.
-      </div>
+  <section>
+    <h2>Bienfaits pour la santé</h2>
 
-      <div class="section">
-        <h2>Présentation botanique</h2>
-        <p>
-          La menthe (<em>Mentha spicata</em>, ou menthe verte) est une plante herbacée vivace de la famille des <strong>Lamiaceae</strong>, la même que le thym, le romarin et la lavande. Elle se caractérise par ses feuilles opposées, dentelées, et ses tiges carrées typiques de cette famille.
-        </p>
-        <p>
-          Originaire d'Europe et d'Asie, la menthe s'est naturalisée dans le monde entier. Au Maroc, elle est cultivée intensivement dans les régions du Nord et est omniprésente dans les jardins familiaux.
-        </p>
-      </div>
+    <h3>1. Propriétés digestives et antispasmodiques</h3>
+    <p>La menthe est reconnue par l'OMS et l'EMA pour ses propriétés digestives. Le menthol et la carvone détendent les muscles lisses du tube digestif, soulagent les nausées, les ballonnements et les spasmes gastriques. Le thé à la menthe marocain est traditionnellement consommé après les repas pour faciliter la digestion.</p>
 
-      <div class="section">
-        <h2>Composition et principes actifs</h2>
-        <p>La menthe doit ses propriétés à une richesse exceptionnelle en composés bioactifs :</p>
-        <div class="benefits">
-          <ul>
-            <li><strong>Menthol (30-50%)</strong> : responsable de l'effet rafraîchissant et des propriétés antispasmodiques</li>
-            <li><strong>Carvone</strong> : composé aromatique majeur de la menthe verte</li>
-            <li><strong>Flavonoïdes</strong> : antioxydants puissants (lutéoline, ériocitrine)</li>
-            <li><strong>Acides phénoliques</strong> : acide rosmarinique aux propriétés anti-inflammatoires</li>
-            <li><strong>Tanins</strong> : astringents et antioxydants</li>
-          </ul>
-        </div>
-      </div>
+    <h3>2. Action antimicrobienne</h3>
+    <p>L'huile essentielle de menthe exerce une action antibactérienne et antifongique large spectre, active contre de nombreuses bactéries pathogènes (<em>Staphylococcus aureus</em>, <em>Escherichia coli</em>) et champignons. Elle est traditionnellement utilisée pour assainir les voies respiratoires en inhalation.</p>
 
-      <div class="section">
-        <h2>Propriétés médicinales</h2>
-        <p>Reconnue par l'OMS et l'EMA (Agence européenne du médicament), la menthe possède de multiples vertus thérapeutiques :</p>
-        <div class="benefits">
-          <ul>
-            <li><strong>Digestive</strong> : soulage les nausées, ballonnements et spasmes gastriques</li>
-            <li><strong>Antispasmodique</strong> : détend les muscles lisses du tube digestif</li>
-            <li><strong>Antimicrobienne</strong> : active contre bactéries et champignons</li>
-            <li><strong>Décongestionnante</strong> : libère les voies respiratoires</li>
-            <li><strong>Stimulante cognitive</strong> : améliore la concentration et la vigilance</li>
-          </ul>
-        </div>
-      </div>
+    <h3>3. Décongestionnante respiratoire</h3>
+    <p>Le menthol libère les voies respiratoires en stimulant les récepteurs du froid dans les muqueuses nasales. En inhalation ou en friction sur le thorax, la menthe est indiquée contre la congestion nasale, la rhinite et la sinusite.</p>
 
-      <div class="section">
-        <h2>Usages traditionnels et modernes</h2>
-        <div class="uses">
-          <div class="use-card">
-            <h3>🍵 Boisson</h3>
-            <p>Thé à la menthe marocain, infusions digestives</p>
-          </div>
-          <div class="use-card">
-            <h3>🍽️ Cuisine</h3>
-            <p>Salades, tajines, sauces, desserts</p>
-          </div>
-          <div class="use-card">
-            <h3>💊 Phytothérapie</h3>
-            <p>Huile essentielle, gélules, tisanes</p>
-          </div>
-          <div class="use-card">
-            <h3>🧴 Cosmétique</h3>
-            <p>Soins bucco-dentaires, produits rafraîchissants</p>
-          </div>
-        </div>
-      </div>
+    <h4>4. Stimulante cognitive</h4>
+    <p>Des études montrent que l'arôme de menthe améliore la concentration, la vigilance et les performances mnésiques. L'inhalation d'huile essentielle de menthe poivrée avant une tâche cognitive augmente significativement les résultats, ce qui en fait un allié pendant les périodes d'examen.</p>
 
-      <div class="svt-note">
-        <h3>📚 Intérêt pédagogique SVT</h3>
-        <p>
-          La menthe illustre parfaitement plusieurs concepts du programme : <strong>adaptation des plantes aromatiques</strong> (production de métabolites secondaires), <strong>multiplication végétative</strong> (stolons), <strong>système racinaire traçant</strong>, et l'importance des <strong>Lamiaceae</strong> en écologie méditerranéenne. C'est aussi un excellent exemple d'interaction homme-plante dans un contexte culturel marocain.
-        </p>
-      </div>
+    <h3>5. Propriétés anti-inflammatoires</h3>
+    <p>Les flavonoïdes de la menthe (lutéoline, ériocitrine) et l'acide rosmarinique possèdent des propriétés anti-inflammatoires qui contribuent à réduire l'inflammation des voies digestives et respiratoires. L'acide rosmarinique est l'un des antioxydants les plus puissants du règne végétal.</p>
 
-      <div class="section">
-        <h2>Précautions d'usage</h2>
-        <p>
-          Bien que généralement sûre, la menthe doit être utilisée avec précaution dans certains cas : reflux gastro-œsophagien (peut aggraver les symptômes), calculs biliaires, et chez les jeunes enfants (risque de spasme laryngé avec le menthol pur). L'huile essentielle nécessite une dilution et un avis médical.
-        </p>
-      </div>
-    </div>
+    <h3>6. Apaisement cutané</h3>
+    <p>En application locale, le menthol procure une sensation de fraîcheur qui apaise les démangeaisons, les piqûres d'insectes et les brûlures légères. L'huile essentielle de menthe diluée est utilisée en friction pour soulager les douleurs musculaires et articulaires.</p>
+  </section>
 
-    <div class="footer">
-      <p>Plante du Jour — 10 juin 2026 | <a href="https://svt20.com">SVT20.com</a></p>
-      <p>Source : Wikipedia — <a href="https://fr.wikipedia.org/wiki/Menthe" target="_blank">Menthe</a></p>
-    </div>
-  </div>
-</body>
-</html>
+  <section>
+    <h2>Modes d'utilisation</h2>
+    <ul>
+      <li><strong>Infusion</strong> : 1 à 2 cuillères à café de feuilles séchées dans 250 ml d'eau bouillante, infuser 7 minutes — digestion, relaxation, concentration</li>
+      <li><strong>Thé à la menthe</strong> : feuilles fraîches infusées avec du thé vert et du sucre — tradition marocaine, digestif</li>
+      <li><strong>Huile essentielle</strong> : 1 à 2 gouttes dans un diffuseur pour assainir l'air ; en dilution dans une huile végétale pour application cutanée (jamais pure sur la peau)</li>
+      <li><strong>Inhalation</strong> : quelques feuilles dans un bol d'eau chaude, respirer la vapeur 5 à 10 minutes (congestion nasale)</li>
+      <li><strong>Cuisine</strong> : feuilles fraîches dans les salades, tajines, sauces, desserts et boissons</li>
+      <li><strong>Friction</strong> : huile essentielle diluée en massage sur les tempes et la nuque (maux de tête, fatigue)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Valeurs nutritionnelles</h2>
+    <p>La menthe fraîche est étonnamment riche en nutriments pour une plante aromatique. Voici les valeurs pour 100 g de menthe fraîche :</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Nutriment</th>
+          <th>Quantité</th>
+          <th>% des apports journaliers recommandés</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>Vitamine A</td><td>212 μg</td><td>24%</td></tr>
+        <tr><td>Vitamine C</td><td>13 mg</td><td>14%</td></tr>
+        <tr><td>Fer</td><td>5 mg</td><td>28%</td></tr>
+        <tr><td>Calcium</td><td>243 mg</td><td>24%</td></tr>
+        <tr><td>Magnésium</td><td>80 mg</td><td>20%</td></tr>
+        <tr><td>Potassium</td><td>569 mg</td><td>16%</td></tr>
+        <tr><td>Fibres alimentaires</td><td>8 g</td><td>32%</td></tr>
+      </tbody>
+    </table>
+    <p class="note">Source : USDA National Nutrient Database ; valeurs indicatives pour 100 g de menthe fraîche. Les quantités consommées étant faibles, l'apport réel est modéré.</p>
+  </section>
+
+  <section>
+    <h2>Précautions et contre-indications</h2>
+    <ul>
+      <li><strong>Huile essentielle</strong> : ne jamais appliquer pure sur la peau (irritation, brûlure) ; toujours diluer dans une huile végétale (ratio 1:10 minimum)</li>
+      <li><strong>Reflux gastro-œsophagien</strong> : la menthe peut aggraver les symptômes en relâchant le sphincter œsophagien</li>
+      <li><strong>Enfants de moins de 3 ans</strong> : l'huile essentielle est contre-indiquée (risque de spasme laryngé) ; l'infusion légère est tolérée</li>
+      <li><strong>Grossesse et allaitement</strong> : l'huile essentielle est déconseillée ; l'infusion modérée est tolérée</li>
+      <li><strong>Calculs biliaires</strong> : la menthe peut stimuler la sécrétion biliaire et provoquer une crise chez les personnes atteintes</li>
+    </ul>
+    <p class="warning">Ces informations sont fournies à titre éducatif et ne remplacent pas un avis médical. Consultez toujours un professionnel de santé avant d'utiliser des plantes à des fins thérapeutiques.</p>
+  </section>
+
+  <section>
+    <h2>Références</h2>
+    <ul>
+      <li>EMA — Committee on Herbal Medicinal Products : <em>Menthae piperitae folium</em>, assessment report.</li>
+      <li>USDA National Nutrient Database — Spearmint, fresh.</li>
+      <li>Inspiration : <a href="https://fr.wikipedia.org/wiki/Menthe" target="_blank" rel="noopener noreferrer">Wikipédia — Menthe</a></li>
+    </ul>
+  </section>
+</article>
