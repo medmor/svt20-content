@@ -79,5 +79,14 @@
     "summary": "Fossile vivant vieux de 200 millions d'années, unique représentant de son embranchement. Neuroprotecteur exceptionnel pour la mémoire, la concentration et la circulation cérébrale.",
     "image": "/plantes/images/ginkgo.jpg",
     "tags": ["fossile-vivant", "gymnosperme", "neuroprotection", "mémoire", "évolution", "Chine", "longévité", "circulation"]
+  },
+  {
+    "slug": "lavande",
+    "name": "Lavande",
+    "scientific_name": "Lavandula angustifolia",
+    "family": "Lamiaceae",
+    "summary": "Sous-arbrisseau méditerranéen aux propriétés sédatives, anxiolytiques et cicatrisantes reconnues. L'huile essentielle la plus polyvalente en aromathérapie, riche en linalol et acétate de linalyle.",
+    "image": "/plantes/images/lavande.jpg",
+    "tags": ["sédative", "anxiolytique", "cicatrisante", "antiseptique", "Lamiaceae", "Méditerranée", "aromathérapie", "AOC"]
   }
 ]
