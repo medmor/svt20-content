@@ -88,5 +88,14 @@
     "summary": "Sous-arbrisseau méditerranéen aux propriétés sédatives, anxiolytiques et cicatrisantes reconnues. L'huile essentielle la plus polyvalente en aromathérapie, riche en linalol et acétate de linalyle.",
     "image": "/plantes/images/lavande.jpg",
     "tags": ["sédative", "anxiolytique", "cicatrisante", "antiseptique", "Lamiaceae", "Méditerranée", "aromathérapie", "AOC"]
+  },
+  {
+    "slug": "melisse",
+    "name": "Mélisse",
+    "scientific_name": "Melissa officinalis",
+    "family": "Lamiaceae",
+    "summary": "Plante aromatique au parfum citronné, reconnue pour ses propriétés sédatives, anxiolytiques et antivirales. Riche en acide rosmarinique, elle apaise l'anxiété et favorise le sommeil.",
+    "image": "/plantes/images/melisse.jpg",
+    "tags": ["sédative", "anxiolytique", "anti-herpès", "digestion", "Lamiaceae", "citronné", "calendrier-républicain", "acide-rosmarinique"]
   }
 ]
