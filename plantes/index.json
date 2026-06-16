@@ -97,5 +97,14 @@
     "summary": "Plante aromatique au parfum citronné, reconnue pour ses propriétés sédatives, anxiolytiques et antivirales. Riche en acide rosmarinique, elle apaise l'anxiété et favorise le sommeil.",
     "image": "/plantes/images/melisse.jpg",
     "tags": ["sédative", "anxiolytique", "anti-herpès", "digestion", "Lamiaceae", "citronné", "calendrier-républicain", "acide-rosmarinique"]
+  },
+  {
+    "slug": "curcuma",
+    "name": "Curcuma",
+    "scientific_name": "Curcuma longa",
+    "family": "Zingiberaceae",
+    "summary": "Épice asiatique millénaire et pilier de l'Ayurveda, le curcuma doit ses bienfaits à la curcumine — anti-inflammatoire puissant, antioxydant exceptionnel et neuroprotecteur prometteur.",
+    "image": "/plantes/images/curcuma.jpg",
+    "tags": ["curcumine", "anti-inflammatoire", "antioxydant", "neuroprotection", "Ayurveda", "Inde", "cardiovasculaire", "biodisponibilité"]
   }
 ]
