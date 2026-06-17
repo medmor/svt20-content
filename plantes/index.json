@@ -106,5 +106,14 @@
     "summary": "Épice asiatique millénaire et pilier de l'Ayurveda, le curcuma doit ses bienfaits à la curcumine — anti-inflammatoire puissant, antioxydant exceptionnel et neuroprotecteur prometteur.",
     "image": "/plantes/images/curcuma.jpg",
     "tags": ["curcumine", "anti-inflammatoire", "antioxydant", "neuroprotection", "Ayurveda", "Inde", "cardiovasculaire", "biodisponibilité"]
+  },
+  {
+    "slug": "romarin",
+    "name": "Romarin",
+    "scientific_name": "Salvia rosmarinus",
+    "family": "Lamiaceae",
+    "summary": "Arbrisseau méditerranéen aux feuilles aromatiques camphrées, utilisé depuis l'Antiquité en cuisine, parfumerie et phytothérapie pour ses vertus cholérétiques, antibactériennes et stimulantes.",
+    "image": "/plantes/images/romarin.jpg",
+    "tags": ["cholérétique", "antibactérien", "antioxydant", "Lamiaceae", "Méditerranée", "aromatique", "acide-rosmarinique", "concentration"]
   }
 ]
