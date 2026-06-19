@@ -115,5 +115,14 @@
     "summary": "Arbrisseau méditerranéen aux feuilles aromatiques camphrées, utilisé depuis l'Antiquité en cuisine, parfumerie et phytothérapie pour ses vertus cholérétiques, antibactériennes et stimulantes.",
     "image": "/plantes/images/romarin.jpg",
     "tags": ["cholérétique", "antibactérien", "antioxydant", "Lamiaceae", "Méditerranée", "aromatique", "acide-rosmarinique", "concentration"]
+  },
+  {
+    "slug": "echinacee-pourpre",
+    "name": "Échinacée pourpre",
+    "scientific_name": "Echinacea purpurea",
+    "family": "Asteraceae",
+    "summary": "Plante médicinale d'Amérique du Nord, utilisée par les Amérindiens des Grandes Plaines pour les plaies et morsures. Immunostimulant reconnu, riche en acide chicorique, alkylamides et polysaccharides.",
+    "image": "/plantes/images/echinacee-pourpre.jpg",
+    "tags": ["immunostimulant", "antiviral", "anti-inflammatoire", "cicatrisant", "Asteraceae", "Amérique-du-Nord", "Amérindien", "acide-chicorique"]
   }
 ]
