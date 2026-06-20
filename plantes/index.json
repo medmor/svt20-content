@@ -124,5 +124,14 @@
     "summary": "Plante médicinale d'Amérique du Nord, utilisée par les Amérindiens des Grandes Plaines pour les plaies et morsures. Immunostimulant reconnu, riche en acide chicorique, alkylamides et polysaccharides.",
     "image": "/plantes/images/echinacee-pourpre.jpg",
     "tags": ["immunostimulant", "antiviral", "anti-inflammatoire", "cicatrisant", "Asteraceae", "Amérique-du-Nord", "Amérindien", "acide-chicorique"]
+  },
+  {
+    "slug": "gentiane-jaune",
+    "name": "Gentiane jaune",
+    "scientific_name": "Gentiana lutea",
+    "family": "Gentianaceae",
+    "summary": "Grande vivace alpine aux racines extrêmement amères, utilisée depuis l'Antiquité comme tonique digestif et apéritif. Source des célèbres liqueurs de gentiane (Suze, Salers, Avèze) et l'une des trois premières plantes médicinales exploitées en France.",
+    "image": "/plantes/images/gentiane-jaune.jpg",
+    "tags": ["amer", "tonique-digestif", "apéritif", "Gentianaceae", "Alpes", "Massif-central", "roborant", "gentiopicroside"]
   }
 ]
