@@ -142,5 +142,14 @@
     "summary": "Arbuste européen aux fleurs parfumées et baies noires antivirales. L'un des plus puissants antiviraux du règne végétal, reconnu par la Commission E et l'OMS. Arbre de la Saint-Jean, symbole du solstice d'été.",
     "image": "/plantes/images/sureau-noir.jpg",
     "tags": ["antiviral", "immunostimulant", "antioxydant", "diaphorétique", "Adoxaceae", "Europe", "Saint-Jean", "anthocyane", "grippe"]
+  },
+  {
+    "slug": "tournesol",
+    "name": "Tournesol",
+    "scientific_name": "Helianthus annuus",
+    "family": "Asteraceae",
+    "summary": "Grande plante annuelle originaire d'Amérique du Nord, emblème végétal de l'Ukraine. Ses graines riches en huile (40-50 %) sont une source exceptionnelle de vitamine E, d'acide linoléique et de phytostérols. Héliotrope avant floraison, ses fleurs suivent le soleil.",
+    "image": "/plantes/images/tournesol.jpg",
+    "tags": ["cardiovasculaire", "vitamine-E", "antioxydant", "acide-linoléique", "Asteraceae", "Amérique-du-Nord", "Ukraine", "héliotropisme", "Fibonacci", "calendrier-républicain"]
   }
 ]
