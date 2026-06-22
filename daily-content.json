@@ -1,15 +1,15 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "quiz_level": "2bac",
-  "quiz_unit": "unit6",
-  "quiz_question": "Le magma andésitique se forme suite à la fusion partielle d’une roche nommée :",
-  "quiz_option_a": "l’éclogite.",
-  "quiz_option_b": "l’argile.",
-  "quiz_option_c": "la péridotite.",
-  "quiz_option_d": "le basalte.",
-  "quiz_answer": "la péridotite.",
-  "def_term": "Anatexie",
-  "def_text": "Phénomène de fusion partielle d'une roche métamorphique (notamment le gneiss) sous l'effet de conditions de pression et de température élevées (50 à 70 km de profondeur), aboutissant à la formation d'un magma anatectique qui, en refroidissant, donne naissance au granite d'anatexie (associé à la migmatite).",
-  "flash_front": "Quels sont les trois types de métamorphisme et leurs conditions de pression et de température ?",
-  "flash_back": "On distingue trois types de métamorphisme :\n1) Métamorphisme de contact (ou thermique) : lié à l'élévation de la température (HT, BP) ; il se produit au contact des roches magmatiques et forme des auréoles de métamorphisme de contact.\n2) Métamorphisme dynamique (de subduction) : lié principalement à l'élévation de la pression (BT, HP) ; il se produit dans les zones d'enfouissement (subduction) où la pression augmente fortement tandis que la température reste faible.\n3) Métamorphisme thermodynamique ou régional : lié à l'élévation simultanée de la pression et de la température (HT, MP) ; il forme de grandes régions métamorphiques dans les zones de collision."
+  "quiz_unit": "unit1",
+  "quiz_question": "Au cours de la contraction musculaire, on constate un raccourcissement :",
+  "quiz_option_a": "de la bande sombre et de la zone H.",
+  "quiz_option_b": "de la bande claire et de la zone H.",
+  "quiz_option_c": "des bandes sombres et claires sans changement de la zone H.",
+  "quiz_option_d": "des bandes sombres, des bandes claires et de la zone H.",
+  "quiz_answer": "de la bande claire et de la zone H.",
+  "def_term": "Sarcomère",
+  "def_text": "Unité contractile (fonctionnelle) de la fibre musculaire, délimitée par deux striies Z consécutives. Il est constitué de myofilaments d'actine et de myosine dont le glissement relatif provoque son raccourcissement lors de la contraction.",
+  "flash_front": "Quel est le mécanisme du raccourcissement du sarcomère lors de la contraction musculaire ?",
+  "flash_back": "En présence de Ca2+, les têtes de myosine forment des ponts avec l'actine. La libération d'ADP et Pi provoque un changement de conformation des têtes de myosine qui tirent les filaments d'actine vers le centre du sarcomère. La fixation d'une nouvelle molécule d'ATP détache la myosine de l'actine, et l'hydrolyse de l'ATP réarme les têtes. Ce glissement relatif des myofilaments d'actine par rapport aux myofilaments de myosine provoque le raccourcissement du sarcomère, de la bande claire et de la zone H, sans modifier la longueur des myofilaments ni de la bande sombre."
 }
