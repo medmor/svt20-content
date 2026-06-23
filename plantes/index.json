@@ -151,5 +151,14 @@
     "summary": "Grande plante annuelle originaire d'Amérique du Nord, emblème végétal de l'Ukraine. Ses graines riches en huile (40-50 %) sont une source exceptionnelle de vitamine E, d'acide linoléique et de phytostérols. Héliotrope avant floraison, ses fleurs suivent le soleil.",
     "image": "/plantes/images/tournesol.jpg",
     "tags": ["cardiovasculaire", "vitamine-E", "antioxydant", "acide-linoléique", "Asteraceae", "Amérique-du-Nord", "Ukraine", "héliotropisme", "Fibonacci", "calendrier-républicain"]
+  },
+  {
+    "slug": "hibiscus",
+    "name": "Hibiscus",
+    "scientific_name": "Hibiscus sabdariffa",
+    "family": "Malvaceae",
+    "summary": "Oseille de Guinée originaire d'Afrique, source du bissap et du karkadé. Antihypertenseur reconnu (étude Tufts), riche en anthocyanes et vitamine C. Boisson nationale du Sénégal, du Mali et de la Guinée.",
+    "image": "/plantes/images/hibiscus.jpg",
+    "tags": ["antihypertenseur", "antioxydant", "anthocyane", "vitamine-C", "Malvaceae", "Afrique", "Sénégal", "bissap", "karkadé", "diurétique"]
   }
 ]
