@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-23",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit2",
+  "quiz_question": "La mitose chez une cellule diploïde :",
+  "quiz_option_a": "Est caractérisée par une prophase où il y a apparition des nucléoles et d’une paroi nucléaire.",
+  "quiz_option_b": "Produit 4 cellules haploïdes.",
+  "quiz_option_c": "Est un phénomène continue comportant quatre phase.",
+  "quiz_option_d": "Assure une transmission conforme de l’information génétique.",
+  "quiz_answer": "Assure une transmission conforme de l’information génétique.",
+  "def_term": "Le caryotype",
+  "def_text": "Le caryotype est la représentation photographique ou dessinée de l'ensemble des chromosomes présents dans les cellules d'une espèce donnée, classés selon leur longueur et la position de leurs centromères.",
+  "flash_front": "Quelles sont les quatre phases de la mitose et leurs caractéristiques principales ?",
+  "flash_back": "La prophase : condensation des chromosomes, disparition de l'enveloppe nucléaire et apparition du fuseau mitotique. La métaphase : condensation maximale des chromosomes et formation de la plaque équatoriale à l'équateur de la cellule. L'anaphase : séparation des chromatides par rupture du centromère et migration des chromosomes fils vers les pôles. La télophase : décondensation des chromosomes, formation de l'enveloppe nucléaire autour des deux lots chromosomiques et cytodiérèse (division du cytoplasme)."
+}
