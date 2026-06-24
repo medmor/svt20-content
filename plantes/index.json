@@ -160,5 +160,14 @@
     "summary": "Oseille de Guinée originaire d'Afrique, source du bissap et du karkadé. Antihypertenseur reconnu (étude Tufts), riche en anthocyanes et vitamine C. Boisson nationale du Sénégal, du Mali et de la Guinée.",
     "image": "/plantes/images/hibiscus.jpg",
     "tags": ["antihypertenseur", "antioxydant", "anthocyane", "vitamine-C", "Malvaceae", "Afrique", "Sénégal", "bissap", "karkadé", "diurétique"]
+  },
+  {
+    "slug": "basilic",
+    "name": "Basilic",
+    "scientific_name": "Ocimum basilicum",
+    "family": "Lamiaceae",
+    "summary": "Herbe royale originaire d'Asie du Sud, cultivée depuis 4 000 ans. Star du pesto génois et du pistou provençal. Antispasmodique, anti-infectieux et antioxydant, riche en linalol et eugénol. Plante sacrée de Krishna en Inde.",
+    "image": "/plantes/images/basilic.jpg",
+    "tags": ["aromatique", "antispasmodique", "anti-infectieux", "antioxydant", "Lamiaceae", "Méditerranée", "Asie", "pesto", "eugénol", "linalol", "calendrier-républicain"]
   }
 ]
