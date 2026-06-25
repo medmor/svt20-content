@@ -1,15 +1,15 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "quiz_level": "2bac",
-  "quiz_unit": "unit3",
-  "quiz_question": "Si un individu présente un phénotype différent de celui de ses parents, cela s’explique par le fait que :",
-  "quiz_option_a": "l’allèle qui contrôle le phénotype considéré est obligatoirement situé sur le chromosome X.",
-  "quiz_option_b": "l’allèle qui contrôle le phénotype considéré est obligatoirement situé sur un autosome.",
-  "quiz_option_c": "les parents de cet individu sont hétérozygotes.",
-  "quiz_option_d": "l’allèle responsable du phénotype est dominant.",
-  "quiz_answer": "les parents de cet individu sont hétérozygotes.",
-  "def_term": "La lignée pure",
-  "def_text": "Une population qui produit, par croisements ou autofécondation, des descendants toujours semblables entre eux et aux géniteurs pour une caractéristique donnée. Elle est toujours homozygote et produit une seule catégorie de gamètes.",
-  "flash_front": "Quels sont les deux mécanismes de brassage génétique au cours de la méiose ?",
-  "flash_back": "Le brassage intrachromosomique : lors de la prophase I, les échanges de fragments de chromatides entre chromosomes homologues (crossing-over) au niveau des chiasmas produisent de nouvelles combinaisons d'allèles. Le brassage interchromosomique : lors de l'anaphase I, la migration aléatoire et indépendante des chromosomes homologues vers les pôles conduit à 2^n combinaisons de gamètes différentes."
+  "quiz_unit": "unit3sp",
+  "quiz_question": "L’infiltration du lixiviat dans le sol provoque :",
+  "quiz_option_a": "la production du méthane.",
+  "quiz_option_b": "l’effet de serre.",
+  "quiz_option_c": "les pluies acides.",
+  "quiz_option_d": "la pollution des nappes phréatiques.",
+  "quiz_answer": "la pollution des nappes phréatiques.",
+  "def_term": "Le lixiviat",
+  "def_text": "C'est un liquide chargé de substances polluantes, organiques et inorganiques et de germes pathogènes, qui se forme suite au passage de l'eau à travers un matériau pollué.",
+  "flash_front": "Quelles sont les principales techniques de gestion et de valorisation des ordures ménagères ?",
+  "flash_back": "Le tri (séparation des déchets par nature et dangerosité), le compostage (décomposition biologique en engrais organique), la production du biogaz (méthanisation de la matière organique par les méthanobacteriums en anaérobie produisant du méthane), l'incinération (combustion à 800-1000°C réduisant le volume de 90% et produisant de l'énergie), et l'enfouissement dans des décharges contrôlées (stockage des déchets ultimes dans des alvéoles étanches avec drainage des lixiviats)."
 }
