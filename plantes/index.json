@@ -169,5 +169,14 @@
     "summary": "Herbe royale originaire d'Asie du Sud, cultivée depuis 4 000 ans. Star du pesto génois et du pistou provençal. Antispasmodique, anti-infectieux et antioxydant, riche en linalol et eugénol. Plante sacrée de Krishna en Inde.",
     "image": "/plantes/images/basilic.jpg",
     "tags": ["aromatique", "antispasmodique", "anti-infectieux", "antioxydant", "Lamiaceae", "Méditerranée", "Asie", "pesto", "eugénol", "linalol", "calendrier-républicain"]
+  },
+  {
+    "slug": "jasmin",
+    "name": "Jasmin",
+    "scientific_name": "Jasminum officinale",
+    "family": "Oleaceae",
+    "summary": "Liane grimpante aux fleurs blanches parfumées, originaire d'Asie centrale. Emblème national du Pakistan, star de la parfumerie à Grasse (8 000 fleurs pour 1 g d'absolue). Antispasmodique, calmant et aphrodisiaque. Tradition marocaine des guirlandes de yasmina.",
+    "image": "/plantes/images/jasmin.png",
+    "tags": ["parfum", "antispasmodique", "calmant", "aphrodisiaque", "Oleaceae", "Asie", "Maroc", "Grasse", "Pakistan", "thé-au-jasmin", "aromathérapie"]
   }
 ]
