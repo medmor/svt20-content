@@ -178,5 +178,14 @@
     "summary": "Liane grimpante aux fleurs blanches parfumées, originaire d'Asie centrale. Emblème national du Pakistan, star de la parfumerie à Grasse (8 000 fleurs pour 1 g d'absolue). Antispasmodique, calmant et aphrodisiaque. Tradition marocaine des guirlandes de yasmina.",
     "image": "/plantes/images/jasmin.png",
     "tags": ["parfum", "antispasmodique", "calmant", "aphrodisiaque", "Oleaceae", "Asie", "Maroc", "Grasse", "Pakistan", "thé-au-jasmin", "aromathérapie"]
+  },
+  {
+    "slug": "millepertuis",
+    "name": "Millepertuis",
+    "scientific_name": "Hypericum perforatum",
+    "family": "Hypericaceae",
+    "summary": "Plante vivace aux fleurs jaunes ponctuées de noir, récoltée autour de la Saint-Jean. Surnommée « chasse-diable » au Moyen Âge, c'est aujourd'hui le premier antidépresseur naturel : efficace dans les dépressions légères à modérées (comparable aux ISRS, revue Cochrane). Son huile rouge est vulnéraire et cicatrisante. De nombreuses interactions médicamenteuses (CYP3A4).",
+    "image": "/plantes/images/millepertuis.jpg",
+    "tags": ["antidépresseur", "vulnéraire", "cicatrisant", "Saint-Jean", "Hypericaceae", "Europe", "Afrique-du-Nord", "huile-rouge", "hypéricine", "hyperforine", "interactions-médicamenteuses", "photosensibilisant"]
   }
 ]
