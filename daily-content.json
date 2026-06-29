@@ -1,15 +1,15 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-29",
   "quiz_level": "2bac",
-  "quiz_unit": "unit3sp",
-  "quiz_question": "L’infiltration du lixiviat dans le sol provoque :",
-  "quiz_option_a": "la production du méthane.",
-  "quiz_option_b": "l’effet de serre.",
-  "quiz_option_c": "les pluies acides.",
-  "quiz_option_d": "la pollution des nappes phréatiques.",
-  "quiz_answer": "la pollution des nappes phréatiques.",
-  "def_term": "Le lixiviat",
-  "def_text": "C'est un liquide chargé de substances polluantes, organiques et inorganiques et de germes pathogènes, qui se forme suite au passage de l'eau à travers un matériau pollué.",
-  "flash_front": "Quelles sont les principales techniques de gestion et de valorisation des ordures ménagères ?",
-  "flash_back": "Le tri (séparation des déchets par nature et dangerosité), le compostage (décomposition biologique en engrais organique), la production du biogaz (méthanisation de la matière organique par les méthanobacteriums en anaérobie produisant du méthane), l'incinération (combustion à 800-1000°C réduisant le volume de 90% et produisant de l'énergie), et l'enfouissement dans des décharges contrôlées (stockage des déchets ultimes dans des alvéoles étanches avec drainage des lixiviats)."
+  "quiz_unit": "unit1",
+  "quiz_question": "Le rendement énergétique de la respiration exprime :",
+  "quiz_option_a": "la quantité globale d’énergie latente du glucose.",
+  "quiz_option_b": "le nombre de molécules d’ATP synthétisées à partir de l’oxydation du glucose.",
+  "quiz_option_c": "le pourcentage d’énergie extraite sous forme d’ATP par rapport à l’énergie globale latente du glucose.",
+  "quiz_option_d": "le pourcentage d’énergie extraite de l’oxydation du glucose sous forme de chaleur.",
+  "quiz_answer": "le pourcentage d’énergie extraite sous forme d’ATP par rapport à l’énergie globale latente du glucose.",
+  "def_term": "Le rendement énergétique",
+  "def_text": "Le rapport entre l'énergie extraite sous forme d'ATP et l'énergie globale latente du glucose, exprimé en pourcentage. Il se calcule par la formule : R = (énergie transformée en ATP / énergie contenue dans une mole de glucose) × 100.",
+  "flash_front": "Quelles sont les trois étapes de la respiration cellulaire et où se déroulent-elles ?",
+  "flash_back": "1) La glycolyse : dans le cytoplasme (hyaloplasme), dégradation du glucose en acide pyruvique avec formation de 2 ATP. 2) Le cycle de Krebs : dans la matrice des mitochondries, dégradation de l'acide pyruvique par décarboxylation et déshydrogénation avec formation de NADH,H+, FADH2 et 1 ATP par cycle. 3) La chaîne respiratoire et phosphorylation oxydative : dans la membrane interne des mitochondries, oxydation des coenzymes réduits par l'O2 avec synthèse d'ATP."
 }
