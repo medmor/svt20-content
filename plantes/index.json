@@ -187,5 +187,14 @@
     "summary": "Plante vivace aux fleurs jaunes ponctuées de noir, récoltée autour de la Saint-Jean. Surnommée « chasse-diable » au Moyen Âge, c'est aujourd'hui le premier antidépresseur naturel : efficace dans les dépressions légères à modérées (comparable aux ISRS, revue Cochrane). Son huile rouge est vulnéraire et cicatrisante. De nombreuses interactions médicamenteuses (CYP3A4).",
     "image": "/plantes/images/millepertuis.jpg",
     "tags": ["antidépresseur", "vulnéraire", "cicatrisant", "Saint-Jean", "Hypericaceae", "Europe", "Afrique-du-Nord", "huile-rouge", "hypéricine", "hyperforine", "interactions-médicamenteuses", "photosensibilisant"]
+  },
+  {
+    "slug": "sauge-officinale",
+    "name": "Sauge officinale",
+    "scientific_name": "Salvia officinalis",
+    "family": "Lamiaceae",
+    "summary": "Sous-arbrisseau méditerranéen au nom latin salvare (« sauver »). Plante sacrée de l'Antiquité, recommandée par Charlemagne. Féminine (anti-bouffées de chaleur), cognitive (mémoire, anti-Alzheimer potentiel), antiseptique et digestive. Contient de la thuyone (neurotoxique à haute dose).",
+    "image": "/plantes/images/sauge-officinale.jpg",
+    "tags": ["féminine", "ménopause", "cognitive", "mémoire", "antiseptique", "digestive", "Lamiaceae", "Méditerranée", "thuyone", "phytoestrogènes", "calendrier-républicain"]
   }
 ]
