@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-24",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit4",
+  "quiz_question": "Une espèce est :",
+  "quiz_option_a": "un ensemble d'individus vivant dans le même milieu de vie.",
+  "quiz_option_b": "un ensemble d'individus ayant tous les critères phénotypiques identiques.",
+  "quiz_option_c": "un ensemble d'individus interféconds.",
+  "quiz_option_d": "stable dans le temps.",
+  "quiz_answer": "un ensemble d'individus interféconds.",
+  "def_term": "Pool génique",
+  "def_text": "L'ensemble de tous les allèles présents dans une population pour un ou plusieurs gènes donnés à un moment donné. Le pool génique constitue le patrimoine génétique de la population (aussi appelé génome collectif).",
+  "flash_front": "Qu'est-ce que la loi d'Hardy-Weinberg ?",
+  "flash_back": "C'est une loi mathématique qui modélise la stabilité des fréquences alléliques et génotypiques d'une population idéale (panmictique, de grande taille, sans mutation, migration ou sélection) d'une génération à l'autre. Formule : p² + 2pq + q² = 1."
+}

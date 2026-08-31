@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-08",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit4",
+  "quiz_question": "Les hypothèses de la loi de Hardy-Weinberg sont :",
+  "quiz_option_a": "la sélection naturelle est positive.",
+  "quiz_option_b": "la reproduction est sexuée et asexuée.",
+  "quiz_option_c": "absence des flux de migration.",
+  "quiz_option_d": "la population est très grande.",
+  "quiz_answer": "la population est très grande.",
+  "def_term": "Pool génétique",
+  "def_text": "Le pool génétique (ou pool génique) est l'ensemble des allèles présents sur les locus des gènes des chromosomes de tous les individus d'une population. Il constitue le génome collectif de la population et permet de mesurer sa variabilité génétique.",
+  "flash_front": "Quelles sont les conditions de la loi de Hardy-Weinberg pour une population théorique idéale ?",
+  "flash_back": "La population théorique idéale doit respecter les conditions suivantes : 1) Organismes diploïdes à reproduction sexuée sans chevauchement entre générations. 2) Effectif infini avec croisements aléatoires (panmixie) et rencontre aléatoire des gamètes (pangamie). 3) Population fermée génétiquement (absence de migration). 4) Tous les individus ont la même capacité de reproduction et de survie. 5) Absence de mutations et d'anomalies de la méiose."
+}

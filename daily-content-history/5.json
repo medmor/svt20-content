@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-06",
+  "quiz_level": "2BAC",
+  "quiz_unit": "Unité 1 - Métabolisme énergétique",
+  "quiz_question": "La glycolyse est une étape :",
+  "quiz_option_a": "spécifique de la respiration.",
+  "quiz_option_b": "spécifique de la fermentation lactique.",
+  "quiz_option_c": "spécifique de la fermentation alcoolique.",
+  "quiz_option_d": "commune de la fermentation et la respiration.",
+  "quiz_answer": "D",
+  "def_term": "Glycolyse",
+  "def_text": "Première étape du métabolisme énergétique qui se déroule dans l'hyaloplasme. C'est une série de réactions enzymatiques qui transforment une molécule de glucose en deux molécules d'acide pyruvique, avec production nette de 2 ATP et 2 NADH,H+. La glycolyse est commune à la respiration cellulaire et à la fermentation.",
+  "flash_front": "Quel est le bilan énergétique de la glycolyse ?",
+  "flash_back": "La glycolyse consomme 2 ATP au début (phosphorylation du glucose) et en produit 4 à la fin, soit un bilan net de 2 ATP. Elle produit également 2 NADH,H+ par molécule de glucose dégradée."
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-19",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit4",
+  "quiz_question": "Parmi les conditions de l’équilibre de Hardy-Weinberg :",
+  "quiz_option_a": "les fécondations sont préférentielles.",
+  "quiz_option_b": "la taille de la population est vaste.",
+  "quiz_option_c": "il n’y a pas de migration.",
+  "quiz_option_d": "il n’y a pas de mutation.",
+  "quiz_answer": "il n’y a pas de mutation.",
+  "def_term": "Pool génétique",
+  "def_text": "Le pool génétique (ou pool génique) est l'ensemble des allèles présents sur les locus des gènes des chromosomes de tous les individus d'une population ; il représente la composition génétique globale de cette population.",
+  "flash_front": "Quelles sont les conditions de l'équilibre de Hardy-Weinberg ?",
+  "flash_back": "L'équilibre de Hardy-Weinberg est atteint dans une population théorique idéale qui doit être : diploïde à reproduction sexuée sans chevauchement entre les générations ; de taille infinie avec des croisements et des rencontres de gamètes au hasard (panmixie et pangamie) ; fermée génétiquement (pas de migration) ; composée d'individus ayant la même capacité de reproduction et de survie ; et enfin sans mutation ni anomalie lors de la séparation des chromosomes pendant la méiose (un hétérozygote Aa produit toujours 50 % de gamètes A et 50 % de gamètes a)."
+}

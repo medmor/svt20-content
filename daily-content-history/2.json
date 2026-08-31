@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-03",
+  "quiz_level": "2BAC",
+  "quiz_unit": "Unité 4",
+  "quiz_question": "La sélection naturelle entraîne la modification génétique d'une population sous l'effet :",
+  "quiz_option_a": "de la dérive génétique.",
+  "quiz_option_b": "de facteurs environnementaux.",
+  "quiz_option_c": "de facteurs mutagènes.",
+  "quiz_option_d": "du hasard.",
+  "quiz_answer": "B",
+  "def_term": "CMH (Complexe Majeur d'Histocompatibilité)",
+  "def_text": "Ensemble de glycoprotéines présentes à la surface des cellules nucléées (CMH I) ou des cellules immunitaires spécialisées (CMH II). Ces molécules présentent des fragments de protéines synthétisées par la cellule, permettant au système immunitaire de distinguer le soi du non-soi. Chez l'Homme, elles sont codées par les gènes HLA situés sur le chromosome 6.",
+  "flash_front": "Quelle est la différence entre le soi et le non-soi pour le système immunitaire ?",
+  "flash_back": "Le soi désigne l'ensemble des organes, tissus, cellules et molécules issus de l'expression du propre génome de l'individu, incapables d'induire une réaction immunitaire. Le non-soi est tout ce qui est reconnu comme étranger par le système immunitaire (molécules, particules, cellules étrangères, cellules cancéreuses ou mutées). Ce qui est non-soi doit être détruit ou éliminé."
+}

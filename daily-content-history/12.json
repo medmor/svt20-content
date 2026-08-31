@@ -1,0 +1,24 @@
+{
+  "date": "2026-04-13",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit1",
+  "quiz_question": "Les myofilaments de myosine sont présents uniquement au niveau des :",
+  "quiz_option_a": "bandes claires du sarcomère.",
+  "quiz_option_b": "bandes sombres du sarcomère.",
+  "quiz_option_c": "bandes sombres et une partie des bandes claires.",
+  "quiz_option_d": "bandes claires et une partie des bandes sombres.",
+  "quiz_answer": "b",
+  "def_term": "Sarcomère",
+  "def_text": "Unité fonctionnelle et structurelle du muscle strié squelettique, délimitée par deux lignes Z consécutives, composée de myofilaments d'actine et de myosine.",
+  "flash_front": "Quels sont les myofilaments présents au niveau des bandes sombres du sarcomère ?",
+  "flash_back": "Les myofilaments de myosine uniquement. Les bandes sombres (bandes A) correspondent à la zone où se trouvent les filaments épais de myosine.",
+  "revisions": [
+    {
+      "timestamp": "2026-04-13T00:00:00Z",
+      "changes": "Fixed flashcard: bande A contains myosine AND actine, not myosine only",
+      "fields": {
+        "flash_back": "Les myofilaments de myosine ET d'actine. La bande A (sombre) contient les filaments épais de myosine et les filaments fins d'actine en zone de chevauchement. Seule la zone H (centrale) ne contient que la myosine."
+      }
+    }
+  ]
+}

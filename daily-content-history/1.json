@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-02",
+  "quiz_level": "2BAC",
+  "quiz_unit": "Unité 3",
+  "quiz_question": "La méiose donne :",
+  "quiz_option_a": "quatre cellules diploïdes à partir d'une cellule mère diploïde.",
+  "quiz_option_b": "deux cellules diploïdes à partir d'une cellule mère diploïde.",
+  "quiz_option_c": "quatre cellules haploïdes à partir d'une cellule mère diploïde.",
+  "quiz_option_d": "deux cellules haploïdes à partir d'une cellule diploïde.",
+  "quiz_answer": "C",
+  "def_term": "Crossing-over",
+  "def_text": "Échange de fragments de chromatides entre chromosomes homologues lors de la prophase I de la méiose. Ce phénomène crée de nouvelles combinaisons d'allèles sur les chromatides, contribuant ainsi au brassage intrachromosomique et à la diversité génétique.",
+  "flash_front": "Qu'est-ce que le brassage interchromosomique ?",
+  "flash_back": "Lors de l'anaphase I de la méiose, chaque chromosome d'une paire de chromosomes homologues migre aléatoirement et de façon indépendante vers l'un des deux pôles de la cellule. Pour n paires de chromosomes, on obtient 2^n génotypes de gamètes différents (2^23 combinaisons chez l'Homme)."
+}

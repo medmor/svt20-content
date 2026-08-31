@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-15",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit1",
+  "quiz_question": "La libération du CO2 issu de la dégradation du glucose se fait au cours des réactions :",
+  "quiz_option_a": "de la glycolyse dans l’hyaloplasme.",
+  "quiz_option_b": "du cycle de Krebs dans la mitochondrie.",
+  "quiz_option_c": "de réduction de l’acide pyruvique en acide lactique dans l’hyaloplasme.",
+  "quiz_option_d": "d’oxydation des transporteurs d’électrons dans la mitochondrie.",
+  "quiz_answer": "du cycle de Krebs dans la mitochondrie.",
+  "def_term": "Phosphorylation oxydative",
+  "def_text": "Mécanisme de synthèse d'ATP réalisé au niveau de la membrane interne mitochondriale, qui couple le transport des électrons le long de la chaîne respiratoire (jusqu'à l'accepteur final O₂) au pompage de protons H⁺ de la matrice vers l'espace inter-membranaire, puis à leur retour par les sphères pédonculées (ATP synthase) qui utilise l'énergie du gradient pour phosphoryler l'ADP + Pi en ATP.",
+  "flash_front": "Quelles sont les conditions nécessaires à la synthèse d'ATP au niveau de la membrane interne mitochondriale ?",
+  "flash_back": "La synthèse d'ATP au niveau de la membrane interne mitochondriale nécessite : (1) la présence d'ADP et de Pi, (2) un gradient de protons H⁺ entre l'espace inter-membranaire et la matrice (pH extérieur < pH intérieur, c'est-à-dire [H⁺]ᵢ > [H⁺]ₑ), et (3) la présence des sphères pédonculées (ATP synthase) intactes, car sans elles les pédoncules seuls ne peuvent pas phosphoryler l'ADP en ATP."
+}

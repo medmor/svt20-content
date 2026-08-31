@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-25",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit5",
+  "quiz_question": "La réaction du rejet d’un greffon chez un receveur se produit lorsque :",
+  "quiz_option_a": "le donneur et le receveur sont de même CMH.",
+  "quiz_option_b": "le donneur et le receveur sont de CMH différents.",
+  "quiz_option_c": "le donneur et le receveur sont de même groupe sanguin.",
+  "quiz_option_d": "le donneur et le receveur sont de groupes sanguins différents.",
+  "quiz_answer": "le donneur et le receveur sont de CMH différents.",
+  "def_term": "Réponse immunitaire spécifique",
+  "def_text": "Défense de l'organisme ciblée contre un antigène particulier, impliquant les lymphocytes B et T, avec mémoire immunitaire.",
+  "flash_front": "Qu'est-ce que la mémoire immunitaire ?",
+  "flash_back": "Capacité du système immunitaire à répondre plus rapidement et plus fortement lors d'un second contact avec le même antigène."
+}

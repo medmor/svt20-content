@@ -1,0 +1,15 @@
+{
+  "date": "2026-07-01",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit3",
+  "quiz_question": "La méiose donne :",
+  "quiz_option_a": "quatre cellules diploïdes à partir d’une cellule mère diploïde.",
+  "quiz_option_b": "deux cellules diploïdes à partir d’une cellule mère diploïde.",
+  "quiz_option_c": "quatre cellules haploïdes à partir d’une cellule mère diploïde.",
+  "quiz_option_d": "deux cellules haploïdes à partir d’une cellule mère lipoïde.",
+  "quiz_answer": "quatre cellules haploïdes à partir d’une cellule mère diploïde.",
+  "def_term": "Crossing-over",
+  "def_text": "Phénomène se déroulant lors de la prophase I de la méiose : les chromatides des chromosomes homologues s'enchevêtrent au niveau des chiasmas et échangent des fragments, ce qui crée de nouvelles combinaisons d'allèles sur les chromatides remaniées (brassage intrachromosomique).",
+  "flash_front": "Comment la reproduction sexuée assure-t-elle la diversité génétique ?",
+  "flash_back": "Par la méiose et la fécondation. La méiose produit des gamètes variés grâce au brassage intrachromosomique (crossing-over en prophase I) et au brassage interchromosomique (migration indépendante des chromosomes homologues en anaphase I, soit 2^n combinaisons de gamètes). La fécondation amplifie ce brassage par la rencontre aléatoire des gamètes mâle et femelle, formant un zygote à combinaison allélique inédite."
+}

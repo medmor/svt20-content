@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-27",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit1",
+  "quiz_question": "L'activité de la chaîne respiratoire conduit à :",
+  "quiz_option_a": "une augmentation de la concentration des protons dans la matrice.",
+  "quiz_option_b": "un équilibre de la concentration des protons entre l'espace inter-membranaire et la matrice.",
+  "quiz_option_c": "une augmentation de la concentration des protons dans l'espace inter-membranaire.",
+  "quiz_option_d": "une diminution de la concentration des protons dans l'espace inter-membranaire.",
+  "quiz_answer": "une augmentation de la concentration des protons dans l'espace inter-membranaire.",
+  "def_term": "Glycolyse",
+  "def_text": "Première étape commune à la respiration et à la fermentation, qui se déroule dans l'hyaloplasme. Le glucose (C6) est dégradé en deux molécules d'acide pyruvique (C3), avec une production nette de 2 ATP et 2 NADH, H+.",
+  "flash_front": "Quel est le rôle des sphères pédonculées dans la mitochondrie ?",
+  "flash_back": "Ce sont des enzymes (ATP synthase) qui utilisent l'énergie du flux des protons (H+) de l'espace inter-membranaire vers la matrice pour synthétiser l'ATP à partir de l'ADP et du Pi."
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-29",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit3",
+  "quiz_question": "Une personne atteinte du syndrome de Down possède :",
+  "quiz_option_a": "le chromosome 22 en un seul exemplaire.",
+  "quiz_option_b": "le chromosome 21 en trois exemplaires.",
+  "quiz_option_c": "le chromosome 22 en trois exemplaires.",
+  "quiz_option_d": "le chromosome 21 en un seul exemplaire.",
+  "quiz_answer": "le chromosome 21 en trois exemplaires.",
+  "def_term": "Génotype",
+  "def_text": "L'ensemble des allèles présents dans l'ADN d'un individu pour un ou plusieurs gènes donnés.",
+  "flash_front": "Qu'est-ce que le brassage intrachromosomique ?",
+  "flash_back": "C'est l'échange de fragments de chromatides entre chromosomes homologues (crossing-over) lors de la prophase I de la méiose."
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-12",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit6",
+  "quiz_question": "La croûte continentale est principalement formée :",
+  "quiz_option_a": "de gabbros.",
+  "quiz_option_b": "de granites.",
+  "quiz_option_c": "de péridotites.",
+  "quiz_option_d": "de basaltes.",
+  "quiz_answer": "B",
+  "def_term": "Métamorphisme",
+  "def_text": "L'ensemble des changements structurels et minéralogiques qui se produisent sur une roche préexistante (sédimentaire ou magmatique) par l'action de la pression et de la température ou des deux. Le métamorphisme s'effectue à l'état solide de la roche.",
+  "flash_front": "Qu'est-ce qu'un minéral indicateur en métamorphisme ?",
+  "flash_back": "C'est un minéral qui ne peut être stable que dans des conditions précises de pression et de température, son domaine de stabilité est réduit. Sa présence dans une roche métamorphique témoigne des conditions de sa formation."
+}

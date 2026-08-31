@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-01",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit4",
+  "quiz_question": "Une espèce est :",
+  "quiz_option_a": "un ensemble d’individus vivant dans le même milieu de vie.",
+  "quiz_option_b": "un ensemble d’individus ayant tous les critères phénotypiques identiques.",
+  "quiz_option_c": "un ensemble d’individus interféconds.",
+  "quiz_option_d": "stable dans le temps.",
+  "quiz_answer": "un ensemble d’individus interféconds.",
+  "def_term": "Pool génétique (pool génique)",
+  "def_text": "Ensemble des allèles présents sur les locus des gènes de tous les individus d'une population. Il constitue le génome collectif de la population et reflète sa diversité génétique.",
+  "flash_front": "Quelles sont les conditions de la loi de Hardy-Weinberg pour qu'une population soit en équilibre génétique ?",
+  "flash_back": "Population de grande taille (infinie), croisements aléatoires (panmixie), absence de migration, absence de mutations, absence de sélection naturelle, mêmes capacités reproductives entre tous les individus."
+}

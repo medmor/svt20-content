@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-13",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit3",
+  "quiz_question": "Dans le cas d’une maladie autosomale récessive :",
+  "quiz_option_a": "tout individu sain est homozygote.",
+  "quiz_option_b": "un couple de phénotype normal ne donne jamais de descendants atteints.",
+  "quiz_option_c": "tout garçon atteint n’hérite la maladie que de sa mère.",
+  "quiz_option_d": "le mariage consanguin augmente le risque d’apparition de la maladie chez le descendant.",
+  "quiz_answer": "le mariage consanguin augmente le risque d’apparition de la maladie chez le descendant.",
+  "def_term": "Méiose",
+  "def_text": "La méiose est un processus de division cellulaire qui se déroule dans les organes sexuels (gonades) et permet la production de cellules haploïdes (gamètes) à partir de cellules diploïdes. Elle est constituée de deux divisions successives : une division réductionnelle (qui réduit le nombre de chromosomes de moitié) et une division équationnelle (qui sépare les chromatides).",
+  "flash_front": "Quelles sont les principales difficultés rencontrées dans l'étude de la génétique humaine ?",
+  "flash_back": "Les principales difficultés de l'étude de la génétique humaine sont : l'impossibilité de réaliser des croisements orientés, la faible fécondité (longue durée de la grossesse et de l'intervalle entre deux générations), et le nombre élevé de chromosomes (46 chromosomes chez l'Homme). Pour contourner ces difficultés, on utilise des outils comme l'arbre généalogique (pedigree), le caryotype et l'électrophorèse."
+}

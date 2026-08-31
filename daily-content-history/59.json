@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-20",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit5",
+  "quiz_question": "Le complexe immun se forme par la liaison entre:",
+  "quiz_option_a": "Les lymphocytes Tc et les antigènes.",
+  "quiz_option_b": "Le complément et les antigènes.",
+  "quiz_option_c": "Le complément et les anticorps .",
+  "quiz_option_d": "Les anticorps et les antigènes.",
+  "quiz_answer": "Les anticorps et les antigènes.",
+  "def_term": "Complexe immun",
+  "def_text": "Le complexe immun (ou complexe immun) résulte de la liaison entre les anticorps et les antigènes ; cette neutralisation par opsonisation constitue l'une des trois fonctions essentielles des anticorps, permettant de faciliter la phagocytose et d'activer le système du complément.",
+  "flash_front": "Quelles sont les principales différences entre la vaccination et la sérothérapie ?",
+  "flash_back": "La vaccination est une immunité active : on injecte un antigène atténué, tué ou un fragment de l'agent infectieux ; l'organisme produit lui-même ses anticorps après un délai de quelques jours à quelques semaines, et l'effet est durable (plusieurs années, voire toute une vie) grâce à la mémoire immunitaire — c'est un moyen préventif. La sérothérapie est une immunité passive : on injecte directement des anticorps déjà produits (sérum immunisant) ; l'effet est immédiat (quelques minutes à quelques heures) mais de courte durée (quelques semaines), car les anticorps injectés sont progressivement détruits par l'organisme — c'est un moyen curatif ou d'urgence (ex. morsure de serpent, rage, tétanos)."
+}

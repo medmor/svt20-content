@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-22",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit4",
+  "quiz_question": "La dérive génétique :",
+  "quiz_option_a": "est une fluctuation aléatoire des proportions des allèles dans une population.",
+  "quiz_option_b": "la conséquence d’une réduction très importante de la taille de la population.",
+  "quiz_option_c": "est due à l’influence des conditions du milieu sur la population.",
+  "quiz_option_d": "la conséquence de l’effet fondateur.",
+  "quiz_answer": "la conséquence de l’effet fondateur.",
+  "def_term": "Pool génétique (ou pool génique)",
+  "def_text": "Ensemble des allèles qui se trouvent sur les locus des gènes des chromosomes de tous les individus de la population. Il s'agit d'un génome collectif (global) caractérisant la composition génétique d'une population.",
+  "flash_front": "Quelles sont les conditions de la loi de Hardy-Weinberg pour une population théorique idéale ?",
+  "flash_back": "La population théorique idéale doit présenter les caractéristiques suivantes : population d'organismes diploïdes à reproduction sexuée sans chevauchement entre les générations ; nombre infini avec croisements au hasard (panmixie) et rencontre des gamètes au hasard (pangamie) ; population fermée génétiquement (pas de migration) ; tous les individus ont la même capacité de se reproduire et de donner des descendants viables ; absence de mutation et d'anomalies lors de la séparation des chromosomes pendant la méiose."
+}

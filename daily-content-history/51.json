@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-12",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit4",
+  "quiz_question": "Une espèce est :",
+  "quiz_option_a": "un ensemble d’individus vivant dans le même milieu de vie.",
+  "quiz_option_b": "un ensemble d’individus ayant tous les critères phénotypiques identiques.",
+  "quiz_option_c": "un ensemble d’individus interféconds.",
+  "quiz_option_d": "stable dans le temps.",
+  "quiz_answer": "un ensemble d’individus interféconds.",
+  "def_term": "Pool génique",
+  "def_text": "C'est l'ensemble des allèles qui se trouvent sur les locus des gènes des chromosomes de tous les individus d'une population. Il représente la composition génétique globale (génome collectif) de la population.",
+  "flash_front": "Quelles sont les caractéristiques d'une population théorique idéale (conditions de la loi de Hardy-Weinberg) ?",
+  "flash_back": "Une population théorique idéale doit être : une population d'organismes diploïdes à reproduction sexuée sans chevauchement entre les générations ; d'effectif infini avec des croisements au hasard (panmixie) et des gamètes qui se rencontrent au hasard (pangamie) ; fermée génétiquement (pas de migration) ; avec des individus ayant la même capacité de se reproduire et de donner une descendance viable ; et sans mutation ni anomalies au cours de la méiose."
+}

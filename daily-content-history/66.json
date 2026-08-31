@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-30",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit2",
+  "quiz_question": "Une personne atteinte du syndrome de Down possède :",
+  "quiz_option_a": "le chromosome 22 en un seul exemplaire.",
+  "quiz_option_b": "le chromosome 21 en trois exemplaires.",
+  "quiz_option_c": "le chromosome 22 en trois exemplaires.",
+  "quiz_option_d": "le chromosome 21 en un seul exemplaire.",
+  "quiz_answer": "le chromosome 21 en trois exemplaires.",
+  "def_term": "Caryotype",
+  "def_text": "Représentation photographique ou dessinée de l'ensemble des chromosomes présents dans les cellules d'une espèce donnée, classés selon leur longueur et la position de leurs centromères. Le caryotype humain contient 46 chromosomes organisés en 23 paires.",
+  "flash_front": "Quelles sont les quatre phases de la mitose ?",
+  "flash_back": "La mitose comprend quatre phases : (1) La prophase — condensation des chromosomes, disparition de l'enveloppe nucléaire et apparition du fuseau mitotique ; (2) La métaphase — condensation maximale des chromosomes et formation de la plaque équatoriale ; (3) L'anaphase — séparation des chromatides de chaque chromosome et migration vers les pôles de la cellule ; (4) La télophase — décondensation des chromosomes, reformation de l'enveloppe nucléaire et cytodiérèse."
+}

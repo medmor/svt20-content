@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-17",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit3",
+  "quiz_question": "Dans le cas d’une maladie héréditaire liée à un allèle dominant porté par le chromosome X :",
+  "quiz_option_a": "le père atteint de la maladie est hétérozygote ;",
+  "quiz_option_b": "une femme saine donne naissance à un garçon malade ;",
+  "quiz_option_c": "un père atteint de la maladie donne naissance à une fille saine ;",
+  "quiz_option_d": "un père atteint de la maladie donne naissance à une fille malade.",
+  "quiz_answer": "un père atteint de la maladie donne naissance à une fille malade.",
+  "def_term": "Brassage interchromosomique",
+  "def_text": "Phénomène qui se produit lors de l'anaphase I de la méiose : chaque chromosome d'une paire d'homologues migre aléatoirement et indépendamment vers l'un des deux pôles de la cellule, ce qui produit un brassage des chromosomes homologues dans les cellules filles et génère (2^n) génotypes de gamètes différents.",
+  "flash_front": "Quelle est la différence entre le brassage intrachromosomique et le brassage interchromosomique au cours de la méiose ?",
+  "flash_back": "Le brassage intrachromosomique résulte du crossing-over en prophase I : des échanges de fragments de chromatides entre chromosomes homologues au niveau des chiasmas créent de nouvelles combinaisons d'allèles sur les chromatides. Le brassage interchromosomique se produit en anaphase I : la migration aléatoire et indépendante des chromosomes homologues vers les pôles de la cellule produit 2^n combinaisons de gamètes (2^23 chez l'Homme). Les deux brassages s'additionnent, le brassage interchromosomique s'exerçant sur des chromosomes déjà remaniés par le brassage intrachromosomique, aboutissant à une diversité de gamètes potentiellement infinie."
+}

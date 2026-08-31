@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-26",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit6",
+  "quiz_question": "Le granite intrusif est entouré par :",
+  "quiz_option_a": "les migmatites.",
+  "quiz_option_b": "l’auréole métamorphique.",
+  "quiz_option_c": "le gneiss.",
+  "quiz_option_d": "la péridotite.",
+  "quiz_answer": "l’auréole métamorphique.",
+  "def_term": "Métamorphisme",
+  "def_text": "Ensemble des changements structurels et minéralogiques qui se produisent sur une roche préexistante (sédimentaire ou magmatique) par l'action de la pression et de la température. Le métamorphisme s'effectue à l'état solide de la roche.",
+  "flash_front": "Qu'est-ce qu'une auréole métamorphique ?",
+  "flash_back": "Ceinture de roches métamorphiques entourant une intrusion magmatique (granite intrusif), formée par métamorphisme de contact dû à la chaleur émise par le magma lors de sa remontée. Le minéral indicateur est l'andalousite."
+}

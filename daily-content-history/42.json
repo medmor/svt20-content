@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-19",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit2",
+  "quiz_question": "Le brassage interchromosomique lors de la méiose résulte de la répartition indépendante et aléatoire :",
+  "quiz_option_a": "des chromosomes homologues pendant l'anaphase I.",
+  "quiz_option_b": "des chromosomes homologues pendant l'anaphase II.",
+  "quiz_option_c": "des chromatides pendant l'anaphase I.",
+  "quiz_option_d": "des chromatides pendant l'anaphase II.",
+  "quiz_answer": "des chromosomes homologues pendant l'anaphase I.",
+  "def_term": "Code génétique",
+  "def_text": "Le code génétique est le système de correspondance entre les 64 triplets de nucléotides (codons) de l'ARNm et les 20 acides aminés qui constituent les protéines. Il est universel (identique chez tous les êtres vivants), redondant (plusieurs codons peuvent coder le même acide aminé) et contient 3 codons stop qui marquent la fin de la traduction.",
+  "flash_front": "Décrivez le mécanisme de la transcription de l'ARNm chez les eucaryotes.",
+  "flash_back": "La transcription débute par le déroulement et l'ouverture d'une portion de la double hélice d'ADN correspondant à un gène. L'ARN polymérase catalyse la réaction : elle progresse le long de l'ADN et incorpore des nucléotides par complémentarité avec le brin transcrit (3' → 5'). Le brin d'ARNm produit est complémentaire du brin d'ADN matrice, avec remplacement de la Thymine (T) par l'Uracile (U). Après la transcription, l'ARNm migre vers le cytoplasme à travers les pores nucléaires pour y être traduit en protéine."
+}

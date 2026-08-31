@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-23",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit3sp",
+  "quiz_question": "L'eutrophisation des lacs résulte de :",
+  "quiz_option_a": "la proliferation de sa faune aquatique.",
+  "quiz_option_b": "l'enrichissement de ses eaux par le calcium.",
+  "quiz_option_c": "l'enrichissement de ses eaux par les nitrates.",
+  "quiz_option_d": "l'enrichissement de ses eaux par les pesticides chimiques.",
+  "quiz_answer": "l'enrichissement de ses eaux par les nitrates.",
+  "def_term": "Eutrophisation",
+  "def_text": "Phénomène d'enrichissement excessif des eaux (lacs, rivières) en nutriments (nitrates, phosphates), provoquant une proliferation de végétaux aquatiques, une diminution de l'oxygène dissous et une dégradation de l'écosystème aquatique.",
+  "flash_front": "Qu'est-ce que la DBO5 ?",
+  "flash_back": "La demande biochimique en oxygène en 5 jours est la quantité d'oxygène nécessaire pour oxyder les matières organiques par voie biologique pendant 5 jours en obscurité à 20°C. Plus la DBO5 est élevée, plus la charge polluante des eaux est grande."
+}

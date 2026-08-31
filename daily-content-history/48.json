@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-07",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit6",
+  "quiz_question": "L’andésite est une roche magmatique qui :",
+  "quiz_option_a": "résulte d’un refroidissement rapide du magma en profondeur.",
+  "quiz_option_b": "résulte d’un refroidissement lent du magma en surface.",
+  "quiz_option_c": "a une structure microlitique caractérisée par des microlites et du verre.",
+  "quiz_option_d": "a une structure grenue caractérisée par des cristaux de grande taille.",
+  "quiz_answer": "a une structure microlitique caractérisée par des microlites et du verre.",
+  "def_term": "Subduction",
+  "def_text": "La subduction est le processus par lequel une plaque lithosphérique océanique, plus dense et plus fine, s'enfonce de façon inclinée sous une plaque lithosphérique continentale, moins dense et plus épaisse, au niveau des zones de convergence des plaques tectoniques.",
+  "flash_front": "Quels sont les trois types de chaînes de montagnes et quel phénomène tectonique leur est associé ?",
+  "flash_back": "On distingue trois types de chaînes de montagnes : les chaînes de subduction (comme les Andes), associées au phénomène de subduction où la plaque océanique s'enfonce sous la plaque continentale ; les chaînes d'obduction (comme celle d'Oman), associées au phénomène d'obduction où la croûte océanique chevauche le continent suite au blocage d'une subduction ; et les chaînes de collision (comme l'Himalaya), associées au phénomène de collision continentale suite à la fermeture d'un océan."
+}

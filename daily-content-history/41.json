@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-18",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit1",
+  "quiz_question": "Les réactions de la fermentation dans le sarcoplasme permettent :",
+  "quiz_option_a": "la production de l’acide lactique et de l’éthanol.",
+  "quiz_option_b": "l’oxydation de l’acide pyruvique.",
+  "quiz_option_c": "la réduction des transporteurs NAD+ et FAD.",
+  "quiz_option_d": "la phosphorylation des molécules d’ADP.",
+  "quiz_answer": "la phosphorylation des molécules d’ADP.",
+  "def_term": "Phosphorylation oxydative",
+  "def_text": "La phosphorylation oxydative est le mécanisme de synthèse d'ATP au niveau de la membrane interne mitochondriale, couplé au transport des électrons le long de la chaîne respiratoire. Les protons H+ accumulés dans l'espace inter-membranaire retournent vers la matrice en traversant les sphères pédonculées (ATP synthase), et l'énergie de ce flux est utilisée pour phosphoryler l'ADP en ATP.",
+  "flash_front": "Quelles sont les trois voies de régénération de l'ATP dans les cellules musculaires et dans quel ordre interviennent-elles selon la durée de l'effort ?",
+  "flash_back": "1) Voie rapide anaérobie alactique (quelques secondes) : phosphorylation de l'ADP par la créatine phosphate (CP + ADP → ATP + C) et par une autre molécule d'ADP (ADP + ADP → ATP + AMP). Cette voie ne produit pas d'acide lactique.\n2) Voie lente anaérobie lactique (10 s à 1-2 minutes) : fermentation lactique qui produit de l'acide lactique. Intervient aussi lors d'efforts intenses dépassant les capacités d'approvisionnement en O2.\n3) Voie lente aérobie (au-delà de 1-2 minutes) : respiration cellulaire, la voie la plus efficace. Utilise le glucose et l'O2 pour produire de l'ATP au niveau des mitochondries."
+}

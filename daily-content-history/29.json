@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-05",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit2",
+  "quiz_question": "Le codon est :",
+  "quiz_option_a": "Une séquence de trois acides aminés sur l’ADN.",
+  "quiz_option_b": "Une séquence de trois nucléotides sur l’ARNm.",
+  "quiz_option_c": "Une séquence de trois nucléotides sur l’ARNt.",
+  "quiz_option_d": "L’unité de base du code génétique.",
+  "quiz_answer": "L’unité de base du code génétique.",
+  "def_term": "Caryotype",
+  "def_text": "Le caryotype est la représentation photographique ou dessinée de l'ensemble des chromosomes présents dans les cellules d'une espèce donnée. Les chromosomes sont classés selon leur longueur et la position de leurs centromères.",
+  "flash_front": "Quelles sont les quatre phases de la mitose ?",
+  "flash_back": "La prophase : condensation des chromosomes, disparition de l'enveloppe nucléaire et formation du fuseau mitotique. La métaphase : condensation maximale des chromosomes, alignement des centromères à l'équateur (plaque équatoriale). L'anaphase : séparation des chromatides par rupture du centromère et migration des chromosomes fils vers les pôles. La télophase : décondensation des chromosomes, formation des enveloppes nucléaires autour des deux lots chromosomiques, puis cytodiérèse (division du cytoplasme)."
+}

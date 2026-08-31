@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-18",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit3sp",
+  "quiz_question": "Les éléments nucléaires peuvent être utilisés dans :",
+  "quiz_option_a": "le domaine médical.",
+  "quiz_option_b": "la production du biocarburant.",
+  "quiz_option_c": "la production du compost.",
+  "quiz_option_d": "la datation absolue.",
+  "quiz_answer": "la datation absolue.",
+  "def_term": "Demi-vie (d'un élément radioactif)",
+  "def_text": "La demi-vie correspond à la durée au bout de laquelle la quantité des nucléides radioactifs, présents dans l'échantillon de départ, est réduite de moitié.",
+  "flash_front": "Comment se fait la production de l'énergie électrique à partir de l'énergie nucléaire dans une centrale ?",
+  "flash_back": "La fission en chaîne dans un réacteur dégage de l'énergie utilisée pour chauffer l'eau du circuit primaire ; cette eau chauffe et vaporise l'eau du circuit secondaire ; la vapeur d'eau produite fait tourner une turbine qui produit de l'énergie mécanique, convertie par un alternateur en énergie électrique, ensuite distribuée par un réseau de haute tension."
+}

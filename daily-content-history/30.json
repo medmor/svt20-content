@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-06",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit3",
+  "quiz_question": "Un crossing-over est un échange entre :",
+  "quiz_option_a": "les deux chromatides d’un chromosome dédoublé.",
+  "quiz_option_b": "les chromosomes de deux paires de chromosomes différentes.",
+  "quiz_option_c": "deux chromosomes homologues non dédoublés.",
+  "quiz_option_d": "deux chromatides de deux chromosomes homologues.",
+  "quiz_answer": "deux chromatides de deux chromosomes homologues.",
+  "def_term": "Crossing-over",
+  "def_text": "Échange de fragments de chromatides entre chromosomes homologues appariés au niveau des chiasmas, durant la prophase I de la méiose. Ce phénomène est à l'origine du brassage intrachromosomique et produit de nouvelles combinaisons d'allèles sur les chromatides remaniées.",
+  "flash_front": "Quels sont les deux types de brassage génétique qui se produisent lors de la méiose et comment contribuent-ils à la diversité génétique ?",
+  "flash_back": "1) Le brassage intrachromosomique : durant la prophase I, les chromosomes homologues appariés échangent des fragments de chromatides au niveau des chiasmas (crossing-over), créant de nouvelles combinaisons d'allèles sur les chromatides remaniées. 2) Le brassage interchromosomique : lors de l'anaphase I, la migration aléatoire et indépendante des chromosomes homologues vers les pôles de la cellule produit 2ⁿ combinaisons différentes de gamètes (2²³ chez l'Homme). Ces deux brassages s'ajoutent — le brassage interchromosomique s'exerce sur des chromosomes déjà remaniés par le brassage intrachromosomique — aboutissant à une diversité génétique potentiellement infinie des gamètes."
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-04",
+  "quiz_level": "2BAC",
+  "quiz_unit": "Unité 5 - Le système immunitaire",
+  "quiz_question": "Les lymphocytes Tc reconnaissent les cellules infectées suite à la liaison :",
+  "quiz_option_a": "Du récepteur T et du marqueur CD4 avec le déterminant antigénique et le CMHI.",
+  "quiz_option_b": "Du récepteur T et du marqueur CD8 avec le déterminant antigénique et le CMHI.",
+  "quiz_option_c": "Du récepteur T et du marqueur CD4 avec le déterminant antigénique et le CMHII.",
+  "quiz_option_d": "Du récepteur T et du marqueur CD8 avec le déterminant antigénique et le CMHII.",
+  "quiz_answer": "B",
+  "def_term": "CMH (Complexe Majeur d'Histocompatibilité)",
+  "def_text": "Ensemble de glycoprotéines membranaires utilisées par le système immunitaire dans la discrimination du soi du non-soi. Le CMH-I est présent sur toutes les cellules nucléées, tandis que le CMH-II est porté par les cellules présentatrices d'antigènes (macrophages, LB, cellules dendritiques).",
+  "flash_front": "Qu'est-ce que la sélection clonale ?",
+  "flash_back": "C'est le processus par lequel, parmi des millions de clones de lymphocytes B différents, seul le clone dont les anticorps membranaires reconnaissent spécifiquement un antigène est activé et participe à la réponse immunitaire."
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-16",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit2",
+  "quiz_question": "L’acide désoxyribonucléique ADN :",
+  "quiz_option_a": "Est constitué d’un seul brin de nucléotides.",
+  "quiz_option_b": "Est formé de deux brins de nucléotides antiparallèles.",
+  "quiz_option_c": "Constitue le support de l’information génétique dans la cellule.",
+  "quiz_option_d": "Est une séquence de quatre types différents de nucléotides.",
+  "quiz_answer": "Est une séquence de quatre types différents de nucléotides.",
+  "def_term": "Réplication semi-conservative de l’ADN",
+  "def_text": "Mécanisme de duplication de l’ADN au cours duquel chaque molécule fille conserve un brin parental (ancien) et possède un brin néosynthétisé, comme l’a démontré l’expérience de Taylor (1957) à l’aide de thymine radioactive.",
+  "flash_front": "Quelles sont les trois phases de l’interphase du cycle cellulaire et que se passe-t-il au niveau de l’ADN lors de la phase S ?",
+  "flash_back": "L’interphase comprend trois phases : G1 (1ʳᵉ phase de croissance, quantité d’ADN constante à Q), S (phase de synthèse, la quantité d’ADN passe de Q à 2Q par réplication) et G2 (2ᵉ phase de croissance, quantité d’ADN stable à 2Q). Après la phase S, chaque chromosome est constitué de deux chromatides."
+}

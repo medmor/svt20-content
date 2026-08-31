@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-11",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit3sp",
+  "quiz_question": "Parmi les énergies renouvelables on cite :",
+  "quiz_option_a": "l’énergie nucléaire.",
+  "quiz_option_b": "le pétrole.",
+  "quiz_option_c": "le charbon.",
+  "quiz_option_d": "l’énergie solaire.",
+  "quiz_answer": "l’énergie solaire.",
+  "def_term": "Biogaz",
+  "def_text": "Le biogaz est une énergie renouvelable produite par méthanisation de la matière organique. C’est un gaz combustible composé essentiellement de méthane (CH₄) et de dioxyde de carbone, issu de la dégradation anaérobie de la matière organique par les méthanobactéries.",
+  "flash_front": "Quelles sont les étapes de l’eutrophisation d’un milieu aquatique ?",
+  "flash_back": "L’eutrophisation se déroule en plusieurs étapes : (1) l’arrivée dans les eaux naturelles de polluants riches en azote et en phosphore (rejets domestiques, engrais agricoles) ; (2) l’augmentation de la croissance des plantes aquatiques et des algues grâce à ces nutriments ; (3) la prolifération forme une couche végétale dense en surface qui empêche la pénétration de la lumière, arrêtant la photosynthèse et réduisant l’O₂ dissous ; (4) la décomposition anaérobie et la prolifération bactérienne enrichissent l’eau en gaz toxiques, provoquant la mort de la faune aquatique et la dégradation de l’écosystème."
+}

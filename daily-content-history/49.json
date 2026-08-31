@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-10",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit3",
+  "quiz_question": "La méiose est constituée d’une :",
+  "quiz_option_a": "succession de deux mitoses ;",
+  "quiz_option_b": "division réductionnelle précédée d’une division équationnelle ;",
+  "quiz_option_c": "division réductionnelle suivie d’une division équationnelle ;",
+  "quiz_option_d": "succession de deux divisions précédées chacune d’une interphase.",
+  "quiz_answer": "division réductionnelle suivie d’une division équationnelle ;",
+  "def_term": "Méiose",
+  "def_text": "La méiose est une suite de deux divisions cellulaires successives (une division réductionnelle suivie d'une division équationnelle) qui, à partir d'une cellule diploïde, produit quatre cellules haploïdes (les gamètes), réduisant ainsi de moitié le nombre de chromosomes.",
+  "flash_front": "Quelles sont les deux divisions successives qui caractérisent la méiose et quel est le rôle de chacune ?",
+  "flash_back": "La méiose est constituée de deux divisions successives : (1) la division réductionnelle, au cours de laquelle les paires de chromosomes homologues sont séparées, faisant passer la quantité d'ADN de 2q à q et produisant deux cellules haploïdes (chaque chromosome possède encore deux chromatides) ; (2) la division équationnelle, au cours de laquelle les chromatides de chaque chromosome sont séparées, faisant passer la quantité d'ADN de q à q/2 et aboutissant à quatre cellules haploïdes à partir d'une cellule diploïde initiale."
+}

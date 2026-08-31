@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-16",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit5",
+  "quiz_question": "L’immunité humorale est une immunité :",
+  "quiz_option_a": "spécifique.",
+  "quiz_option_b": "qui est assurée par les anticorps.",
+  "quiz_option_c": "nécessitant l’intervention des plasmocytes.",
+  "quiz_option_d": "nécessitant l’intervention des macrophages et des lymphocytes Tc.",
+  "quiz_answer": "nécessitant l’intervention des plasmocytes.",
+  "def_term": "Complexe Majeur d'Histocompatibilité (CMH)",
+  "def_text": "Les molécules du CMH sont des glycoprotéines membranaires présentes à la surface des cellules qui constituent les principaux marqueurs du soi. Elles permettent au système immunitaire de distinguer les cellules de l'organisme (le soi) des éléments étrangers (le non-soi) et jouent un rôle essentiel dans la surveillance immunitaire en exposant en permanence des fragments peptidiques du contenu cellulaire.",
+  "flash_front": "Quelles sont les deux phases de la réponse allergique et que se passe-t-il lors de chacune d'elles ?",
+  "flash_back": "La réponse allergique se déroule en deux phases : 1) Phase de sensibilisation : lors du premier contact avec l'allergène, le système immunitaire développe une réponse immunitaire à médiation humorale (RIMH) avec différenciation des LB en plasmocytes qui sécrètent des IgE. Ces IgE diffusent dans le milieu intérieur et se fixent sur les récepteurs membranaires des mastocytes. 2) Phase de réaction allergique immédiate : lors du deuxième contact avec le même allergène, celui-ci se lie aux IgE fixés sur les mastocytes, provoquant leur activation et la dégranulation (libération d'histamine). L'histamine provoque alors les symptômes de l'allergie : vasodilatation, contraction des muscles lisses, sécrétion de mucus."
+}

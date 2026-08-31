@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-16",
+  "quiz_level": "2BAC",
+  "quiz_unit": "unit3sp",
+  "quiz_question": "L'incinération est :",
+  "quiz_option_a": "la combustion des ordures dans des fours spécialisés à haute température.",
+  "quiz_option_b": "la biodégradation aérobie des ordures.",
+  "quiz_option_c": "la biodégradation anaérobie des ordures.",
+  "quiz_option_d": "un processus qui produit uniquement du lixiviat.",
+  "quiz_answer": "a",
+  "def_term": "Compostage",
+  "def_text": "Processus biologique aérobie de décomposition des matières organiques par des micro-organismes (bactéries, champignons) qui transforment les déchets organiques en un produit riche en composés humiques et en minéraux : le compost. Le compostage permet de valoriser les ordures ménagères organiques en un amendement naturel pour le sol.",
+  "flash_front": "Quelles sont les trois principales méthodes de valorisation des ordures ménagères organiques ?",
+  "flash_back": "1) Le compostage : décomposition aérobie produisant du compost. 2) La méthanisation : fermentation anaérobie produisant du biogaz (méthane). 3) L'incinération : combustion à haute température avec récupération d'énergie."
+}

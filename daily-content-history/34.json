@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-10",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit6",
+  "quiz_question": "La série métamorphique des roches argileuses résultante d’un métamorphisme de pression et de température croissantes est :",
+  "quiz_option_a": "argile → gneiss → schiste → micaschiste.",
+  "quiz_option_b": "argile → schiste → gneiss → micaschiste.",
+  "quiz_option_c": "argile → schiste → micaschiste → gneiss.",
+  "quiz_option_d": "argile → gneiss → micaschiste → schiste.",
+  "quiz_answer": "argile → schiste → micaschiste → gneiss.",
+  "def_term": "Métamorphisme",
+  "def_text": "Ensemble des changements structurels et minéralogiques qui se produisent sur une roche préexistante (sédimentaire ou magmatique) par l'action de la pression et de la température ou des deux. Le métamorphisme s'effectue à l'état solide de la roche.",
+  "flash_front": "Quels sont les trois types de métamorphisme et quel phénomène géologique est responsable de chacun ?",
+  "flash_back": "1. Métamorphisme de contact (thermique) : lié à l'élévation de la température (HT-BP), survient au contact des roches magmatiques, caractérisé par la formation d'auréoles de métamorphisme.\n2. Métamorphisme dynamique (de subduction) : lié à l'élévation de la pression (BT-HP), survient dans les zones de subduction.\n3. Métamorphisme thermodynamique ou général (régional) : lié à l'élévation de la pression et de la température (HT-MP), formé dans les grandes régions métamorphiques des zones de collision."
+}

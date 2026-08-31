@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-13",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit5",
+  "quiz_question": "Les lymphocytes B sont produits :",
+  "quiz_option_a": "dans le thymus et acquièrent leur compétence immunitaire dans la moelle osseuse.",
+  "quiz_option_b": "dans le thymus.",
+  "quiz_option_c": "dans la moelle osseuse et y acquièrent leur compétence immunitaire.",
+  "quiz_option_d": "dans la moelle osseuse et acquièrent leur compétence immunitaire dans le thymus.",
+  "quiz_answer": "dans la moelle osseuse et y acquièrent leur compétence immunitaire.",
+  "def_term": "CMH (Complexe Majeur d'Histocompatibilité)",
+  "def_text": "Le CMH, ou HLA chez l'Homme, désigne des glycoprotéines membranaires qui diffèrent d'un individu à l'autre et qui constituent les marqueurs majeurs du soi. Ces molécules, codées par des gènes situés sur le chromosome 6, jouent un rôle essentiel dans la prise ou le rejet des greffons et permettent la présentation permanente de peptides antigéniques aux cellules immunitaires, assurant ainsi la surveillance immunitaire.",
+  "flash_front": "Où sont produits les lymphocytes B et les lymphocytes T, et où acquièrent-ils leur compétence immunitaire (maturation) ?",
+  "flash_back": "Les lymphocytes B et T sont produits dans la moelle osseuse rouge. La maturation (acquisition de la compétence immunitaire) se fait différemment : les lymphocytes B acquièrent leur compétence immunitaire dans la moelle osseuse elle-même, tandis que les lymphocytes T migrent au thymus pour y acquérir leur compétence immunitaire."
+}

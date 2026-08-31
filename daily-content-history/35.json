@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-12",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit2",
+  "quiz_question": "Le plasmide est :",
+  "quiz_option_a": "L’un des chromosomes de la cellule végétale.",
+  "quiz_option_b": "Une mitochondrie dans la cellule bactérienne.",
+  "quiz_option_c": "L’ADN principal des cellules bactériennes.",
+  "quiz_option_d": "Une petite molécule d’ADN circulaire chez la bactérie.",
+  "quiz_answer": "Une petite molécule d’ADN circulaire chez la bactérie.",
+  "def_term": "Code génétique",
+  "def_text": "Le code génétique est le système de correspondance entre les 64 triplets de nucléotides (codons) de l'ARNm et les 20 acides aminés. Il est universel (identique chez tous les êtres vivants), redondant (plusieurs codons peuvent coder le même acide aminé) et contient 3 codons stop non sens.",
+  "flash_front": "Quelles sont les quatre phases de la mitose et que se passe-t-il dans chacune d'elles ?",
+  "flash_back": "1) Prophase : condensation des chromosomes, disparition de l'enveloppe nucléaire, formation du fuseau mitotique. 2) Métaphase : condensation maximale des chromosomes, positionnement des centromères à l'équateur (plaque équatoriale). 3) Anaphase : séparation des chromatides de chaque chromosome par rupture du centromère, migration vers les pôles. 4) Télophase : décondensation des chromosomes, formation de l'enveloppe nucléaire autour de chaque lot, cytodiérèse (division du cytoplasme)."
+}

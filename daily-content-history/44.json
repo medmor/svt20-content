@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-21",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit3sp",
+  "quiz_question": "Les ordures ménagères :",
+  "quiz_option_a": "sont constitués par l'ensemble des déchets produits par l'industrie pétrolière.",
+  "quiz_option_b": "sont constitués par l'ensemble des déchets produits par les activités domestiques.",
+  "quiz_option_c": "sont constitués par l'ensemble des déchets produit par l'industrie nucléaire.",
+  "quiz_option_d": "sont constitués par l'ensemble des déchets produit par l'activité volcanique.",
+  "quiz_answer": "sont constitués par l'ensemble des déchets produits par les activités domestiques.",
+  "def_term": "Compostage",
+  "def_text": "Le compostage est un processus biologique réalisé grâce aux micro-organismes aérobies, qui transforment la matière organique en un produit riche en composés humiques et en minéraux appelé le compost. Ce procédé permet la valorisation des déchets organiques et la réduction du volume des déchets.",
+  "flash_front": "Quelles sont les principales techniques de traitement des ordures ménagères et leurs avantages ?",
+  "flash_back": "Les principales techniques de traitement des ordures ménagères sont : le tri sélectif (séparation des déchets selon leur nature à domicile et dans des centres de tri), le compostage (dégradation aérobie de la matière organique par des micro-organismes pour produire du compost), la production du biogaz (méthanisation anaérobie de la matière organique produisant un gaz combustible riche en méthane), l'incinération (combustion à haute température réduisant le volume des déchets de 90% avec production d'énergie), et l'enfouissement en décharges contrôlées (stockage des déchets ultimes dans des alvéoles étanches équipées de drains pour les lixiviats)."
+}

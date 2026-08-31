@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-20",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit3",
+  "quiz_question": "La méiose produit :",
+  "quiz_option_a": "4 cellules haloïdes à partir d’une cellule diploïde.",
+  "quiz_option_b": "2 cellules diploïdes à partir d’une cellule diploïde.",
+  "quiz_option_c": "4 cellules diploïdes à partir d’une cellule diploïde.",
+  "quiz_option_d": "2 cellules haploïdes à partir d’une cellule diploïde.",
+  "quiz_answer": "4 cellules haloïdes à partir d’une cellule diploïde.",
+  "def_term": "Méiose",
+  "def_text": "La méiose est une succession de deux divisions cellulaires (division réductionnelle et division équationnelle) qui permet la production de cellules haploïdes (gamètes) à partir d'une cellule diploïde, en réduisant le nombre de chromosomes de moitié.",
+  "flash_front": "Quels sont les deux types de brassage génétique assurés par la méiose et comment contribuent-ils à la diversité génétique ?",
+  "flash_back": "La méiose assure deux types de brassage génétique : 1) Le brassage intrachromosomique : lors de la prophase I, les chromosomes homologues échangent des fragments de chromatides au niveau des chiasmas (crossing-over), créant de nouvelles combinaisons d'allèles sur les chromatides remaniées. 2) Le brassage interchromosomique : lors de l'anaphase I, la migration aléatoire et indépendante des chromosomes homologues vers les pôles de la cellule conduit à 2^n combinaisons différentes de gamètes (2^23 chez l'Homme). Ces deux brassages s'ajoutent pour produire des gamètes d'une diversité potentiellement infinie, qui est ensuite amplifiée par la rencontre aléatoire des gamètes lors de la fécondation."
+}

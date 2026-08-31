@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-15",
+  "quiz_level": "2BAC",
+  "quiz_unit": "unit3",
+  "quiz_question": "Une personne atteinte du syndrome de Down possède :",
+  "quiz_option_a": "le chromosome 22 en un seul exemplaire.",
+  "quiz_option_b": "le chromosome 21 en trois exemplaires.",
+  "quiz_option_c": "le chromosome 22 en trois exemplaires.",
+  "quiz_option_d": "le chromosome 21 en un seul exemplaire.",
+  "quiz_answer": "b",
+  "def_term": "Brassage intrachromosomique",
+  "def_text": "Mécanisme de recombinaison génétique qui se produit pendant la prophase I de la méiose, lors du crossing-over. Il correspond à l'échange de fragments de chromatides entre chromosomes homologues appariés, créant de nouvelles combinaisons d'allèles sur un même chromosome et augmentant la diversité génétique des gamètes.",
+  "flash_front": "Quelle est la différence entre une maladie autosomale et une maladie liée au sexe ?",
+  "flash_back": "Une maladie autosomale est déterminée par un gène porté par un autosome (chromosome non sexuel) et affecte equally hommes et femmes. Une maladie liée au sexe est déterminée par un gène porté par un chromosome sexuel (X ou Y), affectant souvent différemment les hommes et les femmes (ex: daltonisme lié à X)."
+}

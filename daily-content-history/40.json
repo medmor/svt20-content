@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-17",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit6",
+  "quiz_question": "L’auréole de métamorphisme est une zone qui entoure le granite :",
+  "quiz_option_a": "intrusif et résulte d’un métamorphisme de contact.",
+  "quiz_option_b": "d’anatexie et résulte d’un métamorphisme de contact.",
+  "quiz_option_c": "intrusif et résulte d’un métamorphisme régional.",
+  "quiz_option_d": "d’anatexie et résulte d’un métamorphisme régional.",
+  "quiz_answer": "intrusif et résulte d’un métamorphisme de contact.",
+  "def_term": "Auréole de métamorphisme",
+  "def_text": "Zone de roches métamorphiques formant une ceinture autour d'une intrusion magmatique (comme le granite intrusif), résultant d'un métamorphisme de contact provoqué par la chaleur émise par le magma lors de sa remontée à travers les roches encaissantes.",
+  "flash_front": "Quels sont les trois types de métamorphisme et à quels contextes géodynamiques sont-ils associés ?",
+  "flash_back": "1. Métamorphisme de contact (thermique) : lié à l'élévation de la température (HT-BP), survient au contact des roches magmatiques, caractérisé par des auréoles métamorphiques.\n2. Métamorphisme dynamique (de subduction) : lié à l'élévation de la pression (BT-HP), se produit dans les zones de subduction où la pression augmente fortement alors que la température reste faible.\n3. Métamorphisme thermodynamique (régional) : lié à l'élévation conjointe de la pression et de la température (HT-MP), forme de grandes régions métamorphiques dans les zones de collision."
+}

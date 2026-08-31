@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-09",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit5",
+  "quiz_question": "Les lymphocytes Tc reconnaissent les cellules infectées suite à la liaison :",
+  "quiz_option_a": "Du récepteur T et du marqueur CD4 avec le déterminant antigénique et le CMHI.",
+  "quiz_option_b": "Du récepteur T et du marqueur CD8 avec le déterminant antigénique et le CMHI.",
+  "quiz_option_c": "Du récepteur T et du marqueur CD4 avec le déterminant antigénique et le CMHII.",
+  "quiz_option_d": "Du récepteur T et du marqueur CD8 avec le déterminant antigénique et le CMHII.",
+  "quiz_answer": "Du récepteur T et du marqueur CD8 avec le déterminant antigénique et le CMHI.",
+  "def_term": "Complexe Majeur d'Histocompatibilité (CMH)",
+  "def_text": "Glycoprotéines membranaires présentes à la surface des cellules, codées par des gènes polymorphes sur le chromosome 6. Elles diffèrent d'une personne à une autre et constituent les principaux déterminants de la prise ou du rejet de greffons tissulaires. On distingue le CMH I (présent sur toutes les cellules nucléées) et le CMH II (présent uniquement sur certaines cellules immunitaires comme les CPA).",
+  "flash_front": "Quels sont les rôles des lymphocytes T4 dans la réponse immunitaire spécifique ?",
+  "flash_back": "Les lymphocytes T4 sont les pivots des réactions immunitaires spécifiques. Après reconnaissance d'une cellule présentatrice d'antigène (CPA) via le couple TCR-CD4/CMH-II-déterminant antigénique, les LT4 spécifiques se différencient en LT4 sécréteurs d'interleukines. Ces interleukines stimulent la multiplication et la différenciation des lymphocytes B (en plasmocytes) et des lymphocytes T8 (en LT cytotoxiques). Une autre partie des LT4 se différencie en LT4 mémoire, assurant une réponse plus rapide et efficace lors d'un second contact avec l'antigène."
+}

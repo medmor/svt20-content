@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-06",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit5",
+  "quiz_question": "Le facteur complément :",
+  "quiz_option_a": "est produit par les plasmocytes.",
+  "quiz_option_b": "intervient dans l'immunité spécifique cellulaire.",
+  "quiz_option_c": "est produit par les lymphocytes cytotoxiques.",
+  "quiz_option_d": "intervient dans la réaction inflammatoire.",
+  "quiz_answer": "intervient dans la réaction inflammatoire.",
+  "def_term": "Complexe Majeur d'Histocompatibilité (CMH)",
+  "def_text": "Le Complexe Majeur d'Histocompatibilité (CMH) est un ensemble de glycoprotéines membranaires présentes à la surface de toutes les cellules nucleées, qui diffèrent d'une personne à une autre et constituent les principaux déterminants de l'acceptation ou du rejet de greffons tissulaires entre individus.",
+  "flash_front": "Quels sont les rôles des anticorps ?",
+  "flash_back": "Les anticorps assurent trois fonctions essentielles : la neutralisation de l'antigène par opsonisation (formation du complexe immun), la facilitation de la phagocytose car les phagocytes possèdent des récepteurs pour le Fc des anticorps, et l'activation du complément."
+}

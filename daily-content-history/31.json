@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-07",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit3sp",
+  "quiz_question": "Les déchets radioactifs du type B sont de :",
+  "quiz_option_a": "forte activité radioactive et de courte durée de vie.",
+  "quiz_option_b": "forte activité radioactive et de longue durée de vie.",
+  "quiz_option_c": "faible activité radioactive et de courte durée de vie.",
+  "quiz_option_d": "faible activité radioactive et de longue durée de vie.",
+  "quiz_answer": "forte activité radioactive et de courte durée de vie.",
+  "def_term": "Demi-vie (période radioactive)",
+  "def_text": "La demi-vie correspond à la durée au bout de laquelle la quantité des nucléides radioactifs, présents dans l'échantillon de départ, est réduite de moitié. Elle caractérise la vitesse de désintégration d'un élément radioactif.",
+  "flash_front": "Comment classe-t-on les déchets radioactifs et quelles sont les différentes catégories ?",
+  "flash_back": "Les déchets radioactifs sont classés en fonction de deux critères : leur niveau de radioactivité (faible, moyenne, haute activité) et leur durée de vie (courte ou longue). On distingue ainsi : la catégorie A (déchets de faible/moyenne activité à courte durée de vie), la catégorie B (déchets de faible/moyenne activité à longue durée de vie), et la catégorie C (déchets de haute activité, quelle que soit leur durée de vie). Le stockage de ces déchets se fait par confinement dans du verre ou du béton, placés dans des colis stockés loin des habitations."
+}

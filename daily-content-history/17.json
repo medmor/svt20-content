@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-22",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit3",
+  "quiz_question": "Le brassage intrachromosomique se traduit par :",
+  "quiz_option_a": "l'échange des fragments entre les chromosomes non homologues de la prophase I.",
+  "quiz_option_b": "l'échange des fragments entre les chromosomes homologues lors de la prophase I.",
+  "quiz_option_c": "la séparation aléatoire des chromosomes homologues lors de l'anaphase I.",
+  "quiz_option_d": "la séparation aléatoire des chromosomes non homologue lors de l'anaphase I.",
+  "quiz_answer": "l'échange des fragments entre les chromosomes homologues lors de la prophase I.",
+  "def_term": "Phénotype",
+  "def_text": "L'ensemble des caractères observables d'un organisme (morphologiques, physiologiques, biochimiques, comportementaux...). Le phénotype résulte de l'interaction entre le génotype de l'individu et son environnement.",
+  "flash_front": "Qu'est-ce que le brassage interchromosomique ?",
+  "flash_back": "C'est la séparation aléatoire et indépendante des chromosomes homologues lors de l'anaphase I de la méiose. Chaque chromosome d'une paire migre indépendamment vers l'un des deux pôles, ce qui produit 2^n combinaisons chromosomiques différentes (2^23 chez l'Homme)."
+}

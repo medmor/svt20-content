@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-02",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit5",
+  "quiz_question": "La perforine est produite par :",
+  "quiz_option_a": "les Tc.",
+  "quiz_option_b": "les LB.",
+  "quiz_option_c": "les macrophages.",
+  "quiz_option_d": "les LT4.",
+  "quiz_answer": "les Tc.",
+  "def_term": "Complexe Majeur d'Histocompatibilité (CMH)",
+  "def_text": "Le CMH est un ensemble de glycoprotéines membranaires présentes à la surface de toutes les cellules nucléées (CMH I) ou de certaines cellules immunitaires (CMH II). Ces molécules constituent les marqueurs majeurs du soi et permettent au système immunitaire de différencier les cellules de l'organisme des éléments étrangers.",
+  "flash_front": "Quelles sont les quatre étapes de la phagocytose ?",
+  "flash_back": "La phagocytose se déroule en quatre étapes essentielles : 1) Adhésion : la membrane du phagocyte adhère à la particule étrangère. 2) Absorption : le phagocyte émet des pseudopodes qui entourent le micro-organisme et forment une vésicule d'endocytose appelée phagosome. 3) Digestion : les lysosomes fusionnent avec le phagosome et y déversent leurs enzymes digestives, formant un phagolysosome. 4) Rejet des débris cellulaires : les débris du micro-organisme sont rejetés en dehors de la cellule."
+}

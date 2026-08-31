@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-14",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit6",
+  "quiz_question": "Les chaînes de subduction résultent de l’enfouissement d’une lithosphère :",
+  "quiz_option_a": "océanique moins dense sous une lithosphère continentale plus dense.",
+  "quiz_option_b": "continentale moins dense sous une lithosphère océanique plus dense.",
+  "quiz_option_c": "océanique plus dense sous une lithosphère continentale moins dense.",
+  "quiz_option_d": "continentale plus dense sous une lithosphère océanique moins dense.",
+  "quiz_answer": "océanique plus dense sous une lithosphère continentale moins dense.",
+  "def_term": "Plan de Bénioff",
+  "def_text": "Le plan de Bénioff est la surface inclinée le long de laquelle la lithosphère océanique plonge sous la lithosphère continentale (ou océanique) dans une zone de subduction. La profondeur des foyers sismiques augmente au fur et à mesure que l'on s'éloigne de la fosse océanique, ce qui permet de matérialiser ce plan.",
+  "flash_front": "Quelles sont les étapes de formation d'une chaîne de subduction (exemple des Andes) ?",
+  "flash_back": "1) Suite aux contraintes tectoniques compressives, la plaque océanique plus dense se brise et s'enfonce lentement sous la lithosphère continentale moins dense. 2) Au niveau de la zone d'affrontement se crée une fosse océanique et un prisme d'accrétion formé par les sédiments marins raclés par la plaque chevauchante. 3) En profondeur, la croûte océanique subit des pressions et températures croissantes : elle se métamorphose et libère de l'eau qui provoque la fusion partielle de la péridotite, générant un magma andésitique. 4) La surrection du relief se produit par épaississement et raccourcissement de la croûte continentale sous l'effet des contraintes compressives."
+}

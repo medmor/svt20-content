@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-14",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit3sp",
+  "quiz_question": "Le biocarburant :",
+  "quiz_option_a": "est produit par la fermentation aérobie de la matière organique.",
+  "quiz_option_b": "est produit par la fermentation anaérobie de la matière organique.",
+  "quiz_option_c": "est une énergie renouvelable.",
+  "quiz_option_d": "est une énergie fossile.",
+  "quiz_answer": "est une énergie renouvelable.",
+  "def_term": "Eutrophisation",
+  "def_text": "L'eutrophisation est un phénomène de pollution des eaux causé par l'enrichissement en azote et en phosphore provenant des rejets domestiques et des engrais agricoles, provoquant une prolifération excessive d'algues et de plantes aquatiques qui entraîne l'épuisement de l'oxygène dissous et la dégradation des écosystèmes aquatiques.",
+  "flash_front": "Quels sont les principaux types d'énergies renouvelables et leurs sources ?",
+  "flash_back": "Les principaux types d'énergies renouvelables sont : l'énergie solaire (captée par panneaux photovoltaïques ou thermiques à partir de la lumière du soleil), l'énergie éolienne (force cinétique du vent convertie par des éoliennes), l'énergie hydraulique (force motrice de l'eau dans les barrages), les biocarburants (extraits de la matière organique végétale fraîche, comme le bioéthanol et le bio-méthane), et l'énergie géothermique (chaleur des couches géologiques de la croûte terrestre)."
+}

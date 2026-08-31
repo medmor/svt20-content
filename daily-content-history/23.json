@@ -1,0 +1,15 @@
+{
+  "date": "2026-04-28",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit2",
+  "quiz_question": "La mutation :",
+  "quiz_option_a": "Ne se produit pas dans les cellules végétatives de l’organisme.",
+  "quiz_option_b": "Peut se produire dans toute cellule de l’organisme.",
+  "quiz_option_c": "Il en résulte toujours un nouvel allèle du gène.",
+  "quiz_option_d": "Elle est toujours prévisible.",
+  "quiz_answer": "Il en résulte toujours un nouvel allèle du gène.",
+  "def_term": "Réplication semi-conservative",
+  "def_text": "Mode de réplication de l'ADN où chaque molécule fille contient un brin parental conservé et un brin néoformé.",
+  "flash_front": "Qu'est-ce que les yeux de réplication ?",
+  "flash_back": "Ce sont les zones de dédoublement de l'hélice d'ADN où se déroule la réplication. Ils apparaissent au cours de la phase S de l'interphase."
+}

@@ -1,0 +1,15 @@
+{
+  "date": "2026-06-24",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit3",
+  "quiz_question": "Si un individu présente un phénotype différent de celui de ses parents, cela s’explique par le fait que :",
+  "quiz_option_a": "l’allèle qui contrôle le phénotype considéré est obligatoirement situé sur le chromosome X.",
+  "quiz_option_b": "l’allèle qui contrôle le phénotype considéré est obligatoirement situé sur un autosome.",
+  "quiz_option_c": "les parents de cet individu sont hétérozygotes.",
+  "quiz_option_d": "l’allèle responsable du phénotype est dominant.",
+  "quiz_answer": "les parents de cet individu sont hétérozygotes.",
+  "def_term": "La lignée pure",
+  "def_text": "Une population qui produit, par croisements ou autofécondation, des descendants toujours semblables entre eux et aux géniteurs pour une caractéristique donnée. Elle est toujours homozygote et produit une seule catégorie de gamètes.",
+  "flash_front": "Quels sont les deux mécanismes de brassage génétique au cours de la méiose ?",
+  "flash_back": "Le brassage intrachromosomique : lors de la prophase I, les échanges de fragments de chromatides entre chromosomes homologues (crossing-over) au niveau des chiasmas produisent de nouvelles combinaisons d'allèles. Le brassage interchromosomique : lors de l'anaphase I, la migration aléatoire et indépendante des chromosomes homologues vers les pôles conduit à 2^n combinaisons de gamètes différentes."
+}

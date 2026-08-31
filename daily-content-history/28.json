@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-04",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit1",
+  "quiz_question": "L'activité de la chaîne respiratoire conduit à :",
+  "quiz_option_a": "une augmentation de la concentration des protons dans la matrice.",
+  "quiz_option_b": "un équilibre de la concentration des protons entre l'espace inter-membranaire et la matrice.",
+  "quiz_option_c": "une augmentation de la concentration des protons dans l'espace inter-membranaire.",
+  "quiz_option_d": "une diminution de la concentration des protons dans l'espace inter-membranaire.",
+  "quiz_answer": "une augmentation de la concentration des protons dans l'espace inter-membranaire.",
+  "def_term": "Chaîne respiratoire",
+  "def_text": "Ensemble de complexes protéiques situés dans la membrane interne de la mitochondrie qui transportent les électrons issus de l'oxydation des coenzymes réduits (NADH,H⁺ et FADH₂) jusqu'à l'accepteur final O₂, en pompant des protons H⁺ de la matrice vers l'espace inter-membranaire pour former un gradient de protons.",
+  "flash_front": "Quelles sont les trois voies de régénération de l'ATP dans les cellules musculaires ?",
+  "flash_back": "1. Voie rapide anaérobie alactique : par hydrolyse de la créatine phosphate (CP + ADP → ATP + C) et la réaction ADP + ADP → ATP + AMP. 2. Voie lente anaérobie lactique : par la fermentation lactique produisant de l'acide lactique. 3. Voie lente aérobie : par la respiration cellulaire, la plus efficace, intervenant au repos et lors des activités musculaires prolongées."
+}

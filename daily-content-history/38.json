@@ -1,0 +1,15 @@
+{
+  "date": "2026-05-15",
+  "quiz_level": "2bac",
+  "quiz_unit": "unit4",
+  "quiz_question": "La sélection naturelle entraîne la modification génétique d’une population sous l’effet :",
+  "quiz_option_a": "de facteurs environnementaux.",
+  "quiz_option_b": "de la dérive génétique.",
+  "quiz_option_c": "de facteurs mutagènes.",
+  "quiz_option_d": "du hasard.",
+  "quiz_answer": "de facteurs environnementaux.",
+  "def_term": "Pool génique (ou pool génétique)",
+  "def_text": "Ensemble des allèles présents sur les locus des gènes de tous les individus d'une population. Il constitue le génome collectif de la population et reflète sa diversité génétique.",
+  "flash_front": "Quelles sont les conditions d'une population théorique idéale selon la loi de Hardy-Weinberg ?",
+  "flash_back": "Les conditions sont : population d'organismes diploïdes à reproduction sexuée sans chevauchement entre générations ; effectif infini ; croisements au hasard (panmixie) ; gamètes se rencontrant au hasard (pangamie) ; population fermée génétiquement (pas de migration) ; égale capacité de reproduction et de survie des descendants ; absence de mutation et d'anomalies méiotiques."
+}
