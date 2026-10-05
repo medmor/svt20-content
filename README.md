@@ -12,8 +12,10 @@ svt20-content/
 ├── exercises/         # Chapter exercises
 ├── exams/            # Exam exercises (year/branch/session/)
 ├── images/
-│   ├── figures/       # Chapter figures (level/unit/chapter/...)
-│   └── exams/        # Exam images (sm/sp/svt/yearSession/)
+│   ├── chapters/{level}/{unit}/{chapter}/   # Chapter figures (mirrors chapters/)
+│   ├── exercises/{level}/{unit}/{chapter}/{exercise}/  # Exercise images (mirrors exercises/)
+│   ├── exams/{branch}/{yearSession}/        # Exam images (e.g. sm/2016NormalSM/)
+│   └── figures/       # Figures annex (levelN/unitN/chapterN/..., pinned by figures.json + svt20 DB)
 └── index.json        # Full content index
 ```
 
@@ -22,7 +24,8 @@ svt20-content/
 
 ## Image CDN URLs
 
-- **Chapter figures:** `https://medmor.github.io/svt20-content/images/figures/{level}/{unit}/{chapter}/...`
+- **Chapter figures:** `https://medmor.github.io/svt20-content/images/chapters/{level}/{unit}/{chapter}/...`
+- **Exercise images:** `https://medmor.github.io/svt20-content/images/exercises/{level}/{unit}/{chapter}/{exercise}/...`
 - **Exam images:** `https://medmor.github.io/svt20-content/images/exams/{branch}/{yearSession}/...`
 
 ## Exam HTML Files
