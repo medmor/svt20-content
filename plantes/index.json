@@ -196,5 +196,14 @@
     "summary": "Sous-arbrisseau méditerranéen au nom latin salvare (« sauver »). Plante sacrée de l'Antiquité, recommandée par Charlemagne. Féminine (anti-bouffées de chaleur), cognitive (mémoire, anti-Alzheimer potentiel), antiseptique et digestive. Contient de la thuyone (neurotoxique à haute dose).",
     "image": "/plantes/images/sauge-officinale.jpg",
     "tags": ["féminine", "ménopause", "cognitive", "mémoire", "antiseptique", "digestive", "Lamiaceae", "Méditerranée", "thuyone", "phytoestrogènes", "calendrier-républicain"]
+  },
+  {
+    "slug": "ortie-dioique",
+    "name": "Ortie dioïque",
+    "scientific_name": "Urtica dioica",
+    "family": "Urticaceae",
+    "summary": "Plante vivace à poils urticants, exceptionnellement riche en fer, silice, calcium et vitamines. Diurétique douce, reminéralisante et dépurative, utilisée en tisane, potage et cosmétique capillaire.",
+    "image": "/plantes/images/ortie-dioique.jpg",
+    "tags": ["diurétique", "reminéralisante", "fer", "dépurative", "nutrition", "cheveux", "printemps"]
   }
 ]

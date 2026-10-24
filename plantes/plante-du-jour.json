@@ -1,13 +1,13 @@
 {
-  "slug": "sauge-officinale",
-  "name": "Sauge officinale",
-  "scientific_name": "Salvia officinalis",
-  "family": "Lamiaceae",
-  "image": "/plantes/images/sauge-officinale.jpg",
+  "slug": "ortie-dioique",
+  "name": "Ortie dioïque",
+  "scientific_name": "Urtica dioica",
+  "family": "Urticaceae",
+  "image": "/plantes/images/ortie-dioique.jpg",
   "benefits": [
-    "Féminine et anti-bouffées de chaleur — phytoestrogènes contre les troubles de la ménopause et sueurs excessives (recepteurs GABA/benzodiazépines)",
-    "Cognitive et mémoire — inhibe l'acétylcholinestérase, potentiel anti-Alzheimer (Kavvadias 2003, récepteurs cérébraux des benzodiazépines)",
-    "Antiseptique et digestive — gargarisme contre angines et gingivites ; blanchiment dentaire (étude 2021) ; tonique digestif et antispasmodique"
+    "Diurétique douce et dépurative — favorise l'élimination rénale sans perte excessive de potassium",
+    "Reminéralisante et antianémique — riche en fer, silice, calcium, magnésium, vitamines A, C, K",
+    "Prostate et appareil urinaire — extrait de racine utilisé dans l'hyperplasie prostatique bénigne (symptômes du bas appareil urinaire)"
   ],
   "has_full_article": true
 }
